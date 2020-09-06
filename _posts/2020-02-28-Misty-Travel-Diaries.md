@@ -17,7 +17,7 @@ comments: true
 | [Europe, 2017](https://tarunpreet-kaur.github.io/2020-02-28-Misty-Travel-Diaries-Europe2017/) | Netherlands<br />Belgium<br />Germany<br />Austria | * Netherlands::Amsterdam, Zaanse Schans, Giethoorn<br />* Belgium::Bruges<br />* Germany::Cologne, Munich<br />* Austria::Vienna, Salzburg, Kaprun, Zell am See | June, 2017 | 13   |  |
 | Bhutan-2019 | Bhutan                                             | * Thimphu, Punakha, Paro                                     | June, 2019 | 8    |  |
 
-**International Travel Itineraries up-coming**
+**International Travel Itineraries  coming-up**
 
 | Holiday      | Where                               | Cities                                                       | When      | Days | Highlights |
 | :----------- | :---------------------------------- | ------------------------------------------------------------ | --------- | ---- | ---------- |
@@ -27,7 +27,7 @@ comments: true
 | USA-East     | USA                                 | * NY<br /><br />* NJ<br />* Washington DC                    | Mar, 2003 |      |            |
 | Europe, 2007 | France<br />Italy<br />Vatican City | * France::Paris, Nice, Cannes, Monaco Monte Carlo<br />* Italy::Rome, Venice<br />* Vatican City |           |      |            |
 
-**Indian Travel Itineraries up-coming**
+**Indian Travel Itineraries coming-up**
 
 | Holiday       | State/UT                                     | Cities                                                       | When       | Days | Highlights |
 | :------------ | :------------------------------------------- | ------------------------------------------------------------ | ---------- | ---- | ---------- |
