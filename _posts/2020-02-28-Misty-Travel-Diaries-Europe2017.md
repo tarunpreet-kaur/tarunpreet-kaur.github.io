@@ -42,11 +42,11 @@ Netherlands::Amsterdam
 
 Netherlands::Zaanse Schans
 
-| <img src="../assets/img/Europe 2017/1-Neth-1-Zaanse-1.JPG" alt="1-Neth-1-Zaanse-1" style="zoom:150%;" /> | <img src="../assets/img/Europe 2017/1-Neth-1-Zaanse-2.JPG" alt="1-Neth-1-Zaanse-2" style="zoom:150%;" /> | <img src="../assets/img/Europe 2017/1-Neth-1-Zaanse-5.JPG" alt="1-Neth-1-Zaanse-5" style="zoom:150%;" /> |
+| ![1-Neth-1-Zaanse-1](../assets/img/Europe 2017/1-Neth-1-Zaanse-1.JPG) | <img src="../assets/img/Europe 2017/1-Neth-1-Zaanse-2.JPG" alt="1-Neth-1-Zaanse-2"  /> | <img src="../assets/img/Europe 2017/1-Neth-1-Zaanse-5.JPG" alt="1-Neth-1-Zaanse-5"  /> |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
-| <img src="../assets/img/Europe 2017/1-Neth-1-Zaanse-4.JPG" alt="1-Neth-1-Zaanse-4" style="zoom: 67%;" /> | ![1-Neth-1-Zaanse-3](../assets/img/Europe 2017/1-Neth-1-Zaanse-3.JPG) | ![1-Neth-1-Zaanse-6](../assets/img/Europe 2017/1-Neth-1-Zaanse-6.JPG) |
+| ![1-Neth-1-Zaanse-9](../assets/img/Europe 2017/1-Neth-1-Zaanse-9.JPG) | ![1-Neth-1-Zaanse-3](../assets/img/Europe 2017/1-Neth-1-Zaanse-3.JPG) | ![1-Neth-1-Zaanse-6](../assets/img/Europe 2017/1-Neth-1-Zaanse-6.JPG) |
 | ![1-Neth-1-Zaanse-7](../assets/img/Europe 2017/1-Neth-1-Zaanse-7.JPG) | ![1-Neth-1-Zaanse-8](../assets/img/Europe 2017/1-Neth-1-Zaanse-8.JPG) | ![1-Neth-1-Zaanse-10](../assets/img/Europe 2017/1-Neth-1-Zaanse-10.JPG) |
-|                                                              |                                                              |                                                              |
+| ![1-Neth-1-Zaanse-4](../assets/img/Europe 2017/1-Neth-1-Zaanse-4.JPG) |                                                              |                                                              |
 
 
 
