@@ -10,39 +10,43 @@ comments: true
 
 **Instagram: @mistytraveldiaries**
 
-|
-|
-|
+**International Travel Itineraries available**
 
-**Travel Itineraries available**
+| Holiday | Where                                              | Cities | When | Days | Highlights |
+| :------ |:--- | ------- | ------- | ------- | ------- |
+| [Europe, 2017](https://tarunpreet-kaur.github.io/2020-02-28-Misty-Travel-Diaries-Europe2017/) | Netherlands<br />Belgium<br />Germany<br />Austria | * Netherlands::Amsterdam, Zaanse Schans, Giethoorn<br />* Belgium::Bruges<br />* Germany::Cologne, Munich<br />* Austria::Vienna, Salzburg, Kaprun, Zell am See | June, 2017 | 13   |  |
+| Bhutan-2019 | Bhutan                                             | * Thimphu, Punakha, Paro                                     | June, 2019 | 8    |  |
 
-| Holiday | Where  | Cities | When | Budget |
-| :------ |:--- | ------- | ------- | ------- |
-| [Europe-2017](https://tarunpreet-kaur.github.io/2020-02-28-Misty-Travel-Diaries-Europe2017/) | Europe | * Netherlands::Amsterdam, Zaanse Schans, Giethoorn<br />* Belgium::Bruges<br />* Germany::Cologne, Munich<br />* Austria::Vienna, Salzburg, Kaprun, Zell am See | June, 2017 |        |
-| Bhutan-2019 | Bhutan | * Thimphu, Punakha, Paro                                     | June, 2019 |        |
-|                                                              |        |                                                              |            |        |
-|                                                              |        |  |  |  |
-|                                                              |        |  |  |  |
+**International Travel Itineraries up-coming**
 
-**Travel Itineraries up-coming**
+| Holiday      | Where                               | Cities                                                       | When      | Days | Highlights |
+| :----------- | :---------------------------------- | ------------------------------------------------------------ | --------- | ---- | ---------- |
+| Bali         | Indonesia                           | *                                                            |           |      |            |
+| Thailand     | Bhutan                              | *                                                            |           |      |            |
+| Singapore    | Singapore                           |                                                              |           |      |            |
+| USA-East     | USA                                 | * NY<br /><br />* NJ<br />* Washington DC                    | Mar, 2003 |      |            |
+| Europe, 2007 | France<br />Italy<br />Vatican City | * France::Paris, Nice, Cannes, Monaco Monte Carlo<br />* Italy::Rome, Venice<br />* Vatican City |           |      |            |
 
-| Holiday       | Where     | Cities                                             | When | Budget |
-| :------------ | :-------- | -------------------------------------------------- | ---- | ------ |
-| Bali          | Indonesia | *                                                  |      |        |
-| Thailand      | Bhutan    | *                                                  |      |        |
-| Singapore     | Singapore |                                                    |      |        |
-| Ladakh,       | India     |                                                    |      |        |
-| Kashmir       | India     |                                                    |      |        |
-| North East-1  | India     | Arunachal Prashesh::<br />Assam::<br />Meghalaya:: |      |        |
-| North East-2  | India     |                                                    |      |        |
-| Goa           | India     |                                                    |      |        |
-| Uttarakhand   | India     | * Jim Corbett, Ranikhet, Nainital                  |      |        |
-| Rajasthan-1   | India     | * Jaipur, Udaipur, Jaisalmer, Pushkar              |      |        |
-| Rajasthan-2   | India     | * Ranthambore                                      |      |        |
-| Gujarat & Diu | India     |                                                    |      |        |
-| Kerala        | India     |                                                    |      |        |
-| Rajasthan-3   | India     | * Bharatpur                                        |      |        |
+**Indian Travel Itineraries up-coming**
 
+| Holiday       | State/UT                                     | Cities                                                       | When       | Days | Highlights |
+| :------------ | :------------------------------------------- | ------------------------------------------------------------ | ---------- | ---- | ---------- |
+| Leh-Ladakh    | Ladakh                                       |                                                              | Sep, 2015? |      |            |
+| Kashmir       | India                                        |                                                              | Aug, 2018? |      |            |
+| North East-1  | Arunachal Pradesh,<br />Assam<br />Meghalaya | * Arunachal Pradesh::<br />* Assam::<br />* Meghalaya::Shillong, Cherrapunji, Mawlynnong, Mawphlang | Jun, 2016  |      |            |
+| North East-2  | West Bengal,<br />Sikkim                     | * West Bengal:: Darjeeling<br />* Sikkim::Gangtok, Pelling, Tashiding | Dec, 2018? |      |            |
+| Goa           | Goa                                          |                                                              |            |      |            |
+| Uttarakhand   | Uttarakhand                                  | * Jim Corbett, Ranikhet, Nainital                            |            |      |            |
+| Rajasthan     | Rajasthan                                    | * Jaipur, Udaipur, Jaisalmer, Pushkar                        |            |      |            |
+| Ranthambore   | Rajasthan                                    | * Ranthambore                                                | Dec, 2019  |      |            |
+| Bharatpur     | Rajasthan                                    | * Bharatpur                                                  | Aug, 2019  |      |            |
+| Gujarat & Diu | Gujarat<br />Diu                             |                                                              |            |      |            |
+| Kerala        | India                                        |                                                              |            |      |            |
+| New Delhi     | Delhi                                        |                                                              |            |      |            |
+| Maharashtra   | Maharashtra                                  | * Khandala, Mumbai                                           |            |      |            |
+| Manali        | India                                        |                                                              |            |      |            |
+| Shimla        | Himachal Pradesh                             | * Shimla                                                     |            |      |            |
+| Mussoorie     | Uttarakhand                                  | * Mussoorie                                                  |            |      |            |
 
 How about a yummy crepe?
 
