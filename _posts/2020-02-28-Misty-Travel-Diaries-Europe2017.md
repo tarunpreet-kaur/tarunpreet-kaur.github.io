@@ -26,7 +26,7 @@ comments: true
 * **When:** June, 2019
 * **Days:** 13
 * **Budget:** 
-* **Download Itinerary:** [Itinerary Europe 2017.pptx](..\..\..\..\Users\kaur\Desktop\inst\_Travel Documents\2017 Europe\Itinerary Europe 2017.pptx) 
+* **Download Itinerary:**  [Itinerary Europe 2017.pdf](..\..\..\..\Users\kaur\Desktop\inst\_Travel Documents\2017 Europe\Itinerary Europe 2017.pdf) 
 
 
 
