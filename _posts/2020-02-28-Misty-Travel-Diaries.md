@@ -14,13 +14,13 @@ comments: true
 
 Here's a useless table:
 
-| Holiday Name | Continent | Country List                                       | City List | When | Budget |
-| :------ |:--- | :--- | ------- | ------- | ------- |
-| Europe-2017 | Europe    | Netherlands<br />Belgium<br />Germany<br />Austria | Amsterdam, Giethoorn<br />Bruges<br />Cologne, Munich<br />Vienna, Salzburg, Kaprun, Zell am See | June, 2017 |        |
-| Bhutan-2019 | Asia      | Bhutan                                             | Thimphu<br />Punakha<br />Paro                               | June, 2019 |        |
-|              |           |                                                    |                                                              |            |        |
-|              |           |  |  |  |  |
-|              |           |  |  |  |  |
+| Holiday Name | Continent | Country::City List | When | Budget |
+| :------ |:--- | ------- | ------- | ------- |
+| Europe-2017 | Europe    | * Netherlands::Amsterdam, Zaanse Schans, Giethoorn<br />* Belgium::Bruges<br />* Germany::Cologne, Munich<br />* Austria::Vienna, Salzburg, Kaprun, Zell am See | June, 2017 |        |
+| Bhutan-2019 | Asia      | * Bhutan::Thimphu, Punakha, Paro                             | June, 2019 |        |
+|              |           |                                                              |            |        |
+|              |           |  |  |  |
+|              |           |  |  |  |
 
 
 How about a yummy crepe?
