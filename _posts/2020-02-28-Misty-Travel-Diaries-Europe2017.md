@@ -10,15 +10,24 @@ comments: true
 
 **Instagram:** [@mistytraveldiaries](https://www.instagram.com/mistytraveldiaries/)
 
-## * Netherlands::Amsterdam, Zaanse Schans, Harleem, Giethoorn<br />* Belgium::Bruges<br />* Germany::Cologne, Munich<br />* Austria::Vienna, Salzburg, Kaprun, Zell am See
+## 
 
-**When: **
+* **Netherlands**::Amsterdam, Zaanse Schans, Harleem, Giethoorn<br />
+* **Belgium**::Bruges<br />
+* **Germany**::*Cologne, Munich<br />
+* **Austria**::Vienna, Salzburg, Kaprun, Zell am See
 
-**Days:**
 
-**Plan (PPT):**
 
-**Picture & Video Blog:**
+**When: **June 2019
+
+**Days:** 13
+
+**Plan (PPT):** [Itinerary Europe 2017.pptx](..\..\..\..\Users\kaur\Desktop\inst\_Travel Documents\2017 Europe\Itinerary Europe 2017.pptx) 
+
+
+
+**Picture & Video Blog**
 
 Netherlands::Amsterdam
 
