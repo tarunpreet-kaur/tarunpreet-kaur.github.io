@@ -24,7 +24,7 @@ comments: true
 | Bali         | Indonesia                           | *                                                            |           |      |
 | Thailand     | Bhutan                              | *                                                            |           |      |
 | Singapore    | Singapore                           |                                                              |           |      |
-| USA-East     | USA                                 | * NY<br /><br />* NJ<br />* Washington DC                    | Mar, 2003 |      |
+| USA-East     | USA                                 | * NY<br />* NJ<br />* Washington DC                          | Mar, 2003 |      |
 | Europe, 2007 | France<br />Italy<br />Vatican City | * France::Paris, Nice, Cannes, Monaco Monte Carlo<br />* Italy::Rome, Venice<br />* Vatican City |           |      |
 
 **Indian Travel Itineraries coming-up**
