@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Misty Travel Diaries
-subtitle: Get detailed itinerary or my trips - day wise plan with maps & a photo gallery of the places to see.
+title: Misty Travel Diaries - Europe 2017
+subtitle: Netherlands, Belgium, Germany, Austria
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
