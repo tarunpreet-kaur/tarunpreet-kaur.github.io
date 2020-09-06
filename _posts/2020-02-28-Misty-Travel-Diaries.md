@@ -1,16 +1,14 @@
 ---
 layout: post
 title: Misty Travel Diaries
-subtitle: Get detailed itinerary or my trips - day wise plan with maps & a photo gallery of the places to see.
+subtitle: Get a detailed itinerary or my trips - day wise plan with maps of Countries, Cities and places to visit & a photo gallery of the tour.
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-**Here is some bold text**
-
-Here is a table of the Travel Itineraries available
+**Travel Itineraries available**
 
 | Holiday Name | Continent | Country::City List | When | Budget |
 | :------ |:--- | ------- | ------- | ------- |
@@ -20,7 +18,7 @@ Here is a table of the Travel Itineraries available
 |                                                              |           |  |  |  |
 |                                                              |           |  |  |  |
 
-Travel Itineraries up-coming
+**Travel Itineraries up-coming**
 
 | Holiday Name   | Continent | Country::City List                                           | When | Budget |
 | :------------- | :-------- | ------------------------------------------------------------ | ---- | ------ |
