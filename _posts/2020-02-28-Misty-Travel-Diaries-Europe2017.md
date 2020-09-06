@@ -8,64 +8,33 @@ tags: [test]
 comments: true
 ---
 
-## * Netherlands::Amsterdam, Zaanse Schans, Giethoorn<br />* Belgium::Bruges<br />* Germany::Cologne, Munich<br />* Austria::Vienna, Salzburg, Kaprun, Zell am See
+**Instagram:** [@mistytraveldiaries](https://www.instagram.com/mistytraveldiaries/)
 
-Here's a useless table:
+## * Netherlands::Amsterdam, Zaanse Schans, Harleem, Giethoorn<br />* Belgium::Bruges<br />* Germany::Cologne, Munich<br />* Austria::Vienna, Salzburg, Kaprun, Zell am See
 
-| Holiday Name | Continent | Country::City List | When | Budget |
-| :------ |:--- | ------- | ------- | ------- |
-| Europe-2017 | Europe    | * Netherlands::Amsterdam, Zaanse Schans, Giethoorn<br />* Belgium::Bruges<br />* Germany::Cologne, Munich<br />* Austria::Vienna, Salzburg, Kaprun, Zell am See | June, 2017 |        |
-| Bhutan-2019 | Asia      | * Bhutan::Thimphu, Punakha, Paro                             | June, 2019 |        |
-|              |           |                                                              |            |        |
-|              |           |  |  |  |
-|              |           |  |  |  |
+**When: **
+
+**Days:**
+
+**Plan (PPT):**
+
+**Picture Blog:**
+
+Netherlands::Amsterdam
+
+| ![1-Neth-1-Amst-1](../assets/img/Europe 2017/1-Neth-1-Amst-1.JPG) | ![1-Neth-1-Amst-2](../assets/img/Europe 2017/1-Neth-1-Amst-2.JPG) |      |      |
+| :------ |:--- | ------- | ------- |
+|                                                              |                                                              |      |      |
+| Netherlands                                                  | Zaanse Schans<br />Harleem |                              |      |
+| Netherlands | Giethoorn |                                                              |            |
+| Belgium | Bruges |  |  |
+| Germany | Cologne |  |  |
+| Germany | Munich |  | |
+| Austria | Vienna |  | |
+| Austria | Salzburg |  | |
+| Austria | Kaprun (Alps) |  | |
+| Austria | Zell am See (Alps) |  | |
 
 
-How about a yummy crepe?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
