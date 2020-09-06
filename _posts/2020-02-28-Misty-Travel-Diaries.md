@@ -37,19 +37,19 @@ comments: true
 | North East-2  | West Bengal,<br />Sikkim                     | * West Bengal:: Darjeeling<br />* Sikkim::Gangtok, Pelling, Tashiding | Dec, 2018? |      | Mountains<br />Rivers                            |
 | Goa           | Goa                                          |                                                              |            |      | Beaches                                          |
 | Uttarakhand   | Uttarakhand                                  | * Jim Corbett, Ranikhet, Nainital                            |            |      | Mountains<br />Rivers<br<br />Lakes              |
-| Rajasthan     | Rajasthan                                    | * Jaipur, Udaipur, Jaisalmer, Pushkar                        |            |      | Forts<br />Hills<br />Desert<br />Culture        |
+| Rajasthan     | Rajasthan                                    | * Jaipur, Udaipur, Jaisalmer, Jodhpur, Chittorgarh, Pushkar  | Dec, 2016? |      | Forts<br />Hills<br />Desert<br />Culture        |
 | Ranthambore   | Rajasthan                                    | * Ranthambore                                                | Dec, 2019  |      | National Park                                    |
 | Bharatpur     | Rajasthan                                    | * Bharatpur                                                  | Aug, 2019  |      | Bird Sanctuary                                   |
-| Alwar         | Rajasthan                                    |                                                              |            |      | Beaches<br />History                             |
+| Alwar         | Rajasthan                                    |                                                              |            |      | Hills<br />Resorts                               |
 | Kerala        | India                                        | * Munnar, Kumarakom, Trivandrum                              |            |      | Beaches<br />Greenary<br />Temples               |
 | New Delhi     | Delhi                                        | * New Delhi                                                  |            |      | Heritage Buildings                               |
 | Maharashtra   | Maharashtra                                  | * Khandala, Mumbai                                           |            |      |                                                  |
 | Manali        | Himachal Pradesh                             | *                                                            |            |      | Mountains<br />Rivers                            |
 | Shimla        | Himachal Pradesh                             | * Shimla                                                     |            |      | Mountains                                        |
 | Mussoorie     | Uttarakhand                                  | * Mussoorie                                                  |            |      | Mountains                                        |
-| Agra          |                                              |                                                              |            |      |                                                  |
-| Gujarat & Diu | Gujarat<br />Diu                             |                                                              |            |      | Beaches<br />History                             |
-|               |                                              |                                                              |            |      |                                                  |
+| Agra          | Uttar Pradesh                                |                                                              |            |      | Taj Mahal                                        |
+| Gujarat & Diu | Gujarat<br />Diu                             |                                                              |            |      | Beaches<br />Gandhi                              |
+| Karnataka     | Kodaikanal, Ooty                             |                                                              |            |      | Mountains<br />Lakes                             |
 
 How about a yummy crepe?
 
