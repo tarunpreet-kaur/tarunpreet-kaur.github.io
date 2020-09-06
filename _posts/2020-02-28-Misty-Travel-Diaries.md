@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Misty Travel Diaries
-subtitle: Get a detailed itinerary or my trips - day wise plan with maps of Countries, Cities and places to visit & a photo gallery of the tour.
+subtitle: Get a detailed itinerary of my holidays - day wise plan with maps of Countries, Cities and places to visit & a photo gallery of the tour.
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
