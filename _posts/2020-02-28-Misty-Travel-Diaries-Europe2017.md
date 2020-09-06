@@ -18,23 +18,26 @@ comments: true
 
 **Plan (PPT):**
 
-**Picture Blog:**
+**Picture & Video Blog:**
 
 Netherlands::Amsterdam
 
-| ![1-Neth-1-Amst-1](../assets/img/Europe 2017/1-Neth-1-Amst-1.JPG) | ![1-Neth-1-Amst-2](../assets/img/Europe 2017/1-Neth-1-Amst-2.JPG) |      |      |
+| ![1-Neth-1-Amst-1](../assets/img/Europe 2017/1-Neth-1-Amst-1.JPG) | ![1-Neth-1-Amst-2](../assets/img/Europe 2017/1-Neth-1-Amst-2.JPG) | ![1-Neth-1-Amst-3](../assets/img/Europe 2017/1-Neth-1-Amst-3.JPG) | ![1-Neth-1-Amst-4](../assets/img/Europe 2017/1-Neth-1-Amst-4.JPG) |
 | :------ |:--- | ------- | ------- |
-|                                                              |                                                              |      |      |
-| Netherlands                                                  | Zaanse Schans<br />Harleem |                              |      |
-| Netherlands | Giethoorn |                                                              |            |
-| Belgium | Bruges |  |  |
-| Germany | Cologne |  |  |
-| Germany | Munich |  | |
-| Austria | Vienna |  | |
-| Austria | Salzburg |  | |
-| Austria | Kaprun (Alps) |  | |
-| Austria | Zell am See (Alps) |  | |
+| ![1-Neth-1-Amst-5](../assets/img/Europe 2017/1-Neth-1-Amst-5.JPG) |                                                              |                                                              |                                                              |
 
+
+
+| Netherland  | Zaanse Schans<br />Harleem |      |      |
+| :---------- | :------------------------- | ---- | ---- |
+| Netherlands | Giethoorn                  |      |      |
+| Belgium     | Bruges                     |      |      |
+| Germany     | Cologne                    |      |      |
+| Germany     | Munich                     |      |      |
+| Austria     | Vienna                     |      |      |
+| Austria     | Salzburg                   |      |      |
+| Austria     | Kaprun (Alps)              |      |      |
+| Austria     | Zell am See (Alps)         |      |      |
 
 
 
