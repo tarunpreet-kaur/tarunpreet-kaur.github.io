@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Misty Travel Diaries - Europe 2017
+title: Misty Travel Diaries - Europe, 2017
 subtitle: Netherlands, Belgium, Germany, Austria
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
@@ -8,9 +8,7 @@ tags: [test]
 comments: true
 ---
 
-**Here is some bold text**
-
-## Here is a secondary heading
+## * Netherlands::Amsterdam, Zaanse Schans, Giethoorn<br />* Belgium::Bruges<br />* Germany::Cologne, Munich<br />* Austria::Vienna, Salzburg, Kaprun, Zell am See
 
 Here's a useless table:
 
