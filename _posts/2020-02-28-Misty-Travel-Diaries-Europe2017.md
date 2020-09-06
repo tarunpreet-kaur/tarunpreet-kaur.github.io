@@ -47,7 +47,7 @@ Netherlands::Amsterdam
 
 | **Netherland** | Zaanse Schans      | Harleem |      |
 | :------------- | :----------------- | ------- | ---- |
-| Netherlands    | Giethoorn          |         |      |
+| Netherlands    | Giethoor  n        |         |      |
 | Belgium        | Bruges             |         |      |
 | Germany        | Cologne            |         |      |
 | Germany        | Munich             |         |      |
