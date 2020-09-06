@@ -50,16 +50,5 @@ comments: true
 | Karnataka     | Kodaikanal, Ooty                             |                                                              |            |      | Mountains<br />Lakes                                 |
 | Agra          | Uttar Pradesh                                |                                                              |            |      | Taj Mahal                                            |
 | Gujarat & Diu | Gujarat<br />Diu                             |                                                              |            |      | Beaches<br />Gandhi                                  |
-|               |                                              |                                                              |            |      |                                                      |
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-
-
-~~~
-
-~~~
 
 
