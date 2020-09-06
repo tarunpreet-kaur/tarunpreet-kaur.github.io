@@ -8,7 +8,7 @@ tags: [test]
 comments: true
 ---
 
-<u>Instagram: [@mistytraveldiaries](https://www.instagram.com/mistytraveldiaries/)</u>
+**Instagram:** [@mistytraveldiaries](https://www.instagram.com/mistytraveldiaries/)
 
 **International Travel Itineraries available**
 
