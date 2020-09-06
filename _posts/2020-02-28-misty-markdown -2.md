@@ -28,7 +28,7 @@ How about a yummy crepe?
 
 
 
-![](C:\Personal\1_Misty\tarunpreet-kaur.github.io\assets\img\sample compost article\Compost.jpg)
+![](../assets/img/sample compost article/Compost.jpg)
 
 
 
