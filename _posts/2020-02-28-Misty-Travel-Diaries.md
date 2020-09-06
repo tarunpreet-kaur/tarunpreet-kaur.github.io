@@ -29,27 +29,28 @@ comments: true
 
 **Indian Travel Itineraries coming-up**
 
-| Holiday       | State/UT                                     | Cities                                                       | When       | Days | Highlights                                       |
-| :------------ | :------------------------------------------- | ------------------------------------------------------------ | ---------- | ---- | ------------------------------------------------ |
-| Leh-Ladakh    | Ladakh                                       |                                                              | Sep, 2015? |      | Mountains<br />Rivers                            |
-| Kashmir       | India                                        |                                                              | Aug, 2018? |      | Mountains<br />Rivers                            |
-| North East-1  | Arunachal Pradesh,<br />Assam<br />Meghalaya | * Arunachal Pradesh::<br />* Assam::<br />* Meghalaya::Shillong, Cherrapunji, Mawlynnong, Mawphlang | Jun, 2016  |      | Mountains<br />Rivers<br />Rains<br />Waterfalls |
-| North East-2  | West Bengal,<br />Sikkim                     | * West Bengal:: Darjeeling<br />* Sikkim::Gangtok, Pelling, Tashiding | Dec, 2018? |      | Mountains<br />Rivers                            |
-| Goa           | Goa                                          |                                                              |            |      | Beaches                                          |
-| Uttarakhand   | Uttarakhand                                  | * Jim Corbett, Ranikhet, Nainital                            |            |      | Mountains<br />Rivers<br<br />Lakes              |
-| Rajasthan     | Rajasthan                                    | * Jaipur, Udaipur, Jaisalmer, Jodhpur, Chittorgarh, Pushkar  | Dec, 2016? |      | Forts<br />Hills<br />Desert<br />Culture        |
-| Ranthambore   | Rajasthan                                    | * Ranthambore                                                | Dec, 2019  |      | National Park                                    |
-| Bharatpur     | Rajasthan                                    | * Bharatpur                                                  | Aug, 2019  |      | Bird Sanctuary                                   |
-| Alwar         | Rajasthan                                    |                                                              |            |      | Hills<br />Resorts                               |
-| Kerala        | India                                        | * Munnar, Kumarakom, Trivandrum                              |            |      | Beaches<br />Greenary<br />Temples               |
-| New Delhi     | Delhi                                        | * New Delhi                                                  |            |      | Heritage Buildings                               |
-| Maharashtra   | Maharashtra                                  | * Khandala, Mumbai                                           |            |      |                                                  |
-| Manali        | Himachal Pradesh                             | *                                                            |            |      | Mountains<br />Rivers                            |
-| Shimla        | Himachal Pradesh                             | * Shimla                                                     |            |      | Mountains                                        |
-| Mussoorie     | Uttarakhand                                  | * Mussoorie                                                  |            |      | Mountains                                        |
-| Agra          | Uttar Pradesh                                |                                                              |            |      | Taj Mahal                                        |
-| Gujarat & Diu | Gujarat<br />Diu                             |                                                              |            |      | Beaches<br />Gandhi                              |
-| Karnataka     | Kodaikanal, Ooty                             |                                                              |            |      | Mountains<br />Lakes                             |
+| Holiday       | State/UT                                     | Cities                                                       | When       | Days | Highlights                                           |
+| :------------ | :------------------------------------------- | ------------------------------------------------------------ | ---------- | ---- | ---------------------------------------------------- |
+| Leh-Ladakh    | Ladakh                                       |                                                              | Sep, 2015? |      | Mountains<br />Rivers                                |
+| Kashmir       | India                                        |                                                              | Aug, 2018? |      | Mountains<br />Rivers                                |
+| North East-1  | Arunachal Pradesh,<br />Assam<br />Meghalaya | * Arunachal Pradesh::<br />* Assam::<br />* Meghalaya::Shillong, Cherrapunji, Mawlynnong, Mawphlang | Jun, 2016  |      | Mountains<br />Rivers<br />Rains<br />Waterfalls     |
+| North East-2  | West Bengal,<br />Sikkim                     | * West Bengal:: Darjeeling<br />* Sikkim::Gangtok, Pelling, Tashiding | Dec, 2018? |      | Mountains<br />Rivers                                |
+| Goa           | Goa                                          |                                                              |            |      | Beaches                                              |
+| Uttarakhand-1 | Uttarakhand                                  | * Jim Corbett, Ranikhet, Nainital                            |            |      | Mountains<br />Rivers<br<br />Lakes                  |
+| Uttarakhand-2 | Uttarakhand                                  | * Rishikesh, Dehradun, Mussoorie                             |            |      | Mountains<br />Rivers<br />Ganges<br />River Rafting |
+| Rajasthan     | Rajasthan                                    | * Jaipur, Udaipur, Jaisalmer, Jodhpur, Chittorgarh, Pushkar  | Dec, 2016? |      | Forts<br />Hills<br />Desert<br />Culture            |
+| Ranthambore   | Rajasthan                                    | * Ranthambore                                                | Dec, 2019  |      | National Park                                        |
+| Bharatpur     | Rajasthan                                    | * Bharatpur                                                  | Aug, 2019  |      | Bird Sanctuary                                       |
+| Alwar         | Rajasthan                                    |                                                              |            |      | Hills<br />Resorts                                   |
+| Kerala        | India                                        | * Munnar, Kumarakom, Trivandrum                              |            |      | Beaches<br />Greenary<br />Temples                   |
+| New Delhi     | Delhi                                        | * New Delhi                                                  |            |      | Heritage Buildings                                   |
+| Maharashtra   | Maharashtra                                  | * Khandala, Mumbai                                           |            |      |                                                      |
+| Manali        | Himachal Pradesh                             | *                                                            |            |      | Mountains<br />Rivers                                |
+| Shimla        | Himachal Pradesh                             | * Shimla                                                     |            |      | Mountains                                            |
+| Karnataka     | Kodaikanal, Ooty                             |                                                              |            |      | Mountains<br />Lakes                                 |
+| Agra          | Uttar Pradesh                                |                                                              |            |      | Taj Mahal                                            |
+| Gujarat & Diu | Gujarat<br />Diu                             |                                                              |            |      | Beaches<br />Gandhi                                  |
+|               |                                              |                                                              |            |      |                                                      |
 
 How about a yummy crepe?
 
