@@ -1,4 +1,5 @@
 ---
+
 layout: post
 title: Misty Travel Diaries - Europe, 2017
 subtitle: Netherlands, Belgium, Germany, Austria
@@ -30,7 +31,7 @@ comments: true
 
 
 
-## Picture & Video Blog
+## Photo Blog
 
 **Netherlands::Amsterdam**
 
@@ -62,7 +63,17 @@ comments: true
 
 
 
+**Netherlands::Giethoorn**
 
+| ![a](../../../../Users/kaur/Desktop/inst/_EUR/June 18 Amstredam-Giethroon/Photo/a.jpg) | ![IMG_0235](../../../../Users/kaur/Desktop/inst/_EUR/June 18 Amstredam-Giethroon/Photo/IMG_0235.JPG) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![IMG_0350](../../../../Users/kaur/Desktop/inst/_EUR/June 18 Amstredam-Giethroon/Photo/IMG_0350.JPG) | ![IMG_2846](../../../../Users/kaur/Desktop/inst/_EUR/June 18 Amstredam-Giethroon/Photo/IMG_2846.JPG) |
+| ![IMG_2859](../../../../Users/kaur/Desktop/inst/_EUR/June 18 Amstredam-Giethroon/Photo/IMG_2859.JPG) | ![IMG_2861](../../../../Users/kaur/Desktop/inst/_EUR/June 18 Amstredam-Giethroon/Photo/IMG_2861.JPG) |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
 
 |             |                    |      |      |
 | :---------- | :----------------- | ---- | ---- |
@@ -76,4 +87,6 @@ comments: true
 | Austria     | Zell am See (Alps) |      |      |
 
 
+
+## Video Blog
 
