@@ -39,6 +39,14 @@ comments: true
 | <img src="../assets/img/Europe 2017/1-Neth-1-Amst-4.JPG" alt="1-Neth-1-Amst-4" style="zoom: 80%;" /> | <img src="../assets/img/Europe 2017/1-Neth-1-Amst-6.JPG" alt="1-Neth-1-Amst-6" style="zoom:80%;" /> |
 | <img src="../assets/img/Europe 2017/1-Neth-1-Amst-3.JPG" alt="1-Neth-1-Amst-3" style="zoom: 50%;" /> | <img src="../assets/img/Europe 2017/1-Neth-1-Amst-5.JPG" alt="1-Neth-1-Amst-5" style="zoom:80%;" /> |
 
+<video src="../assets/video/1-Neth-1-Amst-1.mp4"></video>
+
+<video src="../assets/video/1-Neth-1-Amst-2.mp4"></video>
+
+<video src="../assets/video/1-Neth-1-Amst-3.mp4"></video>
+
+
+
 **Netherlands::Zaanse Schans**
 
 | ![1-Neth-1-Zaanse-1](../assets/img/Europe 2017/1-Neth-1-Zaanse-1.JPG) | <img src="../assets/img/Europe 2017/1-Neth-1-Zaanse-2.JPG" alt="1-Neth-1-Zaanse-2"  /> |
