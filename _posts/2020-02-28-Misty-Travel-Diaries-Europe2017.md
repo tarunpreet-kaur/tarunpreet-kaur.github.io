@@ -30,17 +30,18 @@ comments: true
 
 
 
-**Picture & Video Blog**
+## Picture & Video Blog
 
-Netherlands::Amsterdam
+**Netherlands::Amsterdam**
 
-| ![1-Neth-1-Amst-1](../assets/img/Europe 2017/1-Neth-1-Amst-1.JPG) | <img src="../assets/img/Europe 2017/1-Neth-1-Amst-2.JPG" alt="1-Neth-1-Amst-2" style="zoom:150%;" /> | ![1-Neth-1-Amst-3](../assets/img/Europe 2017/1-Neth-1-Amst-3.JPG) |
-| :------ |:--- | ------- |
-| ![1-Neth-1-Amst-4](../assets/img/Europe 2017/1-Neth-1-Amst-4.JPG) |                                                              | <img src="../assets/img/Europe 2017/1-Neth-1-Amst-5.JPG" alt="1-Neth-1-Amst-5" style="zoom:80%;" /> |
+| <img src="../assets/img/Europe 2017/1-Neth-1-Amst-1.JPG" alt="1-Neth-1-Amst-1" style="zoom:80%;" /> | <img src="../assets/img/Europe 2017/1-Neth-1-Amst-2.JPG" alt="1-Neth-1-Amst-2" style="zoom:67%;" /> |
+| :------ | ------- |
+| <img src="../assets/img/Europe 2017/1-Neth-1-Amst-4.JPG" alt="1-Neth-1-Amst-4" style="zoom: 80%;" /> | <img src="../assets/img/Europe 2017/1-Neth-1-Amst-6.JPG" alt="1-Neth-1-Amst-6" style="zoom:80%;" /> |
+| <img src="../assets/img/Europe 2017/1-Neth-1-Amst-3.JPG" alt="1-Neth-1-Amst-3" style="zoom: 50%;" /> | <img src="../assets/img/Europe 2017/1-Neth-1-Amst-5.JPG" alt="1-Neth-1-Amst-5" style="zoom:80%;" /> |
 
 
 
-Netherlands::Zaanse Schans
+**Netherlands::Zaanse Schans**
 
 | ![1-Neth-1-Zaanse-1](../assets/img/Europe 2017/1-Neth-1-Zaanse-1.JPG) | <img src="../assets/img/Europe 2017/1-Neth-1-Zaanse-2.JPG" alt="1-Neth-1-Zaanse-2"  /> | <img src="../assets/img/Europe 2017/1-Neth-1-Zaanse-5.JPG" alt="1-Neth-1-Zaanse-5"  /> |
 | :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
