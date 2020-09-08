@@ -43,8 +43,6 @@ comments: true
 
 
 
-
-
 **Netherlands::Zaanse Schans**
 
 | ![1-Neth-1-Zaanse-1](../assets/img/Europe 2017/1-Neth-1-Zaanse-1.JPG) | <img src="../assets/img/Europe 2017/1-Neth-1-Zaanse-2.JPG" alt="1-Neth-1-Zaanse-2"  /> |
