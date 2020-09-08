@@ -54,8 +54,6 @@ comments: true
 | ![1-Neth-1-Zaanse-10](../assets/img/Europe 2017/1-Neth-1-Zaanse-10.JPG) | ![1-Neth-1-Zaanse-4](../assets/img/Europe 2017/1-Neth-1-Zaanse-4.JPG) |
 | <img src="../assets/img/Europe 2017/1-Neth-1-Zaanse-6.JPG" alt="1-Neth-1-Zaanse-6"  /> | ![1-Neth-1-Zaanse-5](../assets/img/Europe 2017/1-Neth-1-Zaanse-5.JPG) |
 
-<video src="../assets/video/1-Neth-1-Zaanse-1.mp4"></video>
-
 
 
 **Netherlands::Harleem**
