@@ -54,12 +54,11 @@ comments: true
 
 **Netherlands::Harleem**
 
-|      |      |
-| :--- | :--- |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
+| ![1-Neth-1-Harleem-7](../assets/img/Europe 2017/1-Neth-1-Harleem-7.JPG) | ![1-Neth-1-Harleem-8](../assets/img/Europe 2017/1-Neth-1-Harleem-8.JPG) |
+| :----------------------------------------------------------- | :----------------------------------------------------------- |
+| ![1-Neth-1-Harleem-5](../assets/img/Europe 2017/1-Neth-1-Harleem-5.JPG) | ![1-Neth-1-Harleem-6](../assets/img/Europe 2017/1-Neth-1-Harleem-6.JPG) |
+| ![1-Neth-1-Harleem-4](../assets/img/Europe 2017/1-Neth-1-Harleem-4.JPG) | ![1-Neth-1-Harleem-1](../assets/img/Europe 2017/1-Neth-1-Harleem-1.JPG) |
+| <img src="../assets/img/Europe 2017/1-Neth-1-Harleem-3.JPG" alt="1-Neth-1-Harleem-3" style="zoom: 67%;" /> | ![1-Neth-1-Harleem-2](../assets/img/Europe 2017/1-Neth-1-Harleem-2.JPG) |
 
 
 
