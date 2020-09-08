@@ -76,15 +76,16 @@ comments: true
 
 **Netherlands::Giethoorn**
 
-| ![a](../../../../Users/kaur/Desktop/inst/_EUR/June 18 Amstredam-Giethroon/Photo/a.jpg) | ![IMG_0235](../../../../Users/kaur/Desktop/inst/_EUR/June 18 Amstredam-Giethroon/Photo/IMG_0235.JPG) |
+| ![1-Neth-4-Giethoorn-1](../../../../Users/kaur/Desktop/inst/_EUR/June 18 Amstredam-Giethroon/Photo/1-Neth-4-Giethoorn-1.jpg) | ![1-Neth-4-Giethoorn-5](../../../../Users/kaur/Desktop/inst/_EUR/June 18 Amstredam-Giethroon/Photo/1-Neth-4-Giethoorn-5.JPG) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![IMG_0350](../../../../Users/kaur/Desktop/inst/_EUR/June 18 Amstredam-Giethroon/Photo/IMG_0350.JPG) | ![IMG_2846](../../../../Users/kaur/Desktop/inst/_EUR/June 18 Amstredam-Giethroon/Photo/IMG_2846.JPG) |
-| ![IMG_2859](../../../../Users/kaur/Desktop/inst/_EUR/June 18 Amstredam-Giethroon/Photo/IMG_2859.JPG) | ![IMG_2861](../../../../Users/kaur/Desktop/inst/_EUR/June 18 Amstredam-Giethroon/Photo/IMG_2861.JPG) |
-|                                                              |                                                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
+| ![1-Neth-4-Giethoorn-2](../../../../Users/kaur/Desktop/inst/_EUR/June 18 Amstredam-Giethroon/Photo/1-Neth-4-Giethoorn-2.JPG) | ![1-Neth-4-Giethoorn-6](../../../../Users/kaur/Desktop/inst/_EUR/June 18 Amstredam-Giethroon/Photo/1-Neth-4-Giethoorn-6.JPG) |
+| ![1-Neth-4-Giethoorn-3](../../../../Users/kaur/Desktop/inst/_EUR/June 18 Amstredam-Giethroon/Photo/1-Neth-4-Giethoorn-3.JPG) | ![1-Neth-4-Giethoorn-4](../../../../Users/kaur/Desktop/inst/_EUR/June 18 Amstredam-Giethroon/Photo/1-Neth-4-Giethoorn-4.JPG) |
+
+
+
+
+
+
 
 |             |                    |      |      |
 | :---------- | :----------------- | ---- | ---- |
