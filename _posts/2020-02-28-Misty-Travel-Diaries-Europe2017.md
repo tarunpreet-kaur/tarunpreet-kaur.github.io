@@ -55,7 +55,7 @@ comments: true
 
 
 <figure class="video_container">
-    <iframe height='265' scrolling='no' <video src="../assets/video/1-Neth-1-Amst-1-Short.mp4"></video> </iframe>
+    <video src="../assets/video/1-Neth-1-Amst-1-Short.mp4"></video>
 </figure>
 
 
@@ -76,10 +76,10 @@ comments: true
 
 **Netherlands::Giethoorn**
 
-| <img src="../../../../Users/kaur/Desktop/inst/_EUR/June 18 Amstredam-Giethroon/Photo/1-Neth-4-Giethoorn-1.jpg" alt="1-Neth-4-Giethoorn-1" style="zoom:80%;" /> | ![1-Neth-4-Giethoorn-5](../../../../Users/kaur/Desktop/inst/_EUR/June 18 Amstredam-Giethroon/Photo/1-Neth-4-Giethoorn-5.JPG) |
+| ![1-Neth-4-Giethoorn-2](../assets/img/Europe 2017/1-Neth-4-Giethoorn-2.JPG) | <img src="../assets/img/Europe 2017/1-Neth-4-Giethoorn-6.JPG" alt="1-Neth-4-Giethoorn-6" style="zoom:150%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="../../../../Users/kaur/Desktop/inst/_EUR/June 18 Amstredam-Giethroon/Photo/1-Neth-4-Giethoorn-2.JPG" alt="1-Neth-4-Giethoorn-2" style="zoom:80%;" /> | ![1-Neth-4-Giethoorn-6](../../../../Users/kaur/Desktop/inst/_EUR/June 18 Amstredam-Giethroon/Photo/1-Neth-4-Giethoorn-6.JPG) |
-| ![1-Neth-4-Giethoorn-3](../../../../Users/kaur/Desktop/inst/_EUR/June 18 Amstredam-Giethroon/Photo/1-Neth-4-Giethoorn-3.JPG) | ![1-Neth-4-Giethoorn-4](../../../../Users/kaur/Desktop/inst/_EUR/June 18 Amstredam-Giethroon/Photo/1-Neth-4-Giethoorn-4.JPG) |
+| ![1-Neth-4-Giethoorn-3](../assets/img/Europe 2017/1-Neth-4-Giethoorn-3.JPG) | ![1-Neth-4-Giethoorn-4](../assets/img/Europe 2017/1-Neth-4-Giethoorn-4.JPG) |
+| ![1-Neth-4-Giethoorn-5](../assets/img/Europe 2017/1-Neth-4-Giethoorn-5.JPG) | ![1-Neth-4-Giethoorn-1](../assets/img/Europe 2017/1-Neth-4-Giethoorn-1.jpg) |
 
 
 
