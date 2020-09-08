@@ -48,9 +48,7 @@ Netherlands::Zaanse Schans
 | ![1-Neth-1-Zaanse-7](../assets/img/Europe 2017/1-Neth-1-Zaanse-7.JPG) | ![1-Neth-1-Zaanse-8](../assets/img/Europe 2017/1-Neth-1-Zaanse-8.JPG) | ![1-Neth-1-Zaanse-10](../assets/img/Europe 2017/1-Neth-1-Zaanse-10.JPG) |
 | ![1-Neth-1-Zaanse-4](../assets/img/Europe 2017/1-Neth-1-Zaanse-4.JPG) |                                                              |                                                              |
 
-
-
-
+<video src="../assets/video/Zaanse-vid-1.mp4"></video>
 
 
 
