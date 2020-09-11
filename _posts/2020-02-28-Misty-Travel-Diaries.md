@@ -12,20 +12,20 @@ comments: true
 
 **International Travel Itineraries available**
 
-| Holiday | Where                                              | Cities | Highlights |
-| :------ |:--- | ------- | ------- |
-| [Europe, 2017](https://tarunpreet-kaur.github.io/2020-02-28-Misty-Travel-Diaries-Europe2017/) | Netherlands<br />Belgium<br />Germany<br />Austria | * <u>Netherlands</u>::Amsterdam, Zaanse Schans, Giethoorn<br />* <u>Belgium</u>::Bruges<br />* <u>Germany</u>::Cologne, Munich<br />* <u>Austria</u>::Vienna, Salzburg, Kaprun, Zell am See (Alps) | * June,2017<br />* 13 days<br />* Budget INR 92,000 (USD 1,250) per person<br />* [Itinerary Europe 2017.pdf](..\assets\pdf\Itinerary Europe 2017.pdf)<br /> |
-| [Bhutan, 2019](https://tarunpreet-kaur.github.io/2020-02-28-Misty-Travel-Diaries-Bhutan2019/) | Bhutan                                             | * Thimphu, Punakha, Paro                                     | * June, 2019<br />* 8 days<br />* Budget INR 92,000 (USD 1,250) per person<br />* [Itinerary Bhutan 2019.pdf](..\assets\pdf\Itinerary Bhutan 2019.pdf)<br /> |
+| Holiday | Cities | Highlights |
+| :------ | ------- | ------- |
+| [Europe, 2017](https://tarunpreet-kaur.github.io/2020-02-28-Misty-Travel-Diaries-Europe2017/) | * <u>Netherlands</u>::Amsterdam, Zaanse Schans, Giethoorn<br />* <u>Belgium</u>::Bruges<br />* <u>Germany</u>::Cologne, Munich<br />* <u>Austria</u>::Vienna, Salzburg, Kaprun, Zell am See (Alps) | * June,2017<br />* 13 days<br />* Budget INR 92,000 (USD 1,250) per person<br />* [Itinerary Europe 2017.pdf](..\assets\pdf\Itinerary Europe 2017.pdf)<br /> |
+| [Bhutan, 2019](https://tarunpreet-kaur.github.io/2020-02-28-Misty-Travel-Diaries-Bhutan2019/) | * Thimphu, Punakha, Paro                                     | * June, 2019<br />* 8 days<br />* Budget INR 92,000 (USD 1,250) per person<br />* [Itinerary Bhutan 2019.pdf](..\assets\pdf\Itinerary Bhutan 2019.pdf)<br /> |
 
 **International Travel Itineraries  coming-up**
 
-| Holiday      | Where                               | Cities                                                       | Highlights |
-| :----------- | :---------------------------------- | ------------------------------------------------------------ | ---------- |
-| Bali         | Indonesia                           | *                                                            |            |
-| Thailand     | Bhutan                              | *                                                            |            |
-| Singapore    | Singapore                           |                                                              |            |
-| USA-East     | USA                                 | * NY<br />* NJ<br />* Washington DC                          |            |
-| Europe, 2007 | France<br />Italy<br />Vatican City | * <u>France</u>::Paris, Nice, Cannes, Monaco Monte Carlo<br />* <u>Italy</u>::Rome, Venice<br />* <u>Vatican City</u> |            |
+| Holiday      | Cities                                                       | Highlights |
+| :----------- | ------------------------------------------------------------ | ---------- |
+| Bali         | *                                                            |            |
+| Thailand     | *                                                            |            |
+| Singapore    |                                                              |            |
+| USA-East     | * NY<br />* NJ<br />* Washington DC                          |            |
+| Europe, 2007 | * <u>France</u>::Paris, Nice, Cannes, Monaco Monte Carlo<br />* <u>Italy</u>::Rome, Venice<br />* <u>Vatican City</u> |            |
 
 **Indian Travel Itineraries coming-up**
 
