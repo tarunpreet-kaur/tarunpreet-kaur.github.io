@@ -74,7 +74,7 @@ comments: true
 
 
 
-**Belgium::Bruges**
+**Belgium::Bruges(Brugge)** 
 
 |      |      |
 | ---- | ---- |
@@ -83,7 +83,7 @@ comments: true
 
 
 
-**Germany::Cologne**
+**Germany::Cologne(Koln)**
 
 |      |      |
 | ---- | ---- |
@@ -92,7 +92,7 @@ comments: true
 
 
 
-**Germany::Munich**
+**Germany::Munich(Munchen)**
 
 |      |      |
 | ---- | ---- |
@@ -101,7 +101,7 @@ comments: true
 
 
 
-**Austria::Vienna**
+**Austria::Vienna(Wien)**
 
 |      |      |
 | ---- | ---- |
