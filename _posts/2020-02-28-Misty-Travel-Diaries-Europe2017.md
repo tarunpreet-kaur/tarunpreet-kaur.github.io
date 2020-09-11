@@ -92,7 +92,7 @@ comments: true
 
 
 
-**Germany::Munich(Munchen)**
+**Austria::Vienna(Wien)**
 
 |      |      |
 | ---- | ---- |
@@ -101,7 +101,7 @@ comments: true
 
 
 
-**Austria::Vienna(Wien)**
+**Germany::Munich(Munchen)**
 
 |      |      |
 | ---- | ---- |
