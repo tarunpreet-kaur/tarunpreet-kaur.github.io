@@ -76,10 +76,10 @@ comments: true
 
 **Belgium::Bruges(Brugge)** 
 
-|      |      |
-| ---- | ---- |
-|      |      |
-|      |      |
+| ![2-Belg-1-Brugge (1)](../assets/img/Europe 2017/2-Belg-1-Brugge (1).JPG) | <img src="../assets/img/Europe 2017/2-Belg-1-Brugge (3).JPG" alt="2-Belg-1-Brugge (3)" style="zoom:150%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="../assets/img/Europe 2017/2-Belg-1-Brugge (4).JPG" alt="2-Belg-1-Brugge (4)" style="zoom: 50%;" /> | ![2-Belg-1-Brugge (2)](../assets/img/Europe 2017/2-Belg-1-Brugge (2).JPG) |
+| ![2-Belg-1-Brugge (5)](../assets/img/Europe 2017/2-Belg-1-Brugge (5).JPG) | ![2-Belg-1-Brugge (6)](../assets/img/Europe 2017/2-Belg-1-Brugge (6).JPG) |
 
 
 
