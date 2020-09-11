@@ -27,7 +27,7 @@ comments: true
 
 * **When:** June, 2017
 * **Days:** 13
-* **Budget:** 
+* **Budget:** INR 92,000 (USD 1,250) per person (<u>Excluding</u>: Flight Ticket,Shopping <u>Including</u>: Hotel, Inter & Intra City Travel, Food)
 * **Download Itinerary:**   [Itinerary Europe 2017.pdf](..\assets\pdf\Itinerary Europe 2017.pdf) 
 
 
