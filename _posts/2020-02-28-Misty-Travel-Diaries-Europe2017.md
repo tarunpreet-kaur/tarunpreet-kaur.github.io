@@ -97,13 +97,13 @@ comments: true
 
 **Austria::Vienna(Wien)**
 
-| ![2-Cath](../../../../Users/kaur/Desktop/inst/_EUR/June 21 Vienna/Done/2-Cath.JPG) | <img src="../../../../Users/kaur/Desktop/inst/_EUR/June 21 Vienna/Done/1-Belv (7).JPG" alt="1-Belv (7)" style="zoom: 67%;" /> |
+| ![4-Austr-1-Vienna-Day1 (11)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day1 (11).JPG) | ![4-Austr-1-Vienna-Day1 (12)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day1 (12).JPG) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="../../../../Users/kaur/Desktop/inst/_EUR/June 21 Vienna/Done/1-Belv (4).JPG" alt="1-Belv (4)" style="zoom:150%;" /> | ![1-Belv (3)](../../../../Users/kaur/Desktop/inst/_EUR/June 21 Vienna/Done/1-Belv (3).JPG) |
-| ![3-hauf-1 (11)](../../../../Users/kaur/Desktop/inst/_EUR/June 21 Vienna/Done/3-hauf-1 (11).JPG) | ![3-Hauf (14)](../../../../Users/kaur/Desktop/inst/_EUR/June 21 Vienna/Done/3-Hauf (14).JPG) |
-| ![3-hauf-3 (3)](../../../../Users/kaur/Desktop/inst/_EUR/June 21 Vienna/Done/3-hauf-3 (3).JPG) | ![3-Hauf (11)](../../../../Users/kaur/Desktop/inst/_EUR/June 21 Vienna/Done/3-Hauf (11).JPG) |
-| ![3-hauf-3 (3)](../../../../Users/kaur/Desktop/inst/_EUR/June 21 Vienna/Done/3-hauf-3 (3).JPG) | ![IMG_3353](../../../../Users/kaur/Desktop/inst/_EUR/June 21 Vienna/Done/IMG_3353.JPG) |
-| ![3-hauf-1 (12)](../../../../Users/kaur/Desktop/inst/_EUR/June 21 Vienna/Done/3-hauf-1 (12).JPG) | ![3-Hauf (6)](../../../../Users/kaur/Desktop/inst/_EUR/June 21 Vienna/Done/3-Hauf (6).JPG) |
+| ![4-Austr-1-Vienna-Day1 (10)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day1 (10).JPG) | ![4-Austr-1-Vienna-Day1 (8)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day1 (8).JPG) |
+| ![4-Austr-1-Vienna-Day1 (2)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day1 (2).JPG) | ![4-Austr-1-Vienna-Day1 (5)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day1 (5).JPG) |
+| ![4-Austr-1-Vienna-Day1 (3)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day1 (3).JPG) | ![4-Austr-1-Vienna-Day1 (7)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day1 (7).JPG) |
+| ![4-Austr-1-Vienna-Day1 (9)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day1 (9).JPG) | ![4-Austr-1-Vienna-Day1 (1)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day1 (1).JPG) |
+|                                                              |                                                              |
 
 
 
