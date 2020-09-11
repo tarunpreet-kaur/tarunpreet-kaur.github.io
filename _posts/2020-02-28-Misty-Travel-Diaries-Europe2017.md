@@ -85,10 +85,11 @@ comments: true
 
 **Germany::Cologne(Koln)**
 
-|      |      |
-| ---- | ---- |
-|      |      |
-|      |      |
+| ![3-Germ-1-Koln (1)](../assets/img/Europe 2017/3-Germ-1-Koln (1).JPG) | <img src="../assets/img/Europe 2017/3-Germ-1-Koln (4).JPG" alt="3-Germ-1-Koln (4)" style="zoom:150%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![3-Germ-1-Koln (2)](../assets/img/Europe 2017/3-Germ-1-Koln (2).JPG) | ![3-Germ-1-Koln (6)](../assets/img/Europe 2017/3-Germ-1-Koln (6).JPG) |
+| <img src="../assets/img/Europe 2017/3-Germ-1-Koln (5).JPG" alt="3-Germ-1-Koln (5)" style="zoom:80%;" /> | ![3-Germ-1-Koln (6)](../assets/img/Europe 2017/3-Germ-1-Koln (6).JPG) |
+| ![3-Germ-1-Koln (8)](../assets/img/Europe 2017/3-Germ-1-Koln (8).JPG) | ![3-Germ-1-Koln (3)](../assets/img/Europe 2017/3-Germ-1-Koln (3).JPG) |
 
 
 
