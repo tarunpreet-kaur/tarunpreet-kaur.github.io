@@ -12,10 +12,10 @@ comments: true
 
 **International Travel Itineraries available**
 
-| Holiday | Where                                              | Cities | When | Days |
-| :------ |:--- | ------- | ------- | ------- |
-| [Europe, 2017](https://tarunpreet-kaur.github.io/2020-02-28-Misty-Travel-Diaries-Europe2017/) | Netherlands<br />Belgium<br />Germany<br />Austria | * Netherlands::Amsterdam, Zaanse Schans, Giethoorn<br />* Belgium::Bruges<br />* Germany::Cologne, Munich<br />* Austria::Vienna, Salzburg, Kaprun, Zell am See (Alps) | June, 2017 | 13   |
-| Bhutan-2019 | Bhutan                                             | * Thimphu, Punakha, Paro                                     | June, 2019 | 8    |
+| Holiday | Where                                              | Cities | Details |
+| :------ |:--- | ------- | ------- |
+| [Europe, 2017](https://tarunpreet-kaur.github.io/2020-02-28-Misty-Travel-Diaries-Europe2017/) | Netherlands<br />Belgium<br />Germany<br />Austria | * Netherlands::Amsterdam, Zaanse Schans, Giethoorn<br />* Belgium::Bruges<br />* Germany::Cologne, Munich<br />* Austria::Vienna, Salzburg, Kaprun, Zell am See (Alps) | * June,2017<br />* 13 days<br />* Budget INR 92,000 (USD 1,250) per person<br />* [Itinerary Europe 2017.pdf](..\assets\pdf\Itinerary Europe 2017.pdf)<br /> |
+| Bhutan, 2019 | Bhutan                                             | * Thimphu, Punakha, Paro                                     | June, 2019<br />8 days<br /> |
 
 **International Travel Itineraries  coming-up**
 
