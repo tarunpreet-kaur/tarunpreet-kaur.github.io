@@ -54,15 +54,6 @@ comments: true
 
 
 
-<figure class="video_container">
-    <video src="../assets/video/1-Neth-1-Amst-1-Short.mp4"></video>
-</figure>
-
-
-
-
-
-
 
 **Netherlands::Harleem**
 
@@ -83,20 +74,68 @@ comments: true
 
 
 
+**Belgium::Bruges**
+
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
 
 
 
+**Germany::Cologne**
 
-|             |                    |      |      |
-| :---------- | :----------------- | ---- | ---- |
-| Netherlands | Giethoorn          |      |      |
-| Belgium     | Bruges             |      |      |
-| Germany     | Cologne            |      |      |
-| Germany     | Munich             |      |      |
-| Austria     | Vienna             |      |      |
-| Austria     | Salzburg           |      |      |
-| Austria     | Kaprun (Alps)      |      |      |
-| Austria     | Zell am See (Alps) |      |      |
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+
+
+
+**Germany::Munich**
+
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+
+
+
+**Austria::Vienna**
+
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+
+
+
+**Austria::Salzburg**
+
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+
+
+
+**Austria::Kaprun (Alps)**
+
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+
+
+
+**Austria::Kaprun & Zell am See (Alps)**
+
+|      |      |
+| ---- | ---- |
+|      |      |
+|      |      |
+
+
 
 
 
