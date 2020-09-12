@@ -67,12 +67,11 @@ comments: true
 
 **Phobjikha Valley**
 
-|      |      |
-| :--- | :--- |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
+| ![3b-Punakha - Phobjikha Valley (4)](../assets/img/Bhutan 2019/3b-Punakha - Phobjikha Valley (4).JPG) | ![3b-Punakha - Phobjikha Valley (7)](../assets/img/Bhutan 2019/3b-Punakha - Phobjikha Valley (7).JPG) |
+| :----------------------------------------------------------- | :----------------------------------------------------------- |
+| ![3b-Punakha - Phobjikha Valley (2)](../assets/img/Bhutan 2019/3b-Punakha - Phobjikha Valley (2).JPG) | ![3b-Punakha - Phobjikha Valley (1)](../assets/img/Bhutan 2019/3b-Punakha - Phobjikha Valley (1).JPG) |
+| ![3b-Punakha - Phobjikha Valley (5)](../assets/img/Bhutan 2019/3b-Punakha - Phobjikha Valley (5).JPG) | ![3b-Punakha - Phobjikha Valley (3)](../assets/img/Bhutan 2019/3b-Punakha - Phobjikha Valley (3).JPG) |
+| ![3b-Punakha - Phobjikha Valley (6)](../assets/img/Bhutan 2019/3b-Punakha - Phobjikha Valley (6).JPG) | ![3b-Punakha - Phobjikha Valley (8)](../assets/img/Bhutan 2019/3b-Punakha - Phobjikha Valley (8).JPG) |
 
 
 
