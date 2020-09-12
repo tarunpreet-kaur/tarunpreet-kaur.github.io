@@ -81,11 +81,13 @@ comments: true
 
 **Paro**
 
-|      |      |
-| :--- | :--- |
-|      |      |
-|      |      |
-|      |      |
+| ![4a-Paro (2)](../assets/img/Bhutan 2019/4a-Paro (2).JPG)   | ![4a-Paro (3)](../assets/img/Bhutan 2019/4a-Paro (3).JPG)    |
+| :---------------------------------------------------------- | :----------------------------------------------------------- |
+| ![4a-Paro (10)](../assets/img/Bhutan 2019/4a-Paro (10).JPG) | ![4a-Paro (1)](../assets/img/Bhutan 2019/4a-Paro (1).JPG)    |
+| ![4a-Paro (4)](../assets/img/Bhutan 2019/4a-Paro (4).JPG)   | ![4a-Paro (5)](../assets/img/Bhutan 2019/4a-Paro (5).JPG)    |
+| ![4a-Paro (9)](../assets/img/Bhutan 2019/4a-Paro (9).JPG)   | ![4a-Paro (6)](../assets/img/Bhutan 2019/4a-Paro (6).JPG)    |
+| ![4a-Paro (8)](../assets/img/Bhutan 2019/4a-Paro (8).JPG)   | ![4a-Paro (7)](../assets/img/Bhutan 2019/4a-Paro (7).JPG)    |
+| ![4a-Paro (11)](../assets/img/Bhutan 2019/4a-Paro (11).JPG) | <img src="../assets/img/Bhutan 2019/4a-Paro (12).jpg" alt="4a-Paro (12)" style="zoom:80%;" /> |
 
 
 
