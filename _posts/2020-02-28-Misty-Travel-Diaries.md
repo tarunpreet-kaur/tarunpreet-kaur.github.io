@@ -15,7 +15,7 @@ comments: true
 | Holiday | Cities | Highlights |
 | :------ | ------- | ------- |
 | [Europe, 2017](https://tarunpreet-kaur.github.io/2020-02-28-Misty-Travel-Diaries-Europe2017/) | * <u>Netherlands</u>::Amsterdam, Zaanse Schans, Giethoorn<br />* <u>Belgium</u>::Bruges<br />* <u>Germany</u>::Cologne, Munich<br />* <u>Austria</u>::Vienna, Salzburg, Kaprun, Zell am See (Alps) | * June,2017<br />* 13 days<br />* Budget INR 92,000 (USD 1,250) per person<br />* [Itinerary Europe 2017.pdf](..\assets\pdf\Itinerary Europe 2017.pdf)<br /> |
-| [Bhutan, 2019](https://tarunpreet-kaur.github.io/2020-02-28-Misty-Travel-Diaries-Bhutan2019/) | * Thimphu<br />* Dochula Pass & National Park & Chimi Lhakhang<br />* Punakha<br />* Phobjikha Valley<br />* Paro<br />* Chela La Pass & Haa Valley | * June, 2019<br />* 8 days<br />* Budget INR 92,000 (USD 1,250) per person<br />* [Itinerary Bhutan 2019.pdf](..\assets\pdf\Itinerary Bhutan 2019.pdf)<br /> |
+| [Bhutan, 2019](https://tarunpreet-kaur.github.io/2020-02-28-Misty-Travel-Diaries-Bhutan2019/) | * Thimphu<br />* Dochula Pass, Serbithang National Park & Chimi Lhakhang<br />* Punakha<br />* Phobjikha Valley<br />* Paro<br />* Chela La Pass & Haa Valley | * June, 2019<br />* 8 days<br />* Budget INR 92,000 (USD 1,250) per person<br />* [Itinerary Bhutan 2019.pdf](..\assets\pdf\Itinerary Bhutan 2019.pdf)<br /> |
 
 **International Travel Itineraries  coming-up**
 
