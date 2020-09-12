@@ -93,11 +93,13 @@ comments: true
 
 **Chela La Pass & Haa Valley**
 
-|      |      |
-| :--- | :--- |
-|      |      |
-|      |      |
-|      |      |
+| ![4b-Paro - Chela La Pass & Haa Valley (1)](../assets/img/Bhutan 2019/4b-Paro - Chela La Pass & Haa Valley (1).JPG) | ![4b-Paro - Chela La Pass & Haa Valley (2)](../assets/img/Bhutan 2019/4b-Paro - Chela La Pass & Haa Valley (2).JPG) |
+| :----------------------------------------------------------- | :----------------------------------------------------------- |
+| ![4b-Paro - Chela La Pass & Haa Valley (4)](../assets/img/Bhutan 2019/4b-Paro - Chela La Pass & Haa Valley (4).JPG) | ![4b-Paro - Chela La Pass & Haa Valley (8)](../assets/img/Bhutan 2019/4b-Paro - Chela La Pass & Haa Valley (8).JPG) |
+| ![4b-Paro - Chela La Pass & Haa Valley (6)](../assets/img/Bhutan 2019/4b-Paro - Chela La Pass & Haa Valley (6).JPG) | ![4b-Paro - Chela La Pass & Haa Valley (5)](../assets/img/Bhutan 2019/4b-Paro - Chela La Pass & Haa Valley (5).JPG) |
+| ![4b-Paro - Chela La Pass & Haa Valley (3)](../assets/img/Bhutan 2019/4b-Paro - Chela La Pass & Haa Valley (3).JPG) | ![4b-Paro - Chela La Pass & Haa Valley (12)](../assets/img/Bhutan 2019/4b-Paro - Chela La Pass & Haa Valley (12).JPG) |
+| ![4b-Paro - Chela La Pass & Haa Valley (11)](../assets/img/Bhutan 2019/4b-Paro - Chela La Pass & Haa Valley (11).JPG) | ![4b-Paro - Chela La Pass & Haa Valley (10)](../assets/img/Bhutan 2019/4b-Paro - Chela La Pass & Haa Valley (10).JPG) |
+| ![4b-Paro - Chela La Pass & Haa Valley (7)](../assets/img/Bhutan 2019/4b-Paro - Chela La Pass & Haa Valley (7).JPG) | ![4b-Paro - Chela La Pass & Haa Valley (9)](../assets/img/Bhutan 2019/4b-Paro - Chela La Pass & Haa Valley (9).JPG) |
 
 
 
