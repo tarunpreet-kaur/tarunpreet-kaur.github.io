@@ -1,6 +1,4 @@
 ---
-
-
 layout: post
 title: Misty Travel Diaries - Bhutan, 2019
 subtitle: Thimphu, Punakha, Paro
