@@ -41,18 +41,31 @@ comments: true
 |                                                              |      |
 |                                                              |      |
 
-**Dochula Pass & National Park & Chimi Lhakhang**
+**Dochula Pass, Serbithang National Park & Chimi Lhakhang**
+
+|      |
+| ---- |
+|      |
 
 |      |      |
 | :--- | :--- |
 |      |      |
 |      |      |
 |      |      |
-|      |      |
-
-
 
 **Punakha**
+
+| ![3a-Punakha (5)](../assets/img/Bhutan 2019/3a-Punakha (5).JPG) | ![3a-Punakha (8)](../assets/img/Bhutan 2019/3a-Punakha (8).JPG) |
+| :----------------------------------------------------------- | :----------------------------------------------------------- |
+| ![3a-Punakha (3)](../assets/img/Bhutan 2019/3a-Punakha (3).JPG) | ![3a-Punakha (4)](../assets/img/Bhutan 2019/3a-Punakha (4).JPG) |
+| ![3a-Punakha (7)](../assets/img/Bhutan 2019/3a-Punakha (7).JPG) | ![3a-Punakha (6)](../assets/img/Bhutan 2019/3a-Punakha (6).JPG) |
+| ![3a-Punakha (10)](../assets/img/Bhutan 2019/3a-Punakha (10).JPG) | ![3a-Punakha (9)](../assets/img/Bhutan 2019/3a-Punakha (9).JPG) |
+| ![3a-Punakha (11)](../assets/img/Bhutan 2019/3a-Punakha (11).JPG) | ![3a-Punakha (12)](../assets/img/Bhutan 2019/3a-Punakha (12).JPG) |
+| ![3a-Punakha (2)](../assets/img/Bhutan 2019/3a-Punakha (2).JPG) | ![3a-Punakha (1)](../assets/img/Bhutan 2019/3a-Punakha (1).JPG) |
+
+
+
+**Phobjikha Valley**
 
 |      |      |
 | :--- | :--- |
