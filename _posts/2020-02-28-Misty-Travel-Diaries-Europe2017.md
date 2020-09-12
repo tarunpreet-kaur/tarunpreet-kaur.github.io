@@ -105,7 +105,7 @@ comments: true
 
 
 
-**Austria::Vienna (Wien)::Schonbrunn - Zoo/Palace/Gardens**
+**Austria::Vienna (Wien)::Schonbrunn - Zoo, Palace & Gardens**
 
 | ![4-Austr-1-Vienna-Day2 (2)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day2 (2).JPG) | ![4-Austr-1-Vienna-Day2 (1)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day2 (1).JPG) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
