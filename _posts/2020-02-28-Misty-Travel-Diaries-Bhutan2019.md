@@ -15,7 +15,7 @@ comments: true
 **Cities visited**
 
 * **Thimphu**<br />
-* **Dochula Pass & Serbithang National Park** (en-route Thimphu -> Punakha)
+* **Dochula Pass, Serbithang National Park & Chimi Lhakhang ** (en-route Thimphu -> Punakha)
 * **Punakha**<br />
 * **Phobjikha Valley** (day trip from Punakha)
 * **Paro**<br />
@@ -40,6 +40,15 @@ comments: true
 | :----------------------------------------------------------- | ---- |
 |                                                              |      |
 |                                                              |      |
+
+**Dochula Pass & National Park & Chimi Lhakhang**
+
+|      |      |
+| :--- | :--- |
+|      |      |
+|      |      |
+|      |      |
+|      |      |
 
 
 
