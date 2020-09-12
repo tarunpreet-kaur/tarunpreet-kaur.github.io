@@ -89,6 +89,14 @@ comments: true
 
 
 
+**Chela La Pass & Haa Valley**
+
+|      |      |
+| :--- | :--- |
+|      |      |
+|      |      |
+|      |      |
+
 
 
 
