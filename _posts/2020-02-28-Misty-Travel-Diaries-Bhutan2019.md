@@ -36,16 +36,20 @@ comments: true
 
 **Thimphu**
 
-| ![1-Thimphu-1-BuddhaDdma(1)](../assets/img/Bhutan 2019/1-Thimphu-1-BuddhaDdma(1).gif) |      |
-| :----------------------------------------------------------- | ---- |
-|                                                              |      |
-|                                                              |      |
+| ![1-Thimphu-1-BuddhaDdma(1)](../assets/img/Bhutan 2019/1-Thimphu-1-BuddhaDdma(1).gif) | ![1-Thimphu-1-Royal Palace](../assets/img/Bhutan 2019/1-Thimphu-1-Royal Palace.gif) |
+| :----------------------------------------------------------- | ------------------------------------------------------------ |
+| ![1-Thimphu (2)](../assets/img/Bhutan 2019/1-Thimphu (2).JPG) | ![1-Thimphu (1)](../assets/img/Bhutan 2019/1-Thimphu (1).JPG) |
+| ![1-Thimphu (4)](../assets/img/Bhutan 2019/1-Thimphu (4).JPG) | ![1-Thimphu (3)](../assets/img/Bhutan 2019/1-Thimphu (3).JPG) |
+| ![1-Thimphu (7)](../assets/img/Bhutan 2019/1-Thimphu (7).JPG) | ![1-Thimphu (5)](../assets/img/Bhutan 2019/1-Thimphu (5).JPG) |
+| ![1-Thimphu (8)](../assets/img/Bhutan 2019/1-Thimphu (8).jpg) | ![1-Thimphu (6)](../assets/img/Bhutan 2019/1-Thimphu (6).JPG) |
+| ![1-Thimphu (9)](../assets/img/Bhutan 2019/1-Thimphu (9).JPG) | ![1-Thimphu (10)](../assets/img/Bhutan 2019/1-Thimphu (10).JPG) |
+| ![1-Thimphu (12)](../assets/img/Bhutan 2019/1-Thimphu (12).JPG) | ![1-Thimphu (11)](../assets/img/Bhutan 2019/1-Thimphu (11).JPG) |
+| ![1-Thimphu (13)](../assets/img/Bhutan 2019/1-Thimphu (13).JPG) | ![1-Thimphu (14)](../assets/img/Bhutan 2019/1-Thimphu (14).JPG) |
+| ![1-Thimphu (15)](../assets/img/Bhutan 2019/1-Thimphu (15).JPG) | ![1-Thimphu (16)](../assets/img/Bhutan 2019/1-Thimphu (16).JPG) |
+
+
 
 **Dochula Pass, Serbithang National Park & Chimi Lhakhang**
-
-|      |
-| ---- |
-|      |
 
 |      |      |
 | :--- | :--- |
