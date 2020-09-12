@@ -74,7 +74,7 @@ comments: true
 
 
 
-**Belgium::Bruges(Brugge)** 
+**Belgium::Bruges (Brugge)** 
 
 | ![2-Belg-1-Brugge (1)](../assets/img/Europe 2017/2-Belg-1-Brugge (1).JPG) | <img src="../assets/img/Europe 2017/2-Belg-1-Brugge (3).JPG" alt="2-Belg-1-Brugge (3)" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -83,7 +83,7 @@ comments: true
 
 
 
-**Germany::Cologne(Koln)**
+**Germany::Cologne (Koln)**
 
 | ![3-Germ-1-Koln (1)](../assets/img/Europe 2017/3-Germ-1-Koln (1).JPG) | <img src="../assets/img/Europe 2017/3-Germ-1-Koln (4).JPG" alt="3-Germ-1-Koln (4)" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -93,7 +93,7 @@ comments: true
 
 
 
-**Austria::Vienna(Wien)**
+**Austria::Vienna (Wien)::Heart of the city**
 
 | ![4-Austr-1-Vienna-Day1 (11)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day1 (11).JPG) | ![4-Austr-1-Vienna-Day1 (12)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day1 (12).JPG) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -101,11 +101,23 @@ comments: true
 | ![4-Austr-1-Vienna-Day1 (2)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day1 (2).JPG) | ![4-Austr-1-Vienna-Day1 (5)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day1 (5).JPG) |
 | ![4-Austr-1-Vienna-Day1 (3)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day1 (3).JPG) | ![4-Austr-1-Vienna-Day1 (7)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day1 (7).JPG) |
 | ![4-Austr-1-Vienna-Day1 (9)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day1 (9).JPG) | ![4-Austr-1-Vienna-Day1 (1)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day1 (1).JPG) |
+| ![4-Austr-1-Vienna-Day1 (6)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day1 (6).JPG) | ![4-Austr-1-Vienna-Day1 (4)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day1 (4).JPG) |
+
+
+
+**Austria::Vienna (Wien)::Schonbrunn - Zoo/Palace/Gardens**
+
+| ![4-Austr-1-Vienna-Day2 (2)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day2 (2).JPG) | ![4-Austr-1-Vienna-Day2 (4)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day2 (4).JPG) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![4-Austr-1-Vienna-Day2 (5)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day2 (5).JPG) | ![4-Austr-1-Vienna-Day2 (6)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day2 (6).JPG) |
+| ![4-Austr-1-Vienna-Day2 (7)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day2 (7).JPG) | ![4-Austr-1-Vienna-Day2 (8)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day2 (8).JPG) |
+| ![4-Austr-1-Vienna-Day2 (9)](../../../../Users/kaur/Desktop/inst/EUR/June 22 Vienna Zoo & Prater/4-Austr-1-Vienna-Day2 (9).JPG) | ![4-Austr-1-Vienna-Day2 (11)](../../../../Users/kaur/Desktop/inst/EUR/June 22 Vienna Zoo & Prater/4-Austr-1-Vienna-Day2 (11).JPG) |
+|                                                              |                                                              |
 |                                                              |                                                              |
 
 
 
-**Germany::Munich(Munchen)**
+**Germany::Munich (Munchen)**
 
 |      |      |
 | ---- | ---- |
