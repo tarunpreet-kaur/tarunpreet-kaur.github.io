@@ -14,11 +14,12 @@ comments: true
 
 **Cities visited**
 
-* Thimphu<br />
-* Punakha<br />
-* Paro::Cologne, Munich<br />
-
-  
+* **Thimphu**<br />
+* **Dochula Pass & Serbithang National Park** (en-route Thimphu -> Punakha)
+* **Punakha**<br />
+* **Phobjikha Valley** (day trip from Punakha)
+* **Paro**<br />
+* **Chela La Pass & Haa Valley** (day trip from Paro)
 
 **Other details**
 
@@ -35,10 +36,10 @@ comments: true
 
 **Thimphu**
 
-|      |      |
-| :--- | ---- |
-|      |      |
-|      |      |
+| ![1-Thimphu-1-BuddhaDdma(1)](../assets/img/Bhutan 2019/1-Thimphu-1-BuddhaDdma(1).gif) |      |
+| :----------------------------------------------------------- | ---- |
+|                                                              |      |
+|                                                              |      |
 
 
 
