@@ -52,11 +52,12 @@ comments: true
 
 **Dochula Pass, Serbithang National Park & Chimi Lhakhang**
 
-|      |      |
-| :--- | :--- |
-|      |      |
-|      |      |
-|      |      |
+| ![2-Dochula Pass & National Park (2)](../assets/img/Bhutan 2019/2-Dochula Pass & National Park (2).JPG) | ![2-Dochula Pass & National Park (1)](../assets/img/Bhutan 2019/2-Dochula Pass & National Park (1).JPG) |
+| :----------------------------------------------------------- | :----------------------------------------------------------- |
+| ![2-Dochula Pass & National Park (4)](../assets/img/Bhutan 2019/2-Dochula Pass & National Park (4).JPG) | ![2-Dochula Pass & National Park (3)](../assets/img/Bhutan 2019/2-Dochula Pass & National Park (3).JPG) |
+| ![2-Dochula Pass & National Park (9)](../assets/img/Bhutan 2019/2-Dochula Pass & National Park (9).JPG) | ![2-Dochula Pass & National Park (8)](../assets/img/Bhutan 2019/2-Dochula Pass & National Park (8).JPG) |
+| ![2-Dochula Pass & National Park (7)](../assets/img/Bhutan 2019/2-Dochula Pass & National Park (7).JPG) | ![2-Dochula Pass & National Park (6)](../assets/img/Bhutan 2019/2-Dochula Pass & National Park (6).JPG) |
+| ![2-Dochula Pass & National Park (5)](../assets/img/Bhutan 2019/2-Dochula Pass & National Park (5).JPG) | ![2-Dochula Pass & National Park (10)](../assets/img/Bhutan 2019/2-Dochula Pass & National Park (10).jpg) |
 
 **Punakha**
 
