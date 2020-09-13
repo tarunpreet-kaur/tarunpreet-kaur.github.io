@@ -9,6 +9,7 @@ comments: true
 ---
 
 **Instagram:** [@mistytraveldiaries](https://www.instagram.com/mistytraveldiaries/)
+**Homepage:**[Misty Travel Diaries](https://tarunpreet-kaur.github.io/2020-02-28-Misty-Travel-Diaries/) 
 
 
 
