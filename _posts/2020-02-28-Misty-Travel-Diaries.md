@@ -19,13 +19,13 @@ comments: true
 
 **International Travel Itineraries  coming-up**
 
-| Holiday      | Cities                                                       | Budget<br />per<br />adult |
-| :----------- | ------------------------------------------------------------ | -------------------------- |
-| Bali         | *                                                            |                            |
-| Thailand     | *                                                            |                            |
-| Singapore    |                                                              |                            |
-| USA-East     | * NY<br />* NJ<br />* Washington DC                          |                            |
-| Europe, 2007 | * <u>France</u>::Paris, Nice, Cannes, Monaco Monte Carlo<br />* <u>Italy</u>::Rome, Venice<br />* <u>Vatican City</u> |                            |
+| Holiday      | Cities                                                       | When / Duration | Budget<br />per<br />adult |
+| :----------- | ------------------------------------------------------------ | --------------- | :------------------------: |
+| Bali         | *                                                            |                 |                            |
+| Thailand     | *                                                            |                 |                            |
+| Singapore    |                                                              |                 |                            |
+| USA-East     | * NY<br />* NJ<br />* Washington DC                          |                 |                            |
+| Europe, 2007 | * <u>France</u>::Paris, Nice, Cannes, Monaco Monte Carlo<br />* <u>Italy</u>::Rome, Venice<br />* <u>Vatican City</u> |                 |                            |
 
 **Indian Travel Itineraries coming-up**
 
