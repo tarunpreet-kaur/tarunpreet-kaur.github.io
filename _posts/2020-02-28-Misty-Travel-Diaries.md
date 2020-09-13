@@ -14,7 +14,7 @@ comments: true
 
 | Holiday | Cities | When / Duration | Budget<br />per<br />adult |
 | :------ | ------- | ------- | :-----: |
-| [Europe, 2017](https://tarunpreet-kaur.github.io/2020-02-28-Misty-Travel-Diaries-Europe2017/) | **`Netherlands`**::Amsterdam, Zaanse Schans, Harleem, Giethoorn<br /> **`Belgium`**::Bruges<br /> **`Germany`**::Cologne, Munich<br /> **`Austria`**::Vienna, Salzburg, Kaprun, Zell am See<br /><br />[Itinerary Europe 2017.pdf](..\assets\pdf\Itinerary Europe 2017.pdf) | * June,2017<br />* 13 days<br /> | INR 92,000<br />(USD 1,250) |
+| [Europe, 2017](https://tarunpreet-kaur.github.io/2020-02-28-Misty-Travel-Diaries-Europe2017/) | * **`Netherlands`**::Amsterdam, Zaanse Schans, Harleem, Giethoorn<br /> * **`Belgium`**::Bruges<br /> **`Germany`**::Cologne, Munich<br /> **`Austria`**::Vienna, Salzburg, Kaprun, Zell am See<br /><br />[Itinerary Europe 2017.pdf](..\assets\pdf\Itinerary Europe 2017.pdf) | * June,2017<br />* 13 days<br /> | INR 92,000<br />(USD 1,250) |
 | [Bhutan, 2019](https://tarunpreet-kaur.github.io/2020-02-28-Misty-Travel-Diaries-Bhutan2019/) | * Thimphu<br />* Dochula Pass, Serbithang National Park & Chimi Lhakhang<br />* Punakha<br />* Phobjikha Valley<br />* Paro<br />* Chela La Pass & Haa Valley<br /><br />[Itinerary Bhutan 2019.pdf](..\assets\pdf\Itinerary Bhutan 2019.pdf) | * June, 2019<br />* 8 days<br /> | INR 92,000<br />(USD 1,250) |
 
 **International Travel Itineraries  coming-up**
@@ -25,7 +25,7 @@ comments: true
 | Thailand     | *                                                            |                 |                            |
 | Singapore    |                                                              |                 |                            |
 | USA-East     | * NY<br />* NJ<br />* Washington DC                          |                 |                            |
-| Europe, 2007 | * <u>France</u>::Paris, Nice, Cannes, Monaco Monte Carlo<br />* <u>Italy</u>::Rome, Venice<br />* <u>Vatican City</u> |                 |                            |
+| Europe, 2007 | * **`France`**::Paris, Nice, Cannes, Monaco Monte Carlo<br />* **`Italy`**::Rome, Venice<br />* **`Vatican City`** |                 |                            |
 
 **Indian Travel Itineraries coming-up**
 
