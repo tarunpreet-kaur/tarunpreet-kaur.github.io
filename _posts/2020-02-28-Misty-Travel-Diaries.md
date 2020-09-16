@@ -3,8 +3,8 @@ layout: post
 title: Misty Travel Diaries
 subtitle: Detailed itinerary | Day-wise plan | Maps | Photo gallery
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+gh-badge: []
+tags: [travel]
 comments: true
 ---
 
