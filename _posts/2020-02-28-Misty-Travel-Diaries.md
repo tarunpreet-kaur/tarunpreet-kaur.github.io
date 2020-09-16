@@ -10,7 +10,7 @@ comments: true
 
 **Instagram:** [@mistytraveldiaries](https://www.instagram.com/mistytraveldiaries/)
 
-**International Travel Itineraries available**
+**International Travel Itineraries**
 
 | Holiday | Cities | When / Duration | Budget<br />per<br />adult |
 | :------ | ------- | ------- | :-----: |
