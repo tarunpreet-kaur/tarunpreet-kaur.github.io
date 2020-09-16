@@ -8,7 +8,7 @@ Myself - Tarunpreet Kaur, from New Delhi, India. I love travel, photography, fas
 
 ### My story
 
-Over the past years i have visited so many beautiful places. Some of my favourite most pictures from these holidays.
+Over the past years, I have visited so many beautiful places. Some of my favourite most pictures from these holidays.
 
 | ![3a-Punakha (3)](assets/img/Bhutan 2019/3a-Punakha (3).JPG) | ![1-Thimphu (10)](assets/img/Bhutan 2019/1-Thimphu (10).JPG) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
