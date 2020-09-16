@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Get to know me
+subtitle: !!Get to know me!!
 ---
 
-Myself - Tarunpreet Kaur, from New Delhi, India. I love travel, photography, fashion & learning various dance forms. I am an organized person & I prepare my travel plans very carefully. Sharing some of my detailed itineraries with you @MistyTravelDiaries below.
+Myself - Tarunpreet Kaur, from New Delhi, India. I love travel, photography, fashion & learning various dance forms. I am an organized person & I prepare my travel plans very carefully. Sharing some of my detailed itineraries with you @ [Misty Travel Diaries](https://tarunpreet-kaur.github.io/2020-02-28-Misty-Travel-Diaries/)
 
 ### My story
 
-Over the past years i have visited so many beautiful places. Just my favourite most pictures from these holidays.
+Over the past years i have visited so many beautiful places. Some of my favourite most pictures from these holidays.
 
 | ![3a-Punakha (3)](assets/img/Bhutan 2019/3a-Punakha (3).JPG) | ![1-Thimphu (10)](assets/img/Bhutan 2019/1-Thimphu (10).JPG) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
