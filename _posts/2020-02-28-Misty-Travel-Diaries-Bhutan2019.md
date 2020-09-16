@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Misty Travel Diaries - Bhutan, 2019
 subtitle: Thimphu, Punakha, Paro
 gh-repo: daattali/beautiful-jekyll
