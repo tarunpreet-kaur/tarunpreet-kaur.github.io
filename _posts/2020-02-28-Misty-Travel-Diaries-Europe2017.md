@@ -4,7 +4,7 @@ title: Misty Travel Diaries - Europe, 2017
 subtitle: Netherlands, Belgium, Germany, Austria
 gh-repo: daattali/beautiful-jekyll
 gh-badge: []
-tags: [travel, travel_europe]
+tags: [travel, travel_europe, travel_june]
 comments: true
 ---
 
