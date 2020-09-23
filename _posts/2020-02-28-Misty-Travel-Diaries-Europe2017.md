@@ -30,11 +30,16 @@ comments: true
 * **Budget:** INR 92,000 (USD 1,250) per person
    <u>Excluding</u>: Flight Ticket (INR 63,000 return ticket from India), Shopping
    <u>Including</u>: Hotel / Homestay, Inter & Intra City Travel including train fare, Food, Entry fees
-* **Download Itinerary:**   [Itinerary Europe 2017.pdf](..\assets\pdf\Itinerary Europe 2017.pdf) 
+   
+   
+
+## Travel Itinerary
+
+**Download Itinerary:**   [Itinerary Europe 2017.pdf](..\assets\pdf\Itinerary Europe 2017.pdf) 
+
+![Itinerary Europe 2017](../assets/img/Europe 2017/Itinerary Europe 2017.gif)
 
 
-
-## Photo Blog
 
 **Begin of Europe Trip**
 
