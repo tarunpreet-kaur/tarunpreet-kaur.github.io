@@ -10,7 +10,7 @@ comments: true
 
 **Instagram:** [@mistytraveldiaries](https://www.instagram.com/mistytraveldiaries/)                
 **Homepage:** [Misty Excursions](http://tarunpreetkaur.com/)                
-**Back:** [Misty Travel Diaries](https://tarunpreet-kaur.github.io/2020-02-28-Misty-Travel-Diaries/)
+**Back:** [Misty Travel Diaries](http://tarunpreetkaur.com/Misty-Travel-Diaries.html)
 
 
 
