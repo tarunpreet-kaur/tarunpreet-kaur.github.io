@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Misty Diaries
+title: Misty Travel Diaries
 subtitle: Detailed itinerary | Day-wise plan | Maps | Photo gallery
 gh-repo: daattali/beautiful-jekyll
 gh-badge: []
