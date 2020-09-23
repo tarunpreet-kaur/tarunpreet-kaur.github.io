@@ -41,6 +41,8 @@ comments: true
 
 
 
+## Photo Blog & trip details
+
 **Begin of Europe Trip**
 
 Arrive at Schiphol Amsterdam airport 
