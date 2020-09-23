@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Misty Travel Diaries
+title: Misty Diaries
 subtitle: Detailed itinerary | Day-wise plan | Maps | Photo gallery
 gh-repo: daattali/beautiful-jekyll
 gh-badge: []
@@ -9,7 +9,7 @@ comments: true
 ---
 
 **Instagram:** [@mistytraveldiaries](https://www.instagram.com/mistytraveldiaries/)                
-**Homepage:** [Misty Excursions](http://tarunpreetkaur.com/) 
+**Homepage:** [Misty Diaries](http://tarunpreetkaur.com/) 
 
 
 
