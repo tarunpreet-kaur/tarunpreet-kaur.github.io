@@ -10,7 +10,7 @@ comments: true
 
 **Instagram:** [@mistytraveldiaries](https://www.instagram.com/mistytraveldiaries/)                
 **Homepage:** [Misty Excursions](http://tarunpreetkaur.com/)                
-**Back:** [Misty Travel Diaries](https://tarunpreet-kaur.github.io/2020-02-28-Misty-Travel-Diaries/)
+**Back:** [Misty Travel Diaries](http://tarunpreetkaur.com/Misty-Travel-Diaries.html)
 
 
 
@@ -35,7 +35,15 @@ comments: true
 
 
 
-## Photo Blog
+## Travel Itinerary
+
+**Download Itinerary:**    [Itinerary Bhutan 2019.pdf](..\assets\pdf\Itinerary Bhutan 2019.pdf) 
+
+![Itinerary Bhutan 2019](../assets/img/Bhutan 2019/Itinerary Bhutan 2019.gif)
+
+
+
+## Photo Blog & trip details
 
 **Thimphu**
 
