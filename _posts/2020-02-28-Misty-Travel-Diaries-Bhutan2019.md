@@ -9,7 +9,7 @@ comments: true
 ---
 
 **Instagram:** [@mistytraveldiaries](https://www.instagram.com/mistytraveldiaries/)                
-**Homepage:** [Misty Excursions](http://tarunpreetkaur.com/)                
+**Homepage:** [Misty Diaries](http://tarunpreetkaur.com/)                
 **Back:** [Misty Travel Diaries](http://tarunpreetkaur.com/Misty-Travel-Diaries.html)
 
 
