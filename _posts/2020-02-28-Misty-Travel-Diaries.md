@@ -8,7 +8,8 @@ tags: [travel]
 comments: true
 ---
 
-**Instagram:** [@mistytraveldiaries](https://www.instagram.com/mistytraveldiaries/)                **Homepage:** [Misty Excursions](http://tarunpreetkaur.com/) 
+**Instagram:** [@mistytraveldiaries](https://www.instagram.com/mistytraveldiaries/)                
+**Homepage:** [Misty Excursions](http://tarunpreetkaur.com/) 
 
 
 
