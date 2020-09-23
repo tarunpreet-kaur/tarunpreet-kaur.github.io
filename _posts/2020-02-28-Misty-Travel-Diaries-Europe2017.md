@@ -34,7 +34,23 @@ comments: true
 
 ## Photo Blog
 
+**Begin of Europe Trip**
+
+Arrive at Schiphol Amsterdam airport 
+
+·    Buy a metro pass 
+We bought a 3 days metro pass as the last 2 days of stay at Amsterdam, we hired a car to visit Giethoorn (in northern Netherlands) and also Bruges (in Belgium). Check if Zaanse Schaans is covered.
+
+·    Buy train tickets / hire a cab to the main city
+Train tickets cost 5.40€ and it takes around 20 minutes to reach the downtown area. Taxi costs 39€ & takes roughly the same time. You can decide depending on your luggage requirements
+
+
+
 **Netherlands::Amsterdam**
+
+Day 1: Amsterdam Central
+
+Amsterdam is the Netherlands’ capital, known for its artistic heritage, elaborate canal system and narrow houses with gabled fronts. Cycling is key to the city’s character, and there are numerous bike paths & one can see all varieties of cyclists. If you love cycling, getting a cycle on rent is possible. It's Museum District houses the Van Gogh Museum & the famous Rijksmuseum. 
 
 | <img src="../assets/img/Europe 2017/1-Neth-1-Amst-1.JPG" alt="1-Neth-1-Amst-1" /> | <img src="../assets/img/Europe 2017/1-Neth-1-Amst-2.JPG" alt="1-Neth-1-Amst-2" /> |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
