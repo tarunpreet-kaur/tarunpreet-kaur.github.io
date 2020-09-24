@@ -40,25 +40,25 @@ visible: 1
 
 **Indian Travel Itineraries coming-up**
 
-| Holiday          | State/UT                 | Cities                                                       | When / Duration | Highlights                                           |
-| :--------------- | :----------------------- | ------------------------------------------------------------ | --------------- | ---------------------------------------------------- |
-| Kashmir, 2018    | India                    | **`India::Kashmir::`**<br />* Srinagar<br />* Sonamarg<br />* Gulmarg<br />* Pahalgam<br /> | Aug, 2018       | Mountains<br />Rivers                                |
-| North East, 2016 |                          | **`India::Arunachal Pradesh::`**<br />* Tawang<br />**`India::Assam::`**<br />* Guwahati::<br />* Kaziranga<br />* Majuli<br />**`India::Meghalaya::`**<br />* Shillong<br />* Cherrapunji<br />* Mawlynnong<br />* Mawphlang | Jun, 2016       | Mountains<br />Rivers<br />Rains<br />Waterfalls     |
-| North East-2     | West Bengal,<br />Sikkim | * West Bengal:: Darjeeling<br />* Sikkim::Gangtok, Pelling, Tashiding | Dec, 2018       | Mountains<br />Rivers                                |
-| Goa              | Goa                      |                                                              |                 | Beaches                                              |
-| Uttarakhand-1    | Uttarakhand              | * Jim Corbett, Ranikhet, Nainital                            |                 | Mountains<br />Rivers<br<br />Lakes                  |
-| Uttarakhand-2    | Uttarakhand              | * Rishikesh, Dehradun, Mussoorie                             |                 | Mountains<br />Rivers<br />Ganges<br />River Rafting |
-| Rajasthan        | Rajasthan                | * Jaipur, Udaipur, Jaisalmer, Jodhpur, Chittorgarh, Pushkar  | Dec, 2016?      | Forts<br />Hills<br />Desert<br />Culture            |
-| Ranthambore      | Rajasthan                | * Ranthambore                                                | Dec, 2019       | National Park                                        |
-| Bharatpur        | Rajasthan                | * Bharatpur                                                  | Aug, 2019       | Bird Sanctuary                                       |
-| Alwar            | Rajasthan                |                                                              |                 | Hills<br />Resorts                                   |
-| Kerala           | India                    | * Munnar, Kumarakom, Trivandrum                              |                 | Beaches<br />Greenary<br />Temples                   |
-| New Delhi        | Delhi                    | * New Delhi                                                  |                 | Heritage Buildings                                   |
-| Maharashtra      | Maharashtra              | * Khandala, Mumbai                                           |                 |                                                      |
-| Manali           | Himachal Pradesh         | *                                                            |                 | Mountains<br />Rivers                                |
-| Shimla           | Himachal Pradesh         | * Shimla                                                     |                 | Mountains                                            |
-| Karnataka        | Kodaikanal, Ooty         |                                                              |                 | Mountains<br />Lakes                                 |
-| Agra             | Uttar Pradesh            |                                                              |                 | Taj Mahal                                            |
-| Gujarat & Diu    | Gujarat<br />Diu         |                                                              |                 | Beaches<br />Gandhi                                  |
+| Holiday           | Cities                                                       | When / Duration | Highlights                                           |
+| :---------------- | ------------------------------------------------------------ | --------------- | ---------------------------------------------------- |
+| Kashmir, 2018     | **`India::Kashmir::`**<br />* Srinagar<br />* Sonamarg<br />* Gulmarg<br />* Pahalgam<br /> | Aug, 2018       | Mountains<br />Rivers                                |
+| North East, 2016  | **`Arunachal Pradesh::`**<br />* Tawang<br />**`Assam::`**<br />* Guwahati::<br />* Kaziranga<br />* Majuli<br />**`Meghalaya::`**<br />* Shillong<br />* Cherrapunji<br />* Mawlynnong<br />* Mawphlang | Jun, 2016       | Mountains<br />Rivers<br />Rains<br />Waterfalls     |
+| North East, 2018  | **`West Bengal::`**<br />* Darjeeling<br />**`Sikkim::`**<br />* Gangtok<br />* Pelling<br />* Tashiding | Dec, 2018       | Mountains<br />Rivers                                |
+| Goa               | Goa                                                          |                 | Beaches                                              |
+| Uttarakhand,2019  | **`Uttarakhand::`**<br />* Jim Corbett<br />* Ranikhet<br />* Nainital | Aug, 2019       | Mountains<br />Rivers<br<br />Lakes                  |
+| Uttarakhand, 2010 | **`Uttarakhand::`**<br />* Rishikesh<br />* Dehradun<br />* Mussoorie | Mar, 2010       | Mountains<br />Rivers<br />Ganges<br />River Rafting |
+| Rajasthan, 2015   | **`Rajasthan::`**<br />* Jaipur<br />* Udaipur<br />* Jaisalmer<br />* Jodhpur<br />* Chittorgarh<br />* Pushkar | Dec, 2015       | Forts<br />Hills<br />Desert<br />Culture            |
+| Ranthambore, 2019 | **`Rajasthan::`**<br />* Ranthambore                         | Dec, 2019       | National Park                                        |
+| Bharatpur, 2019   | **`Rajasthan::`**<br />* Bharatpur                           | Aug, 2019       | Bird Sanctuary                                       |
+| Alwar Resorts     | **`Rajasthan::`**<br />* Alwar - Neemrana<br />* Alwar - Dadhikar Fort<br />* Alwar - Alwar Bagh<br />* Alwar - Shakunt Resort |                 | Hills<br />Resorts                                   |
+| Kerala, 2016      | **`Kerala`**<br />* Munnar<br />* Kumarakom<br />* Trivandrum |                 | Beaches<br />Greenary<br />Temples                   |
+| New Delhi, 2014   | * New Delhi                                                  |                 | Heritage Buildings                                   |
+| Maharashtra       | **`Maharashtra`**<br />* Khandala <br />* Mumbai             |                 |                                                      |
+| Manali, 2003      | **`Himachal Pradesh`**<br />* Khandala <br />* Mumbai        |                 | Mountains<br />Rivers                                |
+| Shimla, 2013      | **`Himachal Pradesh`**<br />* Shimla                         |                 | Mountains                                            |
+| Karnataka, 2004   | **`Karnataka`**<br />* Kodaikanal<br />* Ooty                |                 | Mountains<br />Lakes                                 |
+| Agra              | **`Uttar Pradesh`**<br />* Agra                              |                 | Taj Mahal                                            |
+| Gujarat & Diu     | **`Daman & Diu`**<br />* Diu<br />**`Gujarat`**<br />* Gandhinagar<br /> |                 | Beaches<br />Gandhi Ji                               |
 
 
