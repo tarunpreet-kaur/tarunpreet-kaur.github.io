@@ -6,7 +6,7 @@ gh-repo: daattali/beautiful-jekyll
 gh-badge: []
 tags: [travel, travel_europe, travel_june]
 comments: true
-visible: 1
+visible: 0
 ---
 
 **Instagram:** [@mistytraveldiaries](https://www.instagram.com/mistytraveldiaries/)                
