@@ -6,6 +6,7 @@ gh-repo: daattali/beautiful-jekyll
 gh-badge: []
 tags: [travel]
 comments: true
+date: 2020-09-25 23:22:00 +0000
 visible: 1
 ---
 
@@ -23,9 +24,9 @@ visible: 1
 
 **Indian Travel Itineraries**
 
-| Holiday      | State/UT | Cities                                                       | When      | Days | Highlights            |
-| :----------- | :------- | ------------------------------------------------------------ | --------- | ---- | --------------------- |
-| Ladakh, 2014 | Ladakh   | * Leh<br />* Pangong Lake<br />* Nubra Valley<br />* Tso Moriri | Sep, 2014 | 12   | Mountains<br />Rivers |
+| Holiday            | State/UT | Cities                                                       | When      | Days | Highlights                                                   |
+| :----------------- | :------- | ------------------------------------------------------------ | --------- | ---- | ------------------------------------------------------------ |
+| Ladakh, <br />2014 | Ladakh   | * Leh, Chilling, Alchi, Hemis, Thiksey<br />* Pangong Lake, Chang La (5360m)<br />* Nubra Valley, Khardung La, Turtuk, <br />* Tso Moriri | Sep, 2014 | 12   | * Mountains<br />* Rivers & Lakes<br />* Monasteries<br />* Freezing Temperatures<br />* World's top 3 highest motorable road<br />* Low oxygen levels<br />* 3 Idiots<br />* Amazing roads by BRO<br />* Maggie<br />* All kinds of landscapes - Heaven! |
 
 **International Travel Itineraries  coming-up**
 
