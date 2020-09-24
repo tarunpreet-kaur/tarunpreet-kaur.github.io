@@ -6,6 +6,7 @@ gh-repo: daattali/beautiful-jekyll
 gh-badge: []
 tags: [travel, travel_asia, travel_june]
 comments: true
+date: 2020-08-28 23:22:00 +0000
 visible: 0
 ---
 
