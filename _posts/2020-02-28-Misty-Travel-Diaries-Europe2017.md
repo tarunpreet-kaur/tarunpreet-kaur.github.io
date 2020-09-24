@@ -6,6 +6,7 @@ gh-repo: daattali/beautiful-jekyll
 gh-badge: []
 tags: [travel, travel_europe, travel_june]
 comments: true
+date: 2020-09-25 23:22:00 +0000
 visible: 0
 ---
 
