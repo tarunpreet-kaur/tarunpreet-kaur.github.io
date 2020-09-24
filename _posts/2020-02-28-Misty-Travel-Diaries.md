@@ -10,8 +10,7 @@ date: 2020-08-28 23:22:00 +0000
 visible: 1
 ---
 
-**Instagram:** [@mistytraveldiaries](https://www.instagram.com/mistytraveldiaries/)
-
+**Instagram:** [@mistytraveldiaries](https://www.instagram.com/mistytraveldiaries/) 
 **Homepage:** [Misty Diaries](https://tarunpreetkaur.com/) 
 
 
