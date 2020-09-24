@@ -19,30 +19,30 @@ visible: 1
 
 | Holiday | Cities | When / Duration | Budget<br />per<br />adult |
 | :------ | ------- | ------- | :-----: |
-| [Europe, 2017](https://tarunpreetkaur.com/Misty-Travel-Diaries-Europe2017.html) | **`Netherlands`**::<br />* Amsterdam<br />* Zaanse Schans<br />* Harleem<br />* Giethoorn<br />**`Belgium`**::<br />* Bruges<br />**`Germany`**::<br />* Cologne<br />* Munich<br />**`Austria`**::<br />* Vienna<br />* Salzburg<br />* Zell am See & Kaprun (Alps)<br /> <br />[Itinerary Europe 2017.pdf](..\assets\pdf\Itinerary Europe 2017.pdf) | * Jun, 2017<br />* 13 days | INR 92,000<br />(USD 1,250) |
-| [Bhutan, 2019](https://tarunpreetkaur.com/Misty-Travel-Diaries-Bhutan2019.html) | **`Bhutan`**::<br />* Thimphu<br />* Dochula Pass<br />* Serbithang<br />* Punakha<br />* Phobjikha Valley<br />* Paro<br />* Chela La Pass & Haa Valley<br /><br />[Itinerary Bhutan 2019.pdf](..\assets\pdf\Itinerary Bhutan 2019.pdf) | * Jun, 2019<br />* 8 days | INR 45,000<br />(USD 612) |
+| [Europe, 2017](https://tarunpreetkaur.com/Misty-Travel-Diaries-Europe2017.html) | **`Netherlands::`**<br />* Amsterdam<br />* Zaanse Schans<br />* Harleem<br />* Giethoorn<br />**`Belgium::`**<br />* Bruges<br />**`Germany::`**<br />* Cologne<br />* Munich<br />**`Austria::`**<br />* Vienna<br />* Salzburg<br />* Zell am See & Kaprun (Alps)<br /> <br />[Itinerary Europe 2017.pdf](..\assets\pdf\Itinerary Europe 2017.pdf) | * Jun, 2017<br />* 13 days | INR 92,000<br />(USD 1,250) |
+| [Bhutan, 2019](https://tarunpreetkaur.com/Misty-Travel-Diaries-Bhutan2019.html) | **`Bhutan::`**<br />* Thimphu<br />* Dochula Pass<br />* Serbithang<br />* Punakha<br />* Phobjikha Valley<br />* Paro<br />* Chela La Pass & Haa Valley<br /><br />[Itinerary Bhutan 2019.pdf](..\assets\pdf\Itinerary Bhutan 2019.pdf) | * Jun, 2019<br />* 8 days | INR 45,000<br />(USD 612) |
 
 **Indian Travel Itineraries**
 
 | Holiday      | Cities                                                       | When / Duration            | Highlights                                                   |
 | :----------- | ------------------------------------------------------------ | -------------------------- | ------------------------------------------------------------ |
-| Ladakh, 2014 | **`India::Ladakh::`**<br />* Leh, Chilling, Alchi, Hemis, Thiksey<br />* Pangong Lake, Chang La (5360m)<br />* Nubra Valley, Khardung La, Turtuk, <br />* Tso Moriri | * Sep, 2014<br />* 12 days | * Mountains<br />* Rivers & Lakes<br />* Monasteries<br />* Freezing Temperatures<br />* World's highest motorable roads<br />* Low oxygen levels<br />* 3 Idiots<br />* Amazing roads by BRO<br />* Maggie<br />* All kinds of landscapes - Heaven! |
+| Ladakh, 2014 | **`Ladakh::`**<br />* Leh,<br />* Chilling, Alchi, Hemis, Thiksey<br />* Pangong Lake, Chang La (5360m)<br />* Nubra Valley, Khardung La, Turtuk, <br />* Tso Moriri | * Sep, 2014<br />* 12 days | * Mountains<br />* Rivers & Lakes<br />* Monasteries<br />* Freezing Temperatures<br />* World's highest motorable roads<br />* Low oxygen levels<br />* 3 Idiots<br />* Amazing roads by BRO<br />* Maggie<br />* All kinds of landscapes - Heaven! |
 
 **International Travel Itineraries  coming-up**
 
-| Holiday      | Cities                                                       | When / Duration | Budget<br />per<br />adult |
-| :----------- | ------------------------------------------------------------ | --------------- | :------------------------: |
-| Bali         | *                                                            |                 |                            |
-| Thailand     | *                                                            |                 |                            |
-| Singapore    |                                                              |                 |                            |
-| USA-East     | * NY<br />* NJ<br />* Washington DC                          |                 |                            |
-| Europe, 2007 | * **`France`**::Paris, Nice, Cannes, Monaco Monte Carlo<br />* **`Italy`**::Rome, Venice<br />* **`Vatican City`** |                 |                            |
+| Holiday         | Cities                                                       | When / Duration | Budget<br />per<br />adult |
+| :-------------- | ------------------------------------------------------------ | --------------- | :------------------------: |
+| Bali, 2016      | **`Bali::`**<br />* Ubud<br />* Kuta<br />                   |                 |                            |
+| Thailand, 2012  | **`Thailand::`**<br />* Phuket<br />* Bangkok<br />          |                 |                            |
+| Singapore, 2006 | **`Singapore::`**<br />* Singapore<br />                     |                 |                            |
+| USA-East, 2003  | **`USA::`**<br />* NY<br />* NJ<br />* Washington DC         |                 |                            |
+| Europe, 2007    | **`France::`**<br />* Paris<br />* Nice<br />* Cannes<br />**`Monaco Monte Carlo::`**<br />**`Italy::`**<br />* Rome,<br />* Venice<br />**`Vatican City::`** |                 |                            |
 
 **Indian Travel Itineraries coming-up**
 
 | Holiday           | Cities                                                       | When / Duration | Highlights                                           |
 | :---------------- | ------------------------------------------------------------ | --------------- | ---------------------------------------------------- |
-| Kashmir, 2018     | **`India::Kashmir::`**<br />* Srinagar<br />* Sonamarg<br />* Gulmarg<br />* Pahalgam<br /> | Aug, 2018       | Mountains<br />Rivers                                |
+| Kashmir, 2018     | **`Kashmir::`**<br />* Srinagar<br />* Sonamarg<br />* Gulmarg<br />* Pahalgam<br /> | Aug, 2018       | Mountains<br />Rivers                                |
 | North East, 2016  | **`Arunachal Pradesh::`**<br />* Tawang<br />**`Assam::`**<br />* Guwahati::<br />* Kaziranga<br />* Majuli<br />**`Meghalaya::`**<br />* Shillong<br />* Cherrapunji<br />* Mawlynnong<br />* Mawphlang | Jun, 2016       | Mountains<br />Rivers<br />Rains<br />Waterfalls     |
 | North East, 2018  | **`West Bengal::`**<br />* Darjeeling<br />**`Sikkim::`**<br />* Gangtok<br />* Pelling<br />* Tashiding | Dec, 2018       | Mountains<br />Rivers                                |
 | Goa               | Goa                                                          |                 | Beaches                                              |
@@ -52,13 +52,13 @@ visible: 1
 | Ranthambore, 2019 | **`Rajasthan::`**<br />* Ranthambore                         | Dec, 2019       | National Park                                        |
 | Bharatpur, 2019   | **`Rajasthan::`**<br />* Bharatpur                           | Aug, 2019       | Bird Sanctuary                                       |
 | Alwar Resorts     | **`Rajasthan::`**<br />* Alwar - Neemrana<br />* Alwar - Dadhikar Fort<br />* Alwar - Alwar Bagh<br />* Alwar - Shakunt Resort |                 | Hills<br />Resorts                                   |
-| Kerala, 2016      | **`Kerala`**<br />* Munnar<br />* Kumarakom<br />* Trivandrum |                 | Beaches<br />Greenary<br />Temples                   |
+| Kerala, 2016      | **`Kerala::`**<br />* Munnar<br />* Kumarakom<br />* Trivandrum |                 | Beaches<br />Greenary<br />Temples                   |
 | New Delhi, 2014   | * New Delhi                                                  |                 | Heritage Buildings                                   |
-| Maharashtra       | **`Maharashtra`**<br />* Khandala <br />* Mumbai             |                 |                                                      |
-| Manali, 2003      | **`Himachal Pradesh`**<br />* Khandala <br />* Mumbai        |                 | Mountains<br />Rivers                                |
-| Shimla, 2013      | **`Himachal Pradesh`**<br />* Shimla                         |                 | Mountains                                            |
-| Karnataka, 2004   | **`Karnataka`**<br />* Kodaikanal<br />* Ooty                |                 | Mountains<br />Lakes                                 |
-| Agra              | **`Uttar Pradesh`**<br />* Agra                              |                 | Taj Mahal                                            |
-| Gujarat & Diu     | **`Daman & Diu`**<br />* Diu<br />**`Gujarat`**<br />* Gandhinagar<br /> |                 | Beaches<br />Gandhi Ji                               |
+| Maharashtra       | **`Maharashtra::`**<br />* Khandala <br />* Mumbai           |                 |                                                      |
+| Manali, 2003      | **`Himachal Pradesh::`**<br />* Khandala <br />* Mumbai      |                 | Mountains<br />Rivers                                |
+| Shimla, 2013      | **`Himachal Pradesh::`**<br />* Shimla                       |                 | Mountains                                            |
+| Karnataka, 2004   | **`Karnataka::`**<br />* Kodaikanal<br />* Ooty              |                 | Mountains<br />Lakes                                 |
+| Agra              | **`Uttar Pradesh::`**<br />* Agra                            |                 | Taj Mahal                                            |
+| Gujarat & Diu     | **`Daman & Diu::`**<br />* Diu<br />**`Gujarat::`**<br />* Gandhinagar<br />* Rann of Kutchh |                 | Rann of Kutchh<br />Beaches<br />Gandhi Ji           |
 
 
