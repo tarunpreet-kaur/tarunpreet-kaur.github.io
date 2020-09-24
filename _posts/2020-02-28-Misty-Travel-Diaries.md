@@ -26,7 +26,7 @@ visible: 1
 
 | Holiday      | Cities                                                       | When / Duration            | Highlights                                                   |
 | :----------- | ------------------------------------------------------------ | -------------------------- | ------------------------------------------------------------ |
-| Ladakh, 2014 | **`Ladakh::`**<br />* Leh,<br />* Chilling, Alchi, Hemis, Thiksey<br />* Pangong Lake (via Chang La) <br />* Nubra Valley (via Khardung La)<br />* Turtuk, <br />* Tso Moriri | * Sep, 2014<br />* 12 days | * Mountains & Snow<br />* Rivers & Lakes<br />* Monasteries<br />* Freezing Cold<br />* BRO's World's highest motorable roads<br />* Low oxygen levels<br />* 3 Idiots<br />* Scantily populated<br />* All kinds of landscapes - Heaven! |
+| Ladakh, 2014 | **`Ladakh::`**<br />* Leh<br />* Chilling, Alchi, Hemis, Thiksey<br />* Pangong Lake (via Chang La) <br />* Nubra Valley (via Khardung La)<br />* Turtuk, <br />* Tso Moriri | * Sep, 2014<br />* 12 days | * Mountains & Snow<br />* Rivers & Lakes<br />* Monasteries<br />* Freezing Cold<br />* BRO's World's highest motorable roads<br />* Low oxygen levels<br />* 3 Idiots<br />* Scantily populated<br />* All kinds of landscapes - Heaven! |
 
 **International Travel Itineraries  coming-up**
 
