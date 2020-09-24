@@ -21,6 +21,12 @@ visible: 1
 | [Europe, 2017](http://tarunpreetkaur.com/Misty-Travel-Diaries-Europe2017.html) | * **`Netherlands`**::Amsterdam, Zaanse Schans, Harleem, Giethoorn<br /> * **`Belgium`**::Bruges<br />* **`Germany`**::Cologne, Munich<br />* **`Austria`**::Vienna, Salzburg, Kaprun, Zell am See (Alps)<br />                                                                                                     <br />[Itinerary Europe 2017.pdf](..\assets\pdf\Itinerary Europe 2017.pdf) | * Jun, 2017<br />* 13 days<br /> | INR 92,000<br />(USD 1,250) |
 | [Bhutan, 2019](http://tarunpreetkaur.com/Misty-Travel-Diaries-Bhutan2019.html) | * Thimphu<br />* Dochula Pass, Serbithang National Park & Chimi Lhakhang<br />* Punakha<br />* Phobjikha Valley<br />* Paro<br />* Chela La Pass & Haa Valley<br /><br />[Itinerary Bhutan 2019.pdf](..\assets\pdf\Itinerary Bhutan 2019.pdf) | * Jun, 2019<br />* 8 days<br /> | INR 45,000<br />(USD 612) |
 
+**Indian Travel Itineraries**
+
+| Holiday      | State/UT | Cities                                                       | When      | Days | Highlights            |
+| :----------- | :------- | ------------------------------------------------------------ | --------- | ---- | --------------------- |
+| Ladakh, 2014 | Ladakh   | * Leh<br />* Pangong Lake<br />* Nubra Valley<br />* Tso Moriri | Sep, 2014 | 12   | Mountains<br />Rivers |
+
 **International Travel Itineraries  coming-up**
 
 | Holiday      | Cities                                                       | When / Duration | Budget<br />per<br />adult |
@@ -35,10 +41,9 @@ visible: 1
 
 | Holiday       | State/UT                                     | Cities                                                       | When       | Days | Highlights                                           |
 | :------------ | :------------------------------------------- | ------------------------------------------------------------ | ---------- | ---- | ---------------------------------------------------- |
-| Leh-Ladakh    | Ladakh                                       |                                                              | Sep, 2015? |      | Mountains<br />Rivers                                |
-| Kashmir       | India                                        |                                                              | Aug, 2018? |      | Mountains<br />Rivers                                |
+| Kashmir       | India                                        |                                                              | Aug, 2018  |      | Mountains<br />Rivers                                |
 | North East-1  | Arunachal Pradesh,<br />Assam<br />Meghalaya | * Arunachal Pradesh::<br />* Assam::<br />* Meghalaya::Shillong, Cherrapunji, Mawlynnong, Mawphlang | Jun, 2016  |      | Mountains<br />Rivers<br />Rains<br />Waterfalls     |
-| North East-2  | West Bengal,<br />Sikkim                     | * West Bengal:: Darjeeling<br />* Sikkim::Gangtok, Pelling, Tashiding | Dec, 2018? |      | Mountains<br />Rivers                                |
+| North East-2  | West Bengal,<br />Sikkim                     | * West Bengal:: Darjeeling<br />* Sikkim::Gangtok, Pelling, Tashiding | Dec, 2018  |      | Mountains<br />Rivers                                |
 | Goa           | Goa                                          |                                                              |            |      | Beaches                                              |
 | Uttarakhand-1 | Uttarakhand                                  | * Jim Corbett, Ranikhet, Nainital                            |            |      | Mountains<br />Rivers<br<br />Lakes                  |
 | Uttarakhand-2 | Uttarakhand                                  | * Rishikesh, Dehradun, Mussoorie                             |            |      | Mountains<br />Rivers<br />Ganges<br />River Rafting |
