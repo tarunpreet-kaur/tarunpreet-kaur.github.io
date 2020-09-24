@@ -11,7 +11,7 @@ visible: 1
 ---
 
 **Instagram:** [@mistytraveldiaries](https://www.instagram.com/mistytraveldiaries/)                
-**Homepage:** [Misty Diaries](http://tarunpreetkaur.com/)                
+**Homepage:** [Misty Diaries](https://tarunpreetkaur.com/)                
 
 
 
