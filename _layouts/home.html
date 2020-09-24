@@ -1,5 +1,6 @@
 ---
 layout: page
+date: 2020-08-28 23:22:00 +0000
 ---
 
 {{ content }}
@@ -66,8 +67,9 @@ layout: page
       </a>
     </div>
     {% endif %}
-    
-    
+
+
+​    
     <div class="post-entry">
       {% assign excerpt_length = site.excerpt_length | default: 50 %}
       {{ post.excerpt | strip_html | xml_escape | truncatewords: excerpt_length }}
@@ -77,8 +79,9 @@ layout: page
       {% endif %}
     </div>
     {% endunless %}
-    
-    
+
+
+​    
     {% if site.feed_show_tags != false and post.tags.size > 0 %}
     <div class="blog-tags">
       Tags:
@@ -88,7 +91,7 @@ layout: page
     </div>
     {% endif %}
     {% endif %}
-    
+
 
    </article>
   {% endfor %}
