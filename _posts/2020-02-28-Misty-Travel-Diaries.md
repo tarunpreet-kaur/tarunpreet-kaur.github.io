@@ -6,12 +6,12 @@ gh-repo: daattali/beautiful-jekyll
 gh-badge: []
 tags: [travel]
 comments: true
-date: 2020-09-25 23:22:00 +0000
+date: 2020-08-28 23:22:00 +0000
 visible: 1
 ---
 
 **Instagram:** [@mistytraveldiaries](https://www.instagram.com/mistytraveldiaries/)                
-**Homepage:** [Misty Diaries](http://tarunpreetkaur.com/) 
+**Homepage:** [Misty Diaries](https://tarunpreetkaur.com/) 
 
 
 
@@ -19,8 +19,8 @@ visible: 1
 
 | Holiday | Cities | When / Duration | Budget<br />per<br />adult |
 | :------ | ------- | ------- | :-----: |
-| [Europe, 2017](http://tarunpreetkaur.com/Misty-Travel-Diaries-Europe2017.html) | * **`Netherlands`**::Amsterdam, Zaanse Schans, Harleem, Giethoorn<br /> * **`Belgium`**::Bruges<br />* **`Germany`**::Cologne, Munich<br />* **`Austria`**::Vienna, Salzburg, Kaprun, Zell am See (Alps)<br />                                                                                                     <br />[Itinerary Europe 2017.pdf](..\assets\pdf\Itinerary Europe 2017.pdf) | * Jun, 2017<br />* 13 days<br /> | INR 92,000<br />(USD 1,250) |
-| [Bhutan, 2019](http://tarunpreetkaur.com/Misty-Travel-Diaries-Bhutan2019.html) | * Thimphu<br />* Dochula Pass, Serbithang National Park & Chimi Lhakhang<br />* Punakha<br />* Phobjikha Valley<br />* Paro<br />* Chela La Pass & Haa Valley<br /><br />[Itinerary Bhutan 2019.pdf](..\assets\pdf\Itinerary Bhutan 2019.pdf) | * Jun, 2019<br />* 8 days<br /> | INR 45,000<br />(USD 612) |
+| [Europe, 2017](https://tarunpreetkaur.com/Misty-Travel-Diaries-Europe2017.html) | * **`Netherlands`**::Amsterdam, Zaanse Schans, Harleem, Giethoorn<br /> * **`Belgium`**::Bruges<br />* **`Germany`**::Cologne, Munich<br />* **`Austria`**::Vienna, Salzburg, Kaprun, Zell am See (Alps)<br />                                                                                                     <br />[Itinerary Europe 2017.pdf](..\assets\pdf\Itinerary Europe 2017.pdf) | * Jun, 2017<br />* 13 days<br /> | INR 92,000<br />(USD 1,250) |
+| [Bhutan, 2019](https://tarunpreetkaur.com/Misty-Travel-Diaries-Bhutan2019.html) | * Thimphu<br />* Dochula Pass, Serbithang National Park & Chimi Lhakhang<br />* Punakha<br />* Phobjikha Valley<br />* Paro<br />* Chela La Pass & Haa Valley<br /><br />[Itinerary Bhutan 2019.pdf](..\assets\pdf\Itinerary Bhutan 2019.pdf) | * Jun, 2019<br />* 8 days<br /> | INR 45,000<br />(USD 612) |
 
 **Indian Travel Itineraries**
 
