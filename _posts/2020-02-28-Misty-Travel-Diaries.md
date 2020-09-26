@@ -24,9 +24,9 @@ visible: 1
 
 **Indian Travel Itineraries**
 
-| Holiday      | Cities                                                       | When / Duration            | Highlights                                                   |
-| :----------- | ------------------------------------------------------------ | -------------------------- | ------------------------------------------------------------ |
-| Ladakh, 2014 | **`Ladakh::`**<br />* Leh<br />* Pangong Lake <br />* Nubra Valley<br />* Turtuk <br />* Tso Moriri | * Sep, 2014<br />* 13 days | * Mountains & Snow<br />* Rivers & Lakes<br />* Monasteries<br />* Freezing Cold<br />* World's Highest motorable roads<br />* Low oxygen levels<br />* 3 Idiots<br />* Scantily populated<br />* All kinds of landscapes - Heaven! |
+| Holiday                                                      | Cities                                                       | When / Duration            | Highlights                                                   |
+| :----------------------------------------------------------- | ------------------------------------------------------------ | -------------------------- | ------------------------------------------------------------ |
+| [Ladakh, 2014](https://tarunpreetkaur.com/Misty-Travel-Diaries-Ladakh2014.html) | **`Ladakh::`**<br />* Leh<br />* Pangong Lake <br />* Nubra Valley<br />* Turtuk <br />* Tso Moriri<br /><br />[Itinerary Ladakh 2014.pdf](..\assets\pdf\Itinerary Ladakh 2014.pdf) | * Sep, 2014<br />* 13 days | * Mountains & Snow<br />* Rivers & Lakes<br />* Monasteries<br />* Freezing Cold<br />* World's Highest motorable roads<br />* Low oxygen levels<br />* 3 Idiots<br />* Scantily populated<br />* All kinds of landscapes - Heaven! |
 
 **International Travel Itineraries  coming-up**
 
