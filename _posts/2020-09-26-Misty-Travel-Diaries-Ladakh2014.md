@@ -19,9 +19,46 @@ visible: 0
 **Cities visited**
 
 * **Leh**<br />
-* **Pangong Lake** via Chang La (1 day trip from Leh)
-* **Nubra Valley & Turtuk** via Khardung La (3 days trip from Leh)<br />
-* **Tso Moriri** via Taglang La (2 days trip from Leh)
+
+  <u>Leh</u>:
+   Leh Palace
+   Leh 
+   Leh local markets
+
+  <u>West of Leh</u>:
+   Chilling village
+   Alchi Monastery
+   Magnetic Hill
+   Gurudwara Shri Pathar Sahib
+   Sangam of rivers Zanskar & Indus
+  <u>East of Leh</u>:
+   Holy Fish Pond @ Shey Palace
+   Shey Palace
+   Druk Padma Karpo School (of 3-Idiots fame)
+   Thiksey Monsatry
+   Hemis Monsatry
+
+* **Pangong Lake** (1 day trip from Leh)
+   Chang La (Pass)
+   Chagar (White) Tso (Lake)
+   Pangong Lake (Tso Pangong)
+
+* **Nubra Valley & Turtuk** (3 days trip from Leh)
+   Khardung La (Pass)
+   Panamik Hot Spring along Nubra river
+   Yarab Tso (Lake)<br /> Turtuk Village along Shyok River (1 day trip from Nubra Valley)
+   Two Humped Camels
+   Diskit Monastry
+   Sandunes
+   Trek down to Shyok Riverside
+
+* **Tso Moriri** (2 days trip from Leh)
+   Lovely landscape between Haya bridges & Sumda
+   Cute Broken Bridge
+   Kyagar Tso (Lake)
+   Tso (Lake) Moriri
+   Tso (Lake) Kar
+   Taglang La (Pass)
 
 **Other details**
 
