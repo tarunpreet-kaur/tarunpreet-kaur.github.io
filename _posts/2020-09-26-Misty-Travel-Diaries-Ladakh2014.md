@@ -18,16 +18,13 @@ visible: 0
 
 **Cities visited**
 
-* **Leh**<br />
-
-  <u>Leh</u>:
-   Leh Palace
+* **Leh**<br /><u>Leh</u>:
+ Leh Palace
    Leh 
    Leh local markets
-
   <u>West of Leh</u>:
    Chilling village
-   Alchi Monastery
+ Alchi Monastery
    Magnetic Hill
    Gurudwara Shri Pathar Sahib
    Sangam of rivers Zanskar & Indus
@@ -37,12 +34,11 @@ visible: 0
    Druk Padma Karpo School (of 3-Idiots fame)
    Thiksey Monsatery
    Hemis Monsatery
-
+  
 * **Pangong Lake** (1 day trip from Leh)
    Chang La (Pass)
    Chagar (White) Tso (Lake)
    Pangong Lake (Tso Pangong)
-
 * **Nubra Valley & Turtuk** (3 days trip from Leh)
    Khardung La (Pass)
    Panamik Hot Spring along Nubra river
@@ -51,7 +47,6 @@ visible: 0
    Diskit Monastry
    Sandunes
    Trek down to Shyok Riverside
-
 * **Tso Moriri** (2 days trip from Leh)
    Lovely landscape near Sumda
    Cute Broken Bridge
