@@ -18,27 +18,25 @@ visible: 0
 
 **Cities visited**
 
-* **Thimphu**<br />
-* **Dochula Pass & Serbithang** (on the way from Thimphu -> Punakha)
-* **Punakha**<br />
-* **Phobjikha Valley** (day trip from Punakha)
-* **Paro**<br />
-* **Chela La Pass & Haa Valley** (day trip from Paro)
+* **Leh**<br />
+* **Pangong Lake** via Chang La (1 day trip from Leh)
+* **Nubra Valley & Turtuk** via Khardung La (3 days trip from Leh)<br />
+* **Tso Moriri** via Taglang La (2 days trip from Leh)
 
 **Other details**
 
-* **When:** June, 2019
-* **Days:** 8
+* **When:** September, 2014
+* **Days:** 13
+   While we kept the trip very relaxed, the same trip can be manged in 10 days
 * **Budget:** INR 45,000 (USD 612) per person
    <u>Excluding</u>: Flight Ticket (INR 20,000 return ticket from India), Shopping 
    <u>Including</u>: Hotel, Rented car + Driver + Guide for Inter & Intra City Travel, Food, Entry fees
-* **Download Itinerary:**   [Itinerary Bhutan 2019.pdf](..\assets\pdf\Itinerary Bhutan 2019.pdf) 
 
 
 
 ## Travel Itinerary
 
-**Download Itinerary:**    [Itinerary Bhutan 2019.pdf](..\assets\pdf\Itinerary Bhutan 2019.pdf) 
+**Download Itinerary:**    [Itinerary Ladakh 2014.pdf](..\assets\pdf\Itinerary Ladakh 2014.pdf) 
 
 ![Itinerary Bhutan 2019](../assets/img/Bhutan 2019/Itinerary Bhutan 2019.gif)
 
