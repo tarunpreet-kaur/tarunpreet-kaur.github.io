@@ -75,7 +75,7 @@ visible: 0
 
 **Download Itinerary:**    [Itinerary Ladakh 2014.pdf](..\assets\pdf\Itinerary Ladakh 2014.pdf) 
 
-![Itinerary Bhutan 2019](../assets/img/Bhutan 2019/Itinerary Bhutan 2019.gif)
+![Itinerary Ladakh 2014](../assets/img/Ladakh 2014/Itinerary Ladakh 2014.gif)
 
 
 
