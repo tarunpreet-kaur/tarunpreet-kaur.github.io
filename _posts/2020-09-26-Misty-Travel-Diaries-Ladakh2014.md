@@ -34,7 +34,6 @@ visible: 0
    Druk Padma Karpo School (of 3-Idiots fame)
    Thiksey Monsatery
    Hemis Monsatery
-  
 * **Pangong Lake** (1 day trip from Leh)
    Chang La (Pass)
    Chagar (White) Tso (Lake)
@@ -60,8 +59,10 @@ visible: 0
 * **When:** September, 2014
 * **Days:** 13
    While we kept the trip very relaxed, the same trip can be manged in 10 days
-* **Budget:** INR 45,000 (USD 612) per person
-   <u>Excluding</u>: Flight Ticket (INR 20,000 return ticket), Shopping 
+* **Budget:** INR ??? (USD ??? ) per person
+   Inflation of INR from 2014 to current time must be considered
+   Rates included are for a cab sharing by 4 adults
+   <u>Excluding</u>: Flight Ticket (INR ??? return ticket), Shopping 
    <u>Including</u>: Hotel, Rented car + Driver + Guide for Inter & Intra City Travel, Food, Entry fees
 
 
