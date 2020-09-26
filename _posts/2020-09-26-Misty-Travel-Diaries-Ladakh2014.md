@@ -73,7 +73,7 @@ visible: 0
 
 ![Itinerary Ladakh 2014](../assets/img/Ladakh 2014/Itinerary Ladakh 2014.gif)
 
-
+**Travel Agent:** TT (Mr. Tundup Paljor) ; Instagram: [Tundup Paljor](https://www.instagram.com/paljortundup/) ; Contact: +91 9469448875/9622262062/6005571665
 
 ## Photo Blog & trip details
 
