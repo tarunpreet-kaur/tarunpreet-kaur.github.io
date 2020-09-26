@@ -61,7 +61,7 @@ visible: 0
    While we kept the trip very relaxed, the same trip can be manged in 10 days
 * **Budget:** INR ??? (USD ??? ) per person
    Inflation of INR from 2014 to current time must be considered
-   Rates included are for a cab sharing by 4 adults
+   Rates included are for the Rented car (8 seater) shared by 4 adults
    <u>Excluding</u>: Flight Ticket (INR ??? return ticket), Shopping 
    <u>Including</u>: Hotel, Rented car + Driver + Guide for Inter & Intra City Travel, Food, Entry fees
 
