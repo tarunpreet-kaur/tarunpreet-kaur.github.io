@@ -43,7 +43,11 @@ visible: 0
 
 ![Itinerary Bhutan 2019](../assets/img/Bhutan 2019/Itinerary Bhutan 2019.gif)
 
-
+**Travel Agent:**   Mr. Tashi Dorji (Bhutan Dyang Adventure) 
+							Instagram: [bhutandyangadventure](https://www.instagram.com/bhutandyangadventure/)
+							Contact: +975-77971234
+							Email: bhutandyangadventure@gmail.com
+							Website: [www.bhutandyangadventure.com](https://l.instagram.com/?u=http%3A%2F%2Fwww.bhutandyangadventure.com%2F&e=ATPj5_uh7WQSijsY4jvUalvoLTvlY2AePD49AyASTfkFdewqyoxbxxckifo6X770aS7LgMWRqc3Nvc8aiPiyQj4&s=1)
 
 ## Photo Blog & trip details
 
