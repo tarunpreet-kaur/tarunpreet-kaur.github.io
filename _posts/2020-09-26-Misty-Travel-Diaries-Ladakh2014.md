@@ -35,8 +35,8 @@ visible: 0
    Holy Fish Pond @ Shey Palace
    Shey Palace
    Druk Padma Karpo School (of 3-Idiots fame)
-   Thiksey Monsatry
-   Hemis Monsatry
+   Thiksey Monsatery
+   Hemis Monsatery
 
 * **Pangong Lake** (1 day trip from Leh)
    Chang La (Pass)
