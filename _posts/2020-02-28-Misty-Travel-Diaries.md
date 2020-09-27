@@ -17,26 +17,26 @@ visible: 1
 
 **International Travel Itineraries**
 
-| Holiday<br />When<br />Span<br />Budget(1 adult) | Cities |
+| Holiday | Cities |
 | :------ | ------- |
-| [**Europe, 2017**](https://tarunpreetkaur.com/Misty-Travel-Diaries-Europe2017.html)<br /><br />* Jun, 2017<br />* 13 days<br />* INR 92K<br />(USD 1,250) | **`Netherlands::`** Amsterdam  Zaanse Schans  Harleem  Giethoorn<br />**`Belgium::`** Bruges<br />**`Germany::`** Cologne  Munich<br />**`Austria::`** Vienna  Salzburg  Zell am See  Kaprun (Alps)<br /> <br />[Itinerary Europe 2017.pdf](..\assets\pdf\Itinerary Europe 2017.pdf)<br /><br />**Highlights** #Mountain #Snow #Rivers #Lakes #Canals #Greenery #Cathedrals #Bridges #Monuments #Flowers #Cute streets |
-| [**Bhutan, 2019**](https://tarunpreetkaur.com/Misty-Travel-Diaries-Bhutan2019.html)<br /><br />* Jun, 2019<br />* 8 days<br />* INR 45K<br />(USD 612) | **`Bhutan::`**<br />* Thimphu  Dochula Pass  Serbithang<br />* Punakha  Phobjikha Valley<br />* Paro  Chela La  Haa Valley<br /><br />[Itinerary Bhutan 2019.pdf](..\assets\pdf\Itinerary Bhutan 2019.pdf)<br /><br />* #Mountain #Rivers #Monasteries #Buddhism #Treks #Greenery |
+| [**Europe, 2017**](https://tarunpreetkaur.com/Misty-Travel-Diaries-Europe2017.html)<br /><br />* June<br />* 13 days<br />* ₹92K<br />($1,250) | **`Netherlands::`** Amsterdam  Zaanse Schans  Harleem  Giethoorn<br />**`Belgium::`** Bruges<br />**`Germany::`** Cologne  Munich<br />**`Austria::`** Vienna  Salzburg  Zell am See  Kaprun (Alps)<br /> <br />[Itinerary Europe 2017.pdf](..\assets\pdf\Itinerary Europe 2017.pdf)<br /><br />**Highlights** #Mountain #Snow #Rivers #Lakes #Canals #Greenery #Cathedrals #Bridges #Monuments #Flowers #Cute streets |
+| [**Bhutan, 2019**](https://tarunpreetkaur.com/Misty-Travel-Diaries-Bhutan2019.html)<br /><br />* June<br />* 8 days<br />* ₹45K<br />($612) | **`Bhutan::`**<br />* Thimphu  Dochula Pass  Serbithang<br />* Punakha  Phobjikha Valley<br />* Paro  Chela La  Haa Valley<br /><br />[Itinerary Bhutan 2019.pdf](..\assets\pdf\Itinerary Bhutan 2019.pdf)<br /><br />* #Mountain #Rivers #Monasteries #Buddhism #Treks #Greenery |
 
 **Indian Travel Itineraries**
 
-| Holiday<br />When<br />Span<br />Budget                      | Cities                                                       |
+| Holiday                                                      | Cities                                                       |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
-| [Ladakh, 2014](https://tarunpreetkaur.com/Misty-Travel-Diaries-Ladakh2014.html)<br /><br />* Sep, 2014<br />* 13 days | **`Ladakh::`**<br />* Leh<br />* Pangong Lake <br />* Nubra Valley  Turtuk<br />* Tso Moriri<br /><br />[Itinerary Ladakh 2014.pdf](..\assets\pdf\Itinerary Ladakh 2014.pdf)<br /><br />#Mountain #Snow #Rivers #Lakes #Fall #YellowLeaves #Monasteries, Buddhism #HighAltitude5000m+ #LowOxygen #Serene #ScantilyPopulated #BRO'sWorld'sHighestMotorableRoads |
+| [Ladakh, 2014](https://tarunpreetkaur.com/Misty-Travel-Diaries-Ladakh2014.html)<br /><br />* September<br />* 13 days | **`Ladakh::`**<br />* Leh<br />* Pangong Lake <br />* Nubra Valley  Turtuk<br />* Tso Moriri<br /><br />[Itinerary Ladakh 2014.pdf](..\assets\pdf\Itinerary Ladakh 2014.pdf)<br /><br />#Mountain #Snow #Rivers #Lakes #Fall #YellowLeaves #Monasteries, Buddhism #HighAltitude5000m+ #LowOxygen #Serene #ScantilyPopulated #BRO'sWorld'sHighestMotorableRoads |
 
 **International Travel Itineraries  coming-up**
 
-| Holiday<br />When<br />Span<br />Budget | Cities                                                       |
-| :-------------------------------------- | ------------------------------------------------------------ |
-| Bali, 2016                              | **`Bali::`**<br />* Ubud<br />* Kuta<br />                   |
-| Thailand, 2012                          | **`Thailand::`**<br />* Phuket<br />* Bangkok<br />          |
-| Singapore, 2006                         | **`Singapore::`**<br />* Singapore<br />                     |
-| USA-East, 2003                          | **`USA::`**<br />* NY<br />* NJ<br />* Washington DC         |
-| Europe, 2007                            | **`France::`**<br />* Paris<br />* Nice<br />* Cannes<br />**`Monaco Monte Carlo::`**<br />**`Italy::`**<br />* Rome,<br />* Venice<br />**`Vatican City::`** |
+| Holiday         | Cities                                                       |
+| :-------------- | ------------------------------------------------------------ |
+| Bali, 2016      | **`Bali::`**<br />* Ubud<br />* Kuta<br />                   |
+| Thailand, 2012  | **`Thailand::`**<br />* Phuket<br />* Bangkok<br />          |
+| Singapore, 2006 | **`Singapore::`**<br />* Singapore<br />                     |
+| USA-East, 2003  | **`USA::`**<br />* NY<br />* NJ<br />* Washington DC         |
+| Europe, 2007    | **`France::`**<br />* Paris<br />* Nice<br />* Cannes<br />**`Monaco Monte Carlo::`**<br />**`Italy::`**<br />* Rome,<br />* Venice<br />**`Vatican City::`** |
 
 **Indian Travel Itineraries coming-up**
 
