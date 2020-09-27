@@ -19,8 +19,8 @@ visible: 1
 
 | Holiday | Cities |
 | :------ | ------- |
-| [**Europe, 2017**](https://tarunpreetkaur.com/Misty-Travel-Diaries-Europe2017.html)<br /><br />June<br /><br />13 days<br /><br />₹92K<br />($1,250) | **`Netherlands::`** Amsterdam  Zaanse Schans  Harleem  Giethoorn<br />**`Belgium::`** Bruges<br />**`Germany::`** Cologne  Munich<br />**`Austria::`** Vienna  Salzburg  Zell am See  Kaprun (Alps)<br /> <br />[Itinerary Europe 2017.pdf](..\assets\pdf\Itinerary Europe 2017.pdf)<br /><br />**Highlights** #Mountain #Snow #Rivers #Lakes #Canals #Beaches #Greenery #Cathedrals #Bridges #Monuments #Flowers #Cute streets #Meadows |
-| [**Bhutan, 2019**](https://tarunpreetkaur.com/Misty-Travel-Diaries-Bhutan2019.html)<br /><br />June<br /><br />8 days<br /><br />₹45K<br />($612) | **`Bhutan::`**<br />* Thimphu  Dochula Pass  Serbithang<br />* Punakha  Phobjikha Valley<br />* Paro  Chela La  Haa Valley<br /><br />[Itinerary Bhutan 2019.pdf](..\assets\pdf\Itinerary Bhutan 2019.pdf)<br /><br />* #Mountain #Rivers #Monasteries #Buddhism #Treks #Greenery |
+| [**Europe, 2017**](https://tarunpreetkaur.com/Misty-Travel-Diaries-Europe2017.html)<br /><br />June<br /><br />13 days<br /><br />₹92K<br />($1,250) per adult | **`Netherlands::`** Amsterdam  Zaanse Schans  Harleem  Giethoorn<br />**`Belgium::`** Bruges<br />**`Germany::`** Cologne  Munich<br />**`Austria::`** Vienna  Salzburg  Zell am See  Kaprun (Alps)<br /> <br />[Itinerary Europe 2017.pdf](..\assets\pdf\Itinerary Europe 2017.pdf)<br /><br />**Highlights** #Mountain #Snow #Rivers #Lakes #Canals #Beaches #Greenery #Cathedrals #Bridges #Monuments #Flowers #Cute streets #Meadows |
+| [**Bhutan, 2019**](https://tarunpreetkaur.com/Misty-Travel-Diaries-Bhutan2019.html)<br /><br />June<br /><br />8 days<br /><br />₹45K<br />($612) per adult | **`Bhutan::`**<br />* Thimphu  Dochula Pass  Serbithang<br />* Punakha  Phobjikha Valley<br />* Paro  Chela La  Haa Valley<br /><br />[Itinerary Bhutan 2019.pdf](..\assets\pdf\Itinerary Bhutan 2019.pdf)<br /><br />* #Mountain #Rivers #Monasteries #Buddhism #Treks #Greenery |
 
 **Indian Travel Itineraries**
 
