@@ -19,14 +19,14 @@ visible: 1
 
 | Holiday<br />When <br />Duration<br />Budget(pp) | Cities |
 | :------ | ------- |
-| [Europe, 2017](https://tarunpreetkaur.com/Misty-Travel-Diaries-Europe2017.html)<br /><br />* Jun, 2017<br />* 13 days<br />* INR 92,000<br />(USD 1,250) | **`Netherlands::`**<br />* Amsterdam * Zaanse Schans * Harleem * Giethoorn<br />**`Belgium::`**<br />* Bruges<br />**`Germany::`**<br />* Cologne * Munich<br />**`Austria::`**<br />* Vienna * Salzburg * Zell am See & Kaprun (Alps)<br /> <br />[Itinerary Europe 2017.pdf](..\assets\pdf\Itinerary Europe 2017.pdf)<br /><br />* Mountain, Snow, Rivers, Lakes, Canals<br />* Cathedrals, Bridges, Monuments<br />* Flowers & Cute streets |
-| [Bhutan, 2019](https://tarunpreetkaur.com/Misty-Travel-Diaries-Bhutan2019.html)<br /><br />* Jun, 2019<br />* 8 days<br />* INR 45,000<br />(USD 612) | **`Bhutan::`**<br />* Thimphu<br />* Dochula Pass * Serbithang<br />* Punakha * <br />* Phobjikha Valley<br />* Paro<br />* Chela La Pass * Haa Valley<br /><br />[Itinerary Bhutan 2019.pdf](..\assets\pdf\Itinerary Bhutan 2019.pdf)<br /><br />* Mountain, Rivers<br />* Monasteries, Buddhism |
+| [Europe, 2017](https://tarunpreetkaur.com/Misty-Travel-Diaries-Europe2017.html)<br /><br />* Jun, 2017<br />* 13 days<br />* INR 92,000<br />(USD 1,250) | **`Netherlands::`** Amsterdam  Zaanse Schans  Harleem  Giethoorn<br />**`Belgium::`** Bruges<br />**`Germany::`** Cologne  Munich<br />**`Austria::`** Vienna  Salzburg  Zell am See  Kaprun (Alps)<br /> <br />[Itinerary Europe 2017.pdf](..\assets\pdf\Itinerary Europe 2017.pdf)<br /><br />* Mountain, Snow, Rivers, Lakes, Canals<br />* Cathedrals, Bridges, Monuments<br />* Flowers & Cute streets |
+| [Bhutan, 2019](https://tarunpreetkaur.com/Misty-Travel-Diaries-Bhutan2019.html)<br /><br />* Jun, 2019<br />* 8 days<br />* INR 45,000<br />(USD 612) | **`Bhutan::`**<br />* Thimphu  Dochula Pass  Serbithang<br />* Punakha  Phobjikha Valley<br />* Paro  Chela La Pass  Haa Valley<br /><br />[Itinerary Bhutan 2019.pdf](..\assets\pdf\Itinerary Bhutan 2019.pdf)<br /><br />* Mountain, Rivers<br />* Monasteries, Buddhism |
 
 **Indian Travel Itineraries**
 
 | Holiday<br />When <br />Duration<br />Budget(pp)             | Cities                                                       |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
-| [Ladakh, 2014](https://tarunpreetkaur.com/Misty-Travel-Diaries-Ladakh2014.html)<br /><br />* Sep, 2014<br />* 13 days | **`Ladakh::`**<br />* Leh<br />* Pangong Lake <br />* Nubra Valley & Turtuk<br />* Tso Moriri<br /><br />[Itinerary Ladakh 2014.pdf](..\assets\pdf\Itinerary Ladakh 2014.pdf)<br /><br />* Mountain, Snow, Rivers & Lakes<br />* Monasteries, Buddhism<br />* BRO's World's Highest  motorable roads<br />* High altitude (5000+ m), Low oxygen<br />* Serene & Scantily populated |
+| [Ladakh, 2014](https://tarunpreetkaur.com/Misty-Travel-Diaries-Ladakh2014.html)<br /><br />* Sep, 2014<br />* 13 days | **`Ladakh::`**<br />* Leh<br />* Pangong Lake <br />* Nubra Valley  Turtuk<br />* Tso Moriri<br /><br />[Itinerary Ladakh 2014.pdf](..\assets\pdf\Itinerary Ladakh 2014.pdf)<br /><br />* Mountain, Snow, Rivers & Lakes<br />* Monasteries, Buddhism<br />* BRO's World's Highest  motorable roads<br />* High altitude (5000+ m), Low oxygen<br />* Serene & Scantily populated |
 
 **International Travel Itineraries  coming-up**
 
