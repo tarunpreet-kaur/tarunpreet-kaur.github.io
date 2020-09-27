@@ -36,7 +36,7 @@ visible: 1
 | **Thailand, 2012**         | **`Thailand::`**<br />* Phuket<br />* Bangkok<br />          |
 | **Singapore, 2006**        | **`Singapore::`**<br />* Singapore<br />                     |
 | **USA (East Coast), 2003** | **`USA::`**<br />* NY<br />* NJ<br />* Washington DC         |
-| **Europe, 2007**           | **`France::`**<br />* Paris<br />* Nice<br />* Cannes<br />**`Monaco Monte Carlo::`**<br />**`Italy::`**<br />* Rome,<br />* Venice<br />**`Vatican City::`** |
+| **Europe, 2007**           | **`France::`**<br />* Paris<br />* Nice<br />* Cannes<br />**`Monaco Monte Carlo::`**<br />**`Italy::`**<br />* Rome,<br />* Venice<br />**`Vatican City`** |
 
 **Indian Travel Itineraries coming-up**
 
