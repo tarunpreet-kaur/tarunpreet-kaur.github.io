@@ -26,17 +26,17 @@ visible: 1
 
 | Holiday                                                      | Cities                                                       | When / <br />Duration      |
 | :----------------------------------------------------------- | ------------------------------------------------------------ | -------------------------- |
-| [Ladakh, 2014](https://tarunpreetkaur.com/Misty-Travel-Diaries-Ladakh2014.html) | **`Ladakh::`**<br />* Leh<br />* Pangong Lake <br />* Nubra Valley & Turtuk<br />* Tso Moriri<br /><br />[Itinerary Ladakh 2014.pdf](..\assets\pdf\Itinerary Ladakh 2014.pdf)<br /><br />* Mountain, Snow<br />* Rivers & Lakes<br />* Monasteries<br />* World's Highest  motorable roads<br />* High altitute (5000+ m), Low oxygen<br />* Serene & Scantily populated | * Sep, 2014<br />* 13 days |
+| [Ladakh, 2014](https://tarunpreetkaur.com/Misty-Travel-Diaries-Ladakh2014.html) | **`Ladakh::`**<br />* Leh<br />* Pangong Lake <br />* Nubra Valley & Turtuk<br />* Tso Moriri<br /><br />[Itinerary Ladakh 2014.pdf](..\assets\pdf\Itinerary Ladakh 2014.pdf)<br /><br />* Mountain, Snow, Rivers & Lakes<br />* Monasteries & Buddhism<br />* BRO's World's Highest  motorable roads<br />* High altitude (5000+ m), Low oxygen<br />* Serene & Scantily populated | * Sep, 2014<br />* 13 days |
 
 **International Travel Itineraries  coming-up**
 
-| Holiday         | Cities                                                       | When / <br />Duration | Budget<br />per<br />adult |
-| :-------------- | ------------------------------------------------------------ | --------------------- | :------------------------: |
-| Bali, 2016      | **`Bali::`**<br />* Ubud<br />* Kuta<br />                   |                       |                            |
-| Thailand, 2012  | **`Thailand::`**<br />* Phuket<br />* Bangkok<br />          |                       |                            |
-| Singapore, 2006 | **`Singapore::`**<br />* Singapore<br />                     |                       |                            |
-| USA-East, 2003  | **`USA::`**<br />* NY<br />* NJ<br />* Washington DC         |                       |                            |
-| Europe, 2007    | **`France::`**<br />* Paris<br />* Nice<br />* Cannes<br />**`Monaco Monte Carlo::`**<br />**`Italy::`**<br />* Rome,<br />* Venice<br />**`Vatican City::`** |                       |                            |
+| Holiday         | Cities                                                       | When / <br />Duration |
+| :-------------- | ------------------------------------------------------------ | --------------------- |
+| Bali, 2016      | **`Bali::`**<br />* Ubud<br />* Kuta<br />                   |                       |
+| Thailand, 2012  | **`Thailand::`**<br />* Phuket<br />* Bangkok<br />          |                       |
+| Singapore, 2006 | **`Singapore::`**<br />* Singapore<br />                     |                       |
+| USA-East, 2003  | **`USA::`**<br />* NY<br />* NJ<br />* Washington DC         |                       |
+| Europe, 2007    | **`France::`**<br />* Paris<br />* Nice<br />* Cannes<br />**`Monaco Monte Carlo::`**<br />**`Italy::`**<br />* Rome,<br />* Venice<br />**`Vatican City::`** |                       |
 
 **Indian Travel Itineraries coming-up**
 
