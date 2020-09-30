@@ -11,13 +11,14 @@ visible: 1
 ---
 
 **Instagram:** [@mistybollydances](https://www.instagram.com/mistybollydances/)                
+**YouTube:** [Misty Bolly Dances](https://www.youtube.com/channel/UCgs5bksScrops1q76ZyBDfA?view_as=subscriber)                
 **Homepage:** [Misty Diaries](https://tarunpreetkaur.com/)                
 
 
 
 **Bollywood dances**
 
-| **`Mahi Mera - Kithe Reh Gya`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Mahi Mera - Kithe Reh Gaya.JPG)](https://www.youtube.com/watch?v=X33NRsJI2ss) | **`Kamli Kamli`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Kamli.JPG)](https://www.youtube.com/watch?v=EluLIRCTyGM) |
+| **`Mahi Mera - Kithe Reh Gya`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Mahi Mera - Kithe Reh Gaya.JPG)](https://www.youtube.com/watch?v=X33NRsJI2ss) | **`Kamli Kamli`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Kamli.JPG)](https://www.youtube.com/watch?v=U_zVXzkzX0c) |
 | :------ | ------- |
 |  |  |
 |  | ![Mahi Mera - Kithe Reh Gaya](../assets/img/Misty Bolly Dances/Mahi Mera - Kithe Reh Gaya.JPG) |
