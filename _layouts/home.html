@@ -9,7 +9,12 @@ date: 2020-08-28 23:22:00 +0000
 
 <div class="posts-list">
   {% for post in posts %}
+  {% if post.visible== 1  %}
   <article class="post-preview">
+  {% endif %}
+
+​      
+
 
     {% if post.visible== 1  %}
     {%- capture thumbnail -%}
