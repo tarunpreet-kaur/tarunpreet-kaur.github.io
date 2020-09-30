@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Misty Travel Diaries
+title: Misty Bolly Dances
 subtitle: Detailed itinerary | Day-wise plan | Maps | Photo gallery
 gh-repo: daattali/beautiful-jekyll
 gh-badge: []
@@ -10,7 +10,7 @@ date: 2020-08-28 23:22:00 +0000
 visible: 1
 ---
 
-**Instagram:** [@mistytraveldiaries](https://www.instagram.com/mistytraveldiaries/)                
+**Instagram:** [@mistybollydances](https://www.instagram.com/mistybollydances/)                
 **Homepage:** [Misty Diaries](https://tarunpreetkaur.com/)                
 
 
