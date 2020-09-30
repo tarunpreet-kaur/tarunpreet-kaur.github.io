@@ -11,7 +11,6 @@ date: 2020-08-28 23:22:00 +0000
   {% for post in posts %}
   <article class="post-preview">
 
-    {% if post.visible== 1  %}
     {%- capture thumbnail -%}
       {% if post.thumbnail-img %}
         {{ post.thumbnail-img }}
@@ -67,9 +66,7 @@ date: 2020-08-28 23:22:00 +0000
       </a>
     </div>
     {% endif %}
-
-
-​    
+    
     <div class="post-entry">
       {% assign excerpt_length = site.excerpt_length | default: 50 %}
       {{ post.excerpt | strip_html | xml_escape | truncatewords: excerpt_length }}
@@ -79,9 +76,7 @@ date: 2020-08-28 23:22:00 +0000
       {% endif %}
     </div>
     {% endunless %}
-
-
-​    
+    
     {% if site.feed_show_tags != false and post.tags.size > 0 %}
     <div class="blog-tags">
       Tags:
@@ -90,8 +85,6 @@ date: 2020-08-28 23:22:00 +0000
       {% endfor %}
     </div>
     {% endif %}
-    {% endif %}
-
 
    </article>
   {% endfor %}
