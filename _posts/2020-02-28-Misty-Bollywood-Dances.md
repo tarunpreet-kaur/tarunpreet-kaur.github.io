@@ -19,7 +19,7 @@ visible: 1
 
 | Holiday | Cities |
 | :------ | ------- |
-| **`Mahi Mera - Kithe Reh Gya::`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Mahi Mera - Kithe Reh Gaya.JPG)](https://www.youtube.com/watch?v=X33NRsJI2ss) | **`Mahi Mera - Kithe Reh Gya::`**<br /><br />[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=X33NRsJI2ss) |
+| **`Mahi Mera - Kithe Reh Gya::`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Mahi Mera - Kithe Reh Gaya.JPG)](https://www.youtube.com/watch?v=X33NRsJI2ss) | **`Kamli::`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Mahi Mera - Kithe Reh Gaya.JPG)](https://www.youtube.com/watch?v=EluLIRCTyGM) |
 |  | ![Mahi Mera - Kithe Reh Gaya](../assets/img/Misty Bolly Dances/Mahi Mera - Kithe Reh Gaya.JPG) |
 
 **Indian Travel Itineraries**
