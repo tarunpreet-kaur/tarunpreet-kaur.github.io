@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Misty Bolly Dances
-subtitle: Detailed itinerary | Day-wise plan | Maps | Photo gallery
+subtitle: Bollywood Dance | Fashion | Jewellery | Photoshoot
 gh-repo: daattali/beautiful-jekyll
 gh-badge: []
 tags: [travel]
