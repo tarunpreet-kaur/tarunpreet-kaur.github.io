@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Misty Bolly Dances
-subtitle: Bollywood Dance | Fashion | Jewellery | Photoshoot
+subtitle: Bollywood Dance | Fashion | Jewellery | Photo & Video shoot
 gh-repo: daattali/beautiful-jekyll
 gh-badge: []
 tags: [travel]
