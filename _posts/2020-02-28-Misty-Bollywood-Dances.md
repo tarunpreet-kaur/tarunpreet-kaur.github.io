@@ -19,8 +19,7 @@ visible: 1
 
 | Holiday | Cities |
 | :------ | ------- |
-| [**Europe, 2017**](https://tarunpreetkaur.com/Misty-Travel-Diaries-Europe2017.html)<br /><br />June<br /><br />13 days<br /><br />₹92K<br />($1,250) per adult | **`Netherlands::`** Amsterdam **■** Zaanse Schans **■** Harleem **■** Giethoorn<br /> <br />[Kithe Reh gaya](https://www.youtube.com/watch?v=X33NRsJI2ss)<br /><br /> |
-| [**Bhutan, 2019**](https://tarunpreetkaur.com/Misty-Travel-Diaries-Bhutan2019.html)<br /><br />June<br /><br />8 days<br /><br />₹45K<br />($612) per adult | **`Mahi Mera - Kithe Reh Gya::`**<br /><br />[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=X33NRsJI2ss) |
+| **`Mahi Mera - Kithe Reh Gya::`**<br /><br />[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=X33NRsJI2ss) | **`Mahi Mera - Kithe Reh Gya::`**<br /><br />[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=X33NRsJI2ss) |
 
 **Indian Travel Itineraries**
 
