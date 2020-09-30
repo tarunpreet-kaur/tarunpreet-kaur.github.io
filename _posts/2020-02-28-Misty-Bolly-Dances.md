@@ -18,7 +18,7 @@ visible: 1
 
 **Bollywood dances**
 
-| **`Kithe Reh Gya`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Mahi Mera - Kithe Reh Gaya.JPG)](https://www.youtube.com/watch?v=cd99eQOwMf0&t=5s) | **`Kamli Kamli`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Kamli.JPG)](https://www.youtube.com/watch?v=U_zVXzkzX0c) |
+| **`Kithe Reh Gya`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Mahi Mera - Kithe Reh Gaya.JPG)](https://www.youtube.com/watch?v=cd99eQOwMf0&t=5s) | **`Kurta Pajama Kala`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Kurta Pajama Kala.JPG)](https://www.youtube.com/watch?v=WyuwndteC9U) |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
-|                                                              | **`Kurta Pajama Kala`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Kurta Pajama Kala.JPG)](https://www.youtube.com/watch?v=WyuwndteC9U) |
+| **`Kamli Kamli`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Kamli.JPG)](https://www.youtube.com/watch?v=U_zVXzkzX0c) |                                                              |
 | **`Wangan Kaaliyan`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Wangan Kaaliyan.JPG)](https://www.youtube.com/watch?v=xDBabjzZX8k) |                                                              |
