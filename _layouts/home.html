@@ -11,6 +11,7 @@ date: 2020-08-28 23:22:00 +0000
   {% for post in posts %}
   <article class="post-preview">
 
+    {% if post.visible== 1  %}
     {%- capture thumbnail -%}
       {% if post.thumbnail-img %}
         {{ post.thumbnail-img }}
@@ -85,6 +86,7 @@ date: 2020-08-28 23:22:00 +0000
       {% endfor %}
     </div>
     {% endif %}
+    {% endif %}
 
    </article>
   {% endfor %}
@@ -104,3 +106,4 @@ date: 2020-08-28 23:22:00 +0000
   {% endif %}
 </ul>
 {% endif %}
+
