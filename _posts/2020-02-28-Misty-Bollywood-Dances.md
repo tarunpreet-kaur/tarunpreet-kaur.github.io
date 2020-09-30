@@ -17,7 +17,7 @@ visible: 1
 
 **Bollywood dances**
 
-| **`Mahi Mera - Kithe Reh Gya::`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Mahi Mera - Kithe Reh Gaya.JPG)](https://www.youtube.com/watch?v=X33NRsJI2ss) | **`Kamli::`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Ksamli.JPG)](https://www.youtube.com/watch?v=EluLIRCTyGM) |
+| **`Mahi Mera - Kithe Reh Gya::`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Mahi Mera - Kithe Reh Gaya.JPG)](https://www.youtube.com/watch?v=X33NRsJI2ss) | **`Kamli::`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Kamli.JPG)](https://www.youtube.com/watch?v=EluLIRCTyGM) |
 | :------ | ------- |
 |  |  |
 |  | ![Mahi Mera - Kithe Reh Gaya](../assets/img/Misty Bolly Dances/Mahi Mera - Kithe Reh Gaya.JPG) |
