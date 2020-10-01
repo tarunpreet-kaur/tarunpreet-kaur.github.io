@@ -26,7 +26,7 @@ visible: 1
 
 **Bollywood dances - Performances **
 
-| **`Senorita-Bachata`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Senorita-Bachata.jpg)](https://youtu.be/VqPTiistucI) | **`Inn Aankhon Ki Masti Ke`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Inn Aankhon Ki Masti Ke.jpg)](https://www.youtube.com/watch?v=J-UsH84M8pM) |
+| **`Senorita-Bachata`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Senorita-Bachata.JPG)](https://youtu.be/VqPTiistucI) | **`Inn Aankhon Ki Masti Ke`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Inn Aankhon Ki Masti Ke.JPG)](https://www.youtube.com/watch?v=J-UsH84M8pM) |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
 |                                                              |                                                              |
 |                                                              |                                                              |
