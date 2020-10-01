@@ -24,7 +24,9 @@ visible: 1
 | **`Cradles-Sub Urban`**<br /><br />[<img src="../assets/img/Misty Bolly Dances/Cradles-Sub Urban.jpg" alt="Watch the video" style="zoom:80%;" />](https://www.youtube.com/watch?v=oXycvVj5JJk&t=3s) | **`Wangan Kaaliyan`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Wangan Kaaliyan.jpg)](https://www.youtube.com/watch?v=xDBabjzZX8k) |
 |                                                              |                                                              |
 
-**Bollywood dances - Performances **
+
+
+**Bollywood dances performances @ MPAC **
 
 | **`Senorita-Bachata`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Senorita-Bachata.JPG)](https://youtu.be/VqPTiistucI) | **`Inn Aankhon Ki Masti Ke`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Inn Aankhon Ki Masti Ke.JPG)](https://www.youtube.com/watch?v=J-UsH84M8pM) |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
