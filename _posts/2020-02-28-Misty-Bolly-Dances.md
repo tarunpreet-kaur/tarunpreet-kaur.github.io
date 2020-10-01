@@ -16,9 +16,17 @@ visible: 1
 
 
 
-**Bollywood dances**
+**Bollywood dances - Solo**
 
 | **`Kithe Reh Gya`**<br /><br />[<img src="../assets/img/Misty Bolly Dances/Mahi Mera - Kithe Reh Gaya.JPG" alt="Watch the video" style="zoom:80%;" />](https://www.youtube.com/watch?v=cd99eQOwMf0&t=5s) | **`Kurta Pajama Kala`** <br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Kurta Pajama Kala.JPG)](https://www.youtube.com/watch?v=WyuwndteC9U) |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
-| **`Kamli Kamli`**<br /><br />[<img src="../assets/img/Misty Bolly Dances/Kamli.JPG" alt="Watch the video" style="zoom:80%;" />](https://www.youtube.com/watch?v=U_zVXzkzX0c) | **`Ban Than Chali`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Ban Than Chali.JPG)](https://www.youtube.com/watch?v=zPfx2MTuJwI) |
+| **`Kamli Kamli`**<br /><br />[<img src="../assets/img/Misty Bolly Dances/Kamli.JPG" alt="Watch the video" style="zoom:80%;" />](https://www.youtube.com/watch?v=U_zVXzkzX0c) | **`Ban Than Chali Dekho`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Ban Than Chali.JPG)](https://www.youtube.com/watch?v=zPfx2MTuJwI) |
 | **`Cradles-Sub Urban`**<br /><br />[<img src="../assets/img/Misty Bolly Dances/Cradles-Sub Urban.jpg" alt="Watch the video" style="zoom:80%;" />](https://www.youtube.com/watch?v=oXycvVj5JJk&t=3s) | **`Wangan Kaaliyan`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Wangan Kaaliyan.jpg)](https://www.youtube.com/watch?v=xDBabjzZX8k) |
+|                                                              |                                                              |
+
+**Bollywood dances - Performances **
+
+| **`Senorita-Bachata`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Senorita-Bachata.jpg)](https://youtu.be/VqPTiistucI) | **`Inn Aankhon Ki Masti Ke`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Inn Aankhon Ki Masti Ke.jpg)](https://www.youtube.com/watch?v=J-UsH84M8pM) |
+| :----------------------------------------------------------- | ------------------------------------------------------------ |
+|                                                              |                                                              |
+|                                                              |                                                              |
