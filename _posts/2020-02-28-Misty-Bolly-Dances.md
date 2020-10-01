@@ -18,7 +18,7 @@ visible: 1
 
 **Bollywood dances**
 
-| **`Kithe Reh Gya`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Mahi Mera - Kithe Reh Gaya.JPG)](https://www.youtube.com/watch?v=cd99eQOwMf0&t=5s) | **`Kurta Pajama`** Kala<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Kurta Pajama Kala.JPG)](https://www.youtube.com/watch?v=WyuwndteC9U) |
+| **`Kithe Reh Gya`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Mahi Mera - Kithe Reh Gaya.JPG)](https://www.youtube.com/watch?v=cd99eQOwMf0&t=5s) | **`Kurta Pajama Kala`** <br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Kurta Pajama Kala.JPG)](https://www.youtube.com/watch?v=WyuwndteC9U) |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
 | **`Kamli Kamli`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Kamli.JPG)](https://www.youtube.com/watch?v=U_zVXzkzX0c) | **`Ban Than Chali`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Ban Than Chali.JPG)](https://www.youtube.com/watch?v=zPfx2MTuJwI) |
 | **`Cradles-Sub Urban`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Cradles-Sub Urban.JPG)](https://www.youtube.com/watch?v=oXycvVj5JJk&t=3s) | **`Wangan Kaaliyan`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Wangan Kaaliyan.jpg)](https://www.youtube.com/watch?v=xDBabjzZX8k) |
