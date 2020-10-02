@@ -22,7 +22,7 @@ visible: 1
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
 | **`Kamli Kamli`**<br /><br />[<img src="../assets/img/Misty Bolly Dances/Kamli.JPG" alt="Watch the video" style="zoom:80%;" />](https://www.youtube.com/watch?v=U_zVXzkzX0c) | **`Ban Than Chali Dekho`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Ban Than Chali.JPG)](https://www.youtube.com/watch?v=zPfx2MTuJwI) |
 | **`Cradles-Sub Urban`**<br /><br />[<img src="../assets/img/Misty Bolly Dances/Cradles-Sub Urban.jpg" alt="Watch the video" style="zoom:80%;" />](https://www.youtube.com/watch?v=oXycvVj5JJk&t=3s) | **`Wangan Kaaliyan`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Wangan Kaaliyan.jpg)](https://www.youtube.com/watch?v=xDBabjzZX8k) |
-| **`Saawan Mein Lagg Gayee Aag.jpg`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Saawan Mein Lagg Gayee Aag.jpg)](https://www.youtube.com/watch?v=0sBR7utODOg) | **`Yes or No`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Yes or No.JPG)](https://www.youtube.com/watch?v=ylmJ7QmsORc) |
+| **`Saawan Mein Lagg Gayee Aag.jpg`**<br /><br />[<img src="../assets/img/Misty Bolly Dances/Saawan Mein Lagg Gayee Aag.jpg" alt="Watch the video" style="zoom:80%;" />](https://www.youtube.com/watch?v=0sBR7utODOg) | **`Yes or No`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Yes or No.JPG)](https://www.youtube.com/watch?v=ylmJ7QmsORc) |
 
 
 
