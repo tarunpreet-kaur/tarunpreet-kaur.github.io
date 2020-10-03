@@ -34,5 +34,6 @@ visible: 1
 
 | **`Senorita-Bachata`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Senorita-Bachata.JPG)](https://youtu.be/VqPTiistucI) | **`Inn Aankhon Ki Masti Ke`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Inn Aankhon Ki Masti Ke.JPG)](https://www.youtube.com/watch?v=J-UsH84M8pM) |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
-| **`Tikkhi Talwaar Warga`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Tikkhi Talwaar Warga.jpg)](https://www.youtube.com/watch?v=XNW7ep5bf-8) |                                                              |
-| **`Bhangra`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Bhangra Nov 2019.jpg)](https://www.youtube.com/watch?v=_tqegyXAaRw) |                                                              |
+| **`Tikkhi Talwaar Warga`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Tikkhi Talwaar Warga.jpg)](https://www.youtube.com/watch?v=XNW7ep5bf-8) | **`Bhangra`**<br /><br />[![Watch the video](../assets/img/Misty Bolly Dances/Bhangra Nov 2019.JPG)](https://www.youtube.com/watch?v=_tqegyXAaRw) |
+|                                                              |                                                              |
+
