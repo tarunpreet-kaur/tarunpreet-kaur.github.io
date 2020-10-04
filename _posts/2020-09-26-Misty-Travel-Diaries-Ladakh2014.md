@@ -77,7 +77,7 @@ Leh Palace **■** Leh **■** Leh local markets
 
 
 
-**Pangong Lake::**Chang La (Pass) **■** Chagar (White) Tso (Lake) **■** Pangong Lake (Tso Pangong)
+**Pangong Lake** (Day trip from Leh)::Chang La (Pass) **■** Chagar (White) Tso (Lake) **■** Pangong Lake (Tso Pangong)
 
 | ![2-Pangong Lake (11)](../assets/img/Ladakh 2014/2-Pangong Lake (11).JPG) | ![2-Pangong Lake (55)](../assets/img/Ladakh 2014/2-Pangong Lake (55).JPG) |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -113,15 +113,13 @@ Leh Palace **■** Leh **■** Leh local markets
 
 | ![4-Nubra Valley Kardungla-Turtuk (67)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (67).JPG) | ![4-Nubra Valley Kardungla-Turtuk (49)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (49).JPG) |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| ![4-Nubra Valley Kardungla-Turtuk (68)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (68).JPG) |                                                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
+| ![4-Nubra Valley Kardungla-Turtuk (68)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (68).JPG) | ![4-Nubra Valley Kardungla-Turtuk (54)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (54).JPG) |
+| ![4-Nubra Valley Kardungla-Turtuk (40)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (40).JPG) | ![4-Nubra Valley Kardungla-Turtuk (48)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (48).JPG) |
+| ![](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (65).JPG) | ![4-Nubra Valley Kardungla-Turtuk (56)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (56).JPG) |
 
 
 
-**Tso-Moriri**(2-day trip from Leh)::Lovely landscape near Sumda **■** Cute Broken Bridge **■** Kyagar Tso (Lake) **■** Tso (Lake) Moriri **■** Tso (Lake) Kar **■** Taglang La (Pass)
+**Tso-Moriri** (2-day trip from Leh)::Lovely landscape near Sumda **■** Cute Broken Bridge **■** Kyagar Tso (Lake) **■** Tso (Lake) Moriri **■** Tso (Lake) Kar **■** Taglang La (Pass)
 
 |      |      |
 | :--- | :--- |
