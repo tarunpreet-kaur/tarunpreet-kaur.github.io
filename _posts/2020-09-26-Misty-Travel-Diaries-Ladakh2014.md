@@ -90,29 +90,38 @@ Leh Palace **■** Leh **■** Leh local markets
 
 
 
-**Nubra Valley & Turtuk::** Khardung La (Pass) **■** Panamik Hot Spring along Nubra river **■** Yarab Tso (Lake) **■** Turtuk Village along Shyok River (1 day trip from Nubra Valley) **■** Two Humped Camels **■** Diskit Monastry **■** Sandunes **■** Trek down to Shyok Riverside
+**Nubra Valley** (3-day trip from Leh, including Nubra Valley & Turtuk)::Khardung La (Pass) **■** Panamik Hot Spring along Nubra river **■** Yarab Tso (Lake) **■** Two Humped Camels **■** Diskit Monastry **■** Sandunes **■** Trek down to Shyok Riverside
 
 | ![4-Nubra Valley Kardungla-Turtuk (3)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (3).JPG) | ![4-Nubra Valley Kardungla-Turtuk (4)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (4).JPG) |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| ![4-Nubra Valley Kardungla-Turtuk (6)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (6).JPG) | ![4-Nubra Valley Kardungla-Turtuk (44)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (44).JPG) |
+| ![4-Nubra Valley Kardungla-Turtuk (6)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (6).JPG) | ![4-Nubra Valley Kardungla-Turtuk (2)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (2).jpg) |
 | ![4-Nubra Valley Kardungla-Turtuk (15)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (15).JPG) | ![4-Nubra Valley Kardungla-Turtuk (14)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (14).JPG) |
 | ![4-Nubra Valley Kardungla-Turtuk (16)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (16).JPG) | ![4-Nubra Valley Kardungla-Turtuk (17)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (17).JPG) |
+| ![4-Nubra Valley Kardungla-Turtuk (20)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (20).JPG) | ![4-Nubra Valley Kardungla-Turtuk (23)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (27).JPG) |
+| ![4-Nubra Valley Kardungla-Turtuk (27)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (23).JPG) | ![4-Nubra Valley Kardungla-Turtuk (24)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (24).JPG) |
+| ![4-Nubra Valley Kardungla-Turtuk (44)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (44).JPG) | ![4-Nubra Valley Kardungla-Turtuk (73)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (73).JPG) |
+| ![4-Nubra Valley Kardungla-Turtuk (78)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (78).JPG) | ![4-Nubra Valley Kardungla-Turtuk (81)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (81).JPG) |
+| ![4-Nubra Valley Kardungla-Turtuk (91)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (91).JPG) | ![4-Nubra Valley Kardungla-Turtuk (107)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (107).JPG) |
+| ![4-Nubra Valley Kardungla-Turtuk (87)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (87).JPG) | ![4-Nubra Valley Kardungla-Turtuk (98)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (98).JPG) |
+| ![4-Nubra Valley Kardungla-Turtuk (99)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (99).JPG) | ![4-Nubra Valley Kardungla-Turtuk (103)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (103).JPG) |
+| ![4-Nubra Valley Kardungla-Turtuk (120)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (120).JPG) | ![4-Nubra Valley Kardungla-Turtuk (117)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (117).JPG) |
+| ![4-Nubra Valley Kardungla-Turtuk (119)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (119).JPG) | ![4-Nubra Valley Kardungla-Turtuk (121)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (121).JPG) |
 
 
 
-**Paro**
+**Turtuk** (Day trip from Nubra Valley)::Turtuk Village along Shyok River
 
-|      |      |
-| :--- | :--- |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
+| ![4-Nubra Valley Kardungla-Turtuk (67)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (67).JPG) | ![4-Nubra Valley Kardungla-Turtuk (49)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (49).JPG) |
+| :----------------------------------------------------------- | :----------------------------------------------------------- |
+| ![4-Nubra Valley Kardungla-Turtuk (68)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (68).JPG) |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
 
 
 
-**Chela La Pass & Haa Valley**
+**Tso-Moriri**(2-day trip from Leh)::Lovely landscape near Sumda **■** Cute Broken Bridge **■** Kyagar Tso (Lake) **■** Tso (Lake) Moriri **■** Tso (Lake) Kar **■** Taglang La (Pass)
 
 |      |      |
 | :--- | :--- |
