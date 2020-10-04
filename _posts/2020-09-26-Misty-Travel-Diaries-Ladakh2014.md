@@ -92,11 +92,11 @@ Leh Palace **■** Leh **■** Leh local markets
 
 **Nubra Valley & Turtuk::** Khardung La (Pass) **■** Panamik Hot Spring along Nubra river **■** Yarab Tso (Lake) **■** Turtuk Village along Shyok River (1 day trip from Nubra Valley) **■** Two Humped Camels **■** Diskit Monastry **■** Sandunes **■** Trek down to Shyok Riverside
 
-|      |      |
-| :--- | :--- |
-|      |      |
-|      |      |
-|      |      |
+| ![4-Nubra Valley Kardungla-Turtuk (3)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (3).JPG) | ![4-Nubra Valley Kardungla-Turtuk (4)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (4).JPG) |
+| :----------------------------------------------------------- | :----------------------------------------------------------- |
+| ![4-Nubra Valley Kardungla-Turtuk (6)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (6).JPG) | ![4-Nubra Valley Kardungla-Turtuk (44)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (44).JPG) |
+| ![4-Nubra Valley Kardungla-Turtuk (15)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (15).JPG) | ![4-Nubra Valley Kardungla-Turtuk (14)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (14).JPG) |
+| ![4-Nubra Valley Kardungla-Turtuk (16)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (16).JPG) | ![4-Nubra Valley Kardungla-Turtuk (17)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (17).JPG) |
 
 
 
