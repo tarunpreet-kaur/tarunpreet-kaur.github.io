@@ -53,7 +53,7 @@ visible: 1
 | **Bharatpur, 2019**<br /><br />August      | **`Rajasthan::`**<br />* Bharatpur<br /><br />**Highlights** #BirdSanctuary |
 | **Alwar Resorts**                          | **`Rajasthan::Alwar::Resorts`**<br />* Neemrana<br />* Dadhikar Fort<br />* Alwar Bagh<br />* Shakunt Resort<br /><**`Rajasthan::Jaipur::Resorts`**<br />* Le Meridian<br />* Chowki Dhaani<br /><br />**Highlights** #Resorts #Hills |
 | **Kerala, 2016**                           | **`Kerala::`**<br />* Munnar<br />* Kumarakom<br />* Trivandrum<br /><br />**Highlights** #Greenery #TeaGardens #Beaches #Sarees  #Temples |
-| **New Delhi, 2014**                        | **`New Delhi::`**<br /><br />#Monuments                      |
+| **New Delhi, 2014**                        | **`Delhi::`**<br />* New Delhi<br /><br />#Monuments         |
 | **Maharashtra, 2011**                      | **`Maharashtra::`**<br />* Khandala <br />* Mumbai<br /><br />**Highlights** #Greenery |
 | **Manali, 2003**                           | **`Himachal Pradesh::`**<br />* Manali<br />**Highlights** #Mountains #Rivers |
 | **Shimla, 2013**                           | **`Himachal Pradesh::`**<br />* Shimla<br /><br />**Highlights** #Mountains #Snow |
