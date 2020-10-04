@@ -106,6 +106,9 @@ Leh Palace **■** Leh **■** Leh local markets
 | ![4-Nubra Valley Kardungla-Turtuk (99)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (99).JPG) | ![4-Nubra Valley Kardungla-Turtuk (103)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (103).JPG) |
 | ![4-Nubra Valley Kardungla-Turtuk (120)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (120).JPG) | ![4-Nubra Valley Kardungla-Turtuk (117)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (117).JPG) |
 | ![4-Nubra Valley Kardungla-Turtuk (119)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (119).JPG) | ![4-Nubra Valley Kardungla-Turtuk (121)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (121).JPG) |
+| ![4-Nubra Valley Kardungla-Turtuk (108)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (108).JPG) | ![4-Nubra Valley Kardungla-Turtuk (112)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (112).JPG) |
+| ![4-Nubra Valley Kardungla-Turtuk (122)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (122).JPG) | ![4-Nubra Valley Kardungla-Turtuk (123)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (123).JPG) |
+| ![4-Nubra Valley Kardungla-Turtuk (124)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (124).JPG) | ![4-Nubra Valley Kardungla-Turtuk (125)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (125).JPG) |
 
 
 
