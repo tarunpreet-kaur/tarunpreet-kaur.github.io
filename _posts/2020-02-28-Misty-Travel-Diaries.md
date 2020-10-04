@@ -55,7 +55,7 @@ visible: 1
 | **Kerala, 2016**                           | **`Kerala::`**<br />* Munnar<br />* Kumarakom<br />* Trivandrum<br /><br />**Highlights** #Greenery #TeaGardens #Beaches #Sarees  #Temples |
 | **New Delhi, 2014**                        | * New Delhi<br /><br />#Monuments                            |
 | **Maharashtra, 2011**                      | **`Maharashtra::`**<br />* Khandala <br />* Mumbai<br /><br />**Highlights** #Greenery |
-| **Manali, 2003**                           | **`Himachal Pradesh::`**<br />* Khandala <br />* Mumbai<br /><br />**Highlights** #Mountains #Rivers |
+| **Manali, 2003**                           | **`Himachal Pradesh::`**<br />* Manali<br />**Highlights** #Mountains #Rivers |
 | **Shimla, 2013**                           | **`Himachal Pradesh::`**<br />* Shimla<br /><br />**Highlights** #Mountains #Snow |
 | **Karnataka, 2004**                        | **`Karnataka::`**<br />* Kodaikanal<br />* Ooty<br /><br />**Highlights** #Mountains #Lakes |
 | **Agra**                                   | **`Uttar Pradesh::`**<br />* Agra<br /><br />**Highlights** #TajMahal |
