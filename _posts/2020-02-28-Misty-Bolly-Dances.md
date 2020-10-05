@@ -4,7 +4,7 @@ title: Misty Bolly Dances
 subtitle: Bollywood Dance | Fashion | Jewellery | Photo & Video shoot
 gh-repo: daattali/beautiful-jekyll
 gh-badge: []
-tags: [travel]
+tags: [dance, bollywood, fashion, jewellery]
 comments: true
 date: 2020-08-28 23:22:00 +0000
 visible: 1
