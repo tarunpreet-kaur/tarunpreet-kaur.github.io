@@ -17,10 +17,10 @@ visible: 0
 
 **Indian Dress-Up **
 
-| ![Lehenga-Green-2](../assets/img/Misty Dress Diaries/Lehenga-Green-2.jpg) | ![Lehenga-Green-1](../assets/img/Misty Dress Diaries/Lehenga-Green-1.jpg) |
+| ![Lehenga-Green-2](../assets/img/Misty DressUp Diaries/Lehenga-Green-2.jpg) | ![Lehenga-Green-1](../assets/img/Misty DressUp Diaries/Lehenga-Green-1.jpg) |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
-| ![Lehenga-Green-3](../assets/img/Misty Dress Diaries/Lehenga-Green-3.jpg) | ![Lehenga-Green-4](../assets/img/Misty Dress Diaries/Lehenga-Green-4.jpg) |
-| ![Badan-Pe-Sitaare-1](../assets/img/Misty Dress Diaries/Badan-Pe-Sitaare-1.jpg) | ![Badan-Pe-Sitaare-3](../assets/img/Misty Dress Diaries/Badan-Pe-Sitaare-3.jpg) |
+| ![Lehenga-Green-3](../assets/img/Misty DressUp Diaries/Lehenga-Green-3.jpg) | ![Lehenga-Green-4](../assets/img/Misty DressUp Diaries/Lehenga-Green-4.jpg) |
+| ![Badan-Pe-Sitaare-1](../assets/img/Misty DressUp Diaries/Badan-Pe-Sitaare-1.jpg) | ![Badan-Pe-Sitaare-3](../assets/img/Misty DressUp Diaries/Badan-Pe-Sitaare-3.jpg) |
 |                                                              |                                                              |
 |                                                              |                                                              |
 |                                                              |                                                              |
