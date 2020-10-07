@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Misty DressUp Diaries
-subtitle: Indian DressUp | Fashion | Jewellery | Photoshoot
+subtitle: Indian Dress Up | Fashion | Jewellery | Photoshoot
 gh-repo: daattali/beautiful-jekyll
 gh-badge: []
 tags: [fashion, jewellery, indian-dressup]
