@@ -51,6 +51,7 @@ date: 2020-08-28 23:22:00 +0000
       {% endif %}
     </a>
     
+    <!---
     <p class="post-meta">
       {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
       Posted on {{ post.date | date: date_format }}
@@ -90,6 +91,7 @@ date: 2020-08-28 23:22:00 +0000
       <a href="{{ '/tags' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>
       {% endfor %}
     </div>
+    -->
     {% endif %}
     {% endif %}
 
