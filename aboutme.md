@@ -4,9 +4,9 @@ title: About me
 subtitle: Get to know me
 ---
 
-Myself - Tarunpreet Kaur, from New Delhi, India. I love travel, photography, fashion & learning various dance forms. I am an organized person & I prepare my travel plans very carefully. Sharing some of my detailed itineraries with you @ [Misty Travel Diaries](https://www.instagram.com/mistytraveldiaries/)
+Myself - Tarunpreet Kaur, from New Delhi, India. I love travel, photography, fashion & learning various dance forms. Some of my dance & dress-ups photo & video shoots are at @ **Misty Bolly Dances** & **Misty Dress-Up** [instagram: [Misty Bolly Dances](https://www.instagram.com/mistybollydances/)]. I am an organized person & I prepare my travel plans very carefully. Sharing some of my detailed itineraries with you @ **Misty Travel Diaries** [instagram: [Misty Travel Diaries](https://www.instagram.com/mistytraveldiaries/)]. 
 
-### My story
+
 
 Over the past years, I have visited so many beautiful places. Some of my favourite most pictures from these holidays.
 
@@ -22,6 +22,6 @@ Over the past years, I have visited so many beautiful places. Some of my favouri
 | ![3-Germ-1-Koln (1)](assets/img/Europe 2017/3-Germ-1-Koln (1).JPG) | ![1-Neth-1-Zaanse-7](assets/img/Europe 2017/1-Neth-1-Zaanse-7.JPG) |
 | ![1-Neth-4-Giethoorn-5](assets/img/Europe 2017/1-Neth-4-Giethoorn-5.JPG) | ![2-Belg-1-Brugge (4)](assets/img/Europe 2017/2-Belg-1-Brugge (4).JPG) |
 | ![4-Austr-1-Vienna-Day1 (3)](assets/img/Europe 2017/4-Austr-1-Vienna-Day1 (3).JPG) | ![4-Austr-1-Vienna-Day2 (8)](assets/img/Europe 2017/4-Austr-1-Vienna-Day2 (8).JPG) |
-|                                                              | ![4-Austr-1-Vienna-Day2 (2)](assets/img/Europe 2017/4-Austr-1-Vienna-Day2 (2).JPG) |
-|                                                              | ![4-Austr-1-Vienna-Day3 (3)](assets/img/Europe 2017/4-Austr-1-Vienna-Day3 (3).JPG) |
+| ![1-Leh_Biking Chilling, Alchi (36)](assets/img/Ladakh 2014/1-Leh_Biking Chilling, Alchi (36).JPG) | ![4-Austr-1-Vienna-Day2 (2)](assets/img/Europe 2017/4-Austr-1-Vienna-Day2 (2).JPG) |
+| ![3-Biking FishPond Hemis (25)](assets/img/Ladakh 2014/3-Biking FishPond Hemis (25).JPG) | ![4-Austr-1-Vienna-Day3 (3)](assets/img/Europe 2017/4-Austr-1-Vienna-Day3 (3).JPG) |
 
