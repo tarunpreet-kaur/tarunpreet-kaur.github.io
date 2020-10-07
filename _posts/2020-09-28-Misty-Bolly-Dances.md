@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Misty Bolly Dances
-subtitle: Bollywood Dance | Fashion | Jewellery | Photo & Video shoot
+subtitle: Bollywood Dance | Fashion | Jewellery | Video shoot
 gh-repo: daattali/beautiful-jekyll
 gh-badge: []
 tags: [dance, bollywood, fashion, jewellery]
@@ -10,8 +10,7 @@ date: 2020-08-28 23:22:00 +0000
 visible: 1
 ---
 
-**Instagram:** [@mistybollydances](https://www.instagram.com/mistybollydances/)                
-**YouTube:** [Misty Bolly Dances](https://www.youtube.com/channel/UCgs5bksScrops1q76ZyBDfA?view_as=subscriber)                
+**Instagram:** [@mistybollydances](https://www.instagram.com/mistybollydances/)                **YouTube:** [Misty Bolly Dances](https://www.youtube.com/channel/UCgs5bksScrops1q76ZyBDfA?view_as=subscriber)                
 **Homepage:** [Misty Diaries](https://tarunpreetkaur.com/)                
 
 
