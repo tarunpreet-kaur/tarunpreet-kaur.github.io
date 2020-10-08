@@ -119,19 +119,27 @@ Leh Palace **■** Leh **■** Leh local markets
 
 **Tso-Moriri** (2-day trip from Leh)::Lovely landscape near Sumda **■** Cute Broken Bridge **■** Kyagar Tso (Lake) **■** Tso (Lake) Moriri **■** Tso (Lake) Kar **■** Taglang La (Pass)
 
-|      |      |
-| :--- | :--- |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
+| ![5-Tso Moriri (1)](../assets/img/Ladakh 2014/5-Tso Moriri (1).JPG) | ![5-Tso Moriri (2)](../assets/img/Ladakh 2014/5-Tso Moriri (2).JPG) |
+| :----------------------------------------------------------- | :----------------------------------------------------------- |
+| ![5-Tso Moriri (7)](../assets/img/Ladakh 2014/5-Tso Moriri (7).JPG) | ![5-Tso Moriri (5)](../assets/img/Ladakh 2014/5-Tso Moriri (5).JPG) |
+| ![5-Tso Moriri (9)](../assets/img/Ladakh 2014/5-Tso Moriri (9).JPG) | ![5-Tso Moriri (6)](../assets/img/Ladakh 2014/5-Tso Moriri (6).JPG) |
+| ![5-Tso Moriri (12)](../assets/img/Ladakh 2014/5-Tso Moriri (12).JPG) | ![5-Tso Moriri (11)](../assets/img/Ladakh 2014/5-Tso Moriri (11).JPG) |
+| ![5-Tso Moriri (14)](../assets/img/Ladakh 2014/5-Tso Moriri (14).JPG) | ![5-Tso Moriri (19)](../assets/img/Ladakh 2014/5-Tso Moriri (19).JPG) |
+| ![5-Tso Moriri (22)](../assets/img/Ladakh 2014/5-Tso Moriri (22).JPG) | ![5-Tso Moriri (10)](../assets/img/Ladakh 2014/5-Tso Moriri (10).JPG) |
+| ![5-Tso Moriri (22)](../assets/img/Ladakh 2014/5-Tso Moriri (22).JPG) | ![5-Tso Moriri (24)](../assets/img/Ladakh 2014/5-Tso Moriri (24).JPG) |
+| ![5-Tso Moriri (22b)](../assets/img/Ladakh 2014/5-Tso Moriri (22b).JPG) | ![5-Tso Moriri (26)](../assets/img/Ladakh 2014/5-Tso Moriri (26).JPG) |
+| ![5-Tso Moriri (22a)](../assets/img/Ladakh 2014/5-Tso Moriri (22a).JPG) | ![5-Tso Moriri (39)](../assets/img/Ladakh 2014/5-Tso Moriri (39).JPG) |
+| ![5-Tso Moriri (36)](../assets/img/Ladakh 2014/5-Tso Moriri (36).JPG) | ![5-Tso Moriri (37)](../assets/img/Ladakh 2014/5-Tso Moriri (37).JPG) |
 
 
 
 
 
 ## Video Blog
+
+
+
+
 
 
 
