@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Misty Travel Diaries
+subtitle: Get your holiday plan
 gh-repo: daattali/beautiful-jekyll
 gh-badge: []
 tags: [travel]
