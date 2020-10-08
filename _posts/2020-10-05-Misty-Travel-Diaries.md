@@ -11,7 +11,7 @@ visible: 0
 
 ![Misty Travel Diaries2](../assets/img/Misty Travel Diaries2.JPG)
 
-<span style="font-weight: 600; font-size: 12px">**Instagram:** [@mistytraveldiaries](https://www.instagram.com/mistytraveldiaries/) 	               **Homepage:** [Misty Diaries](https://tarunpreetkaur.com/)                </span>
+<span style="font-weight: 600; font-size: 14px">**Instagram:** [@mistytraveldiaries](https://www.instagram.com/mistytraveldiaries/) 	               **Homepage:** [Misty Diaries](https://tarunpreetkaur.com/)                </span>
 
 
 
