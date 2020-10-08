@@ -6,15 +6,16 @@ subtitle: Get to know me
 
 Myself - Tarunpreet Kaur, from New Delhi, India. I love travel, photography, fashion & learning various dance forms. Some of my dance & dress-ups photo & video shoots are at @ [Misty Bolly Dances](https://tarunpreetkaur.com/Misty-Bolly-Dances.html) & [Misty DressUp Diaries](https://tarunpreetkaur.com/Misty-DressUp-Diaries.html)
 
-I am an organized person & I prepare my travel plans very carefully. Sharing some of my detailed itineraries with you @ [Misty Travel Diaries](https://tarunpreetkaur.com/Misty-Travel-Diaries.html)
+Over the past years, I have visited so many beautiful places. I am an organized person & I prepare my travel plans very carefully. Sharing some of my detailed itineraries with you @ [Misty Travel Diaries](https://tarunpreetkaur.com/Misty-Travel-Diaries.html). 
 
 
 
-Over the past years, I have visited so many beautiful places. Some of my favourite most pictures from these holidays.
+**My Story**
 
-| ![3a-Punakha (3)](assets/img/Bhutan 2019/3a-Punakha (3).JPG) | ![1-Thimphu (10)](assets/img/Bhutan 2019/1-Thimphu (10).JPG) |
+| **`Mahi Mera - Kithe Reh Gya`**<br /><br />[<img src="assets/img/Misty Bolly Dances/Mahi Mera - Kithe Reh Gaya.JPG" alt="Watch the video" style="zoom:80%;" /> | **`Kurta Pajama Kala`** <br /><br />[![Watch the video](assets/img/Misty Bolly Dances/Kurta Pajama Kala.JPG)](https://www.youtube.com/watch?v=WyuwndteC9U) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![2-Dochula Pass & National Park (9)](assets/img/Bhutan 2019/2-Dochula Pass & National Park (9).JPG) | ![1-Thimphu (11)](assets/img/Bhutan 2019/1-Thimphu (11).JPG) |
+| ![3a-Punakha (3)](assets/img/Bhutan 2019/3a-Punakha (3).JPG) | ![1-Thimphu (10)](assets/img/Bhutan 2019/1-Thimphu (10).JPG) |
+| ![2-Dochula Pass & National Park (9)](assets/img/Bhutan 2019/2-Dochula Pass & National Park (9).JPG) | ![Lehenga-Green-1](assets/img/Misty DressUp Diaries/Lehenga-Green-1.jpg) |
 | ![1-Thimphu-1-Royal Palace](assets/img/Bhutan 2019/1-Thimphu-1-Royal Palace.gif) | ![4b-Paro - Chela La Pass & Haa Valley (12)](assets/img/Bhutan 2019/4b-Paro - Chela La Pass & Haa Valley (12).JPG) |
 | ![3b-Punakha - Phobjikha Valley (4)](assets/img/Bhutan 2019/3b-Punakha - Phobjikha Valley (4).JPG) | ![3a-Punakha (4)](assets/img/Bhutan 2019/3a-Punakha (4).JPG) |
 | ![3a-Punakha (5)](assets/img/Bhutan 2019/3a-Punakha (5).JPG) | ![3a-Punakha (8)](assets/img/Bhutan 2019/3a-Punakha (8).JPG) |
