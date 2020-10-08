@@ -9,8 +9,6 @@ social-share: true
 visible: 0
 ---
 
-**Get your travel plans**
-
 ![Misty Travel Diaries2](../assets/img/Misty Travel Diaries2.JPG)
 
 <span style="font-weight: 600; font-size: 14px">**Links: ** [Instagram](https://www.instagram.com/mistytraveldiaries/)  |  [Misty Diaries](https://tarunpreetkaur.com/)                </span>
