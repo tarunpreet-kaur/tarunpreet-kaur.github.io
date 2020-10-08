@@ -27,13 +27,13 @@ visible: 0
 
 | Holiday                                                      | Cities                                                       |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
-| [**Ladakh, 2014**](https://tarunpreetkaur.com/Misty-Travel-Diaries-Ladakh2014.html)<br /><br />13 days<br />September<br /> | <span style="color:blue ; style=font-family: Open Sans; font-weight: 600; font-size: 16px;font-style: italic">**Ladakh::**</span><br />* Leh ■* Alchi **■** Chilling **■** Shey **■** Hemis **■** Thiksey<br /> Pangong Lake **■** Chang La **■** Chagar Tso<br />* Nubra Valley **■** Khardung La **■** Yarab Tso **■** Turtuk<br />* Tso Moriri **■** Kyagar Tso **■** Taglang La **■** Tso Kar<br /><br />**[Itinerary Ladakh 2014.pdf](..\assets\pdf\Itinerary Ladakh 2014.pdf)<br />**<br /><span style="color:gray ; style=font-family: Open Sans; font-weight: 400; font-size: 16px;font-style: italic">**Highlights** #Mountain #Snow #Rivers #Lakes #Fall #YellowTrees #Biking #Monasteries #Buddhism #HighAltitude5000m+ #LowOxygen #Serene #ScantilyPopulated #BRO'sWorld'sHighestMotorableRoads</span> |
+| [**Ladakh, 2014**](https://tarunpreetkaur.com/Misty-Travel-Diaries-Ladakh2014.html)<br /><br />13 days<br />September<br /> | <span style="color:blue ; style=font-family: Open Sans; font-weight: 600; font-size: 16px;font-style: italic">**Ladakh::**</span><br />* Leh ■ Alchi **■** Chilling **■** Shey **■** Hemis **■** Thiksey<br />* Pangong Lake **■** Chang La **■** Chagar Tso<br />* Nubra Valley **■** Khardung La **■** Yarab Tso **■** Turtuk<br />* Tso Moriri **■** Kyagar Tso **■** Taglang La **■** Tso Kar<br /><br />**[Itinerary Ladakh 2014.pdf](..\assets\pdf\Itinerary Ladakh 2014.pdf)<br />**<br /><span style="color:gray ; style=font-family: Open Sans; font-weight: 400; font-size: 16px;font-style: italic">**Highlights** #Mountain #Snow #Rivers #Lakes #Fall #YellowTrees #Biking #Monasteries #Buddhism #HighAltitude5000m+ #LowOxygen #Serene #ScantilyPopulated #BRO'sWorld'sHighestMotorableRoads</span> |
 
 **International Travel Itineraries  coming-up**
 
 | Holiday                    | Cities                                                       |
 | :------------------------- | ------------------------------------------------------------ |
-| **Bali, 2016**             | **`Bali::`**<br />* Ubud<br />* Kuta<br />                   |
+| **Bali, 2016**             | **`Bali::`**<br />* Ubud<br />* Kuta<br /><br /><span style="color:white ; style=font-family: Open Sans; font-weight: 400; font-size: 16px;font-style: italic">**Highlights** #Mountain #Snow #Rivers #Lakes #Fall #YellowTrees #Biking #Monasteries #Buddhism #HighAltitude5000m+ #LowOxygen #Serene #ScantilyPopulated #BRO'sWorld'sHighestMotorableRoads</span> |
 | **Thailand, 2012**         | **`Thailand::`**<br />* Phuket<br />* Bangkok<br />          |
 | **Singapore, 2006**        | **`Singapore::`**<br />* Singapore<br />                     |
 | **USA (East Coast), 2003** | **`USA::`**<br />* NY<br />* NJ<br />* Washington DC         |
