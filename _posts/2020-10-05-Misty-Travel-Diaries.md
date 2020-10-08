@@ -4,6 +4,7 @@ title: Misty Travel Diaries
 gh-repo: daattali/beautiful-jekyll
 gh-badge: []
 tags: [travel]
+date: null
 comments: true
 visible: 0
 ---
