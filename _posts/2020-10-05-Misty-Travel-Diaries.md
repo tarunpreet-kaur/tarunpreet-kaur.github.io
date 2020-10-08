@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Misty Travel Diaries
-subtitle: Get your holiday plan
 gh-repo: daattali/beautiful-jekyll
 gh-badge: []
 tags: [travel]
 comments: true
 visible: 0
 ---
+
+**Get your Travel Plans**
 
 ![Misty Travel Diaries2](../assets/img/Misty Travel Diaries2.JPG)
 
