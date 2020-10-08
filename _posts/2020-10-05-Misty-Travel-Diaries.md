@@ -33,11 +33,11 @@ visible: 0
 
 | Holiday                    | Cities                                                       |
 | :------------------------- | ------------------------------------------------------------ |
-| **Bali, 2016**             | **`Bali::`**<br />* Ubud<br />* Kuta<br /><br /><span style="color:white ; style=font-family: Open Sans; font-weight: 400; font-size: 16px;font-style: italic">**Highlights** #Mountain #Snow #Rivers #Lakes #Fall #YellowTrees #Biking #Monasteries #Buddhism #HighAltitude5000m+ #LowOxygen #Serene #ScantilyPopulated #BRO'sWorld'sHighestMotorableRoads</span> |
-| **Thailand, 2012**         | **`Thailand::`**<br />* Phuket<br />* Bangkok<br />          |
-| **Singapore, 2006**        | **`Singapore::`**<br />* Singapore<br />                     |
-| **USA (East Coast), 2003** | **`USA::`**<br />* NY<br />* NJ<br />* Washington DC         |
-| **Europe, 2007**           | **`France::`**<br />* Paris<br />* Nice<br />* Cannes<br />**`Monaco Monte Carlo::`**<br />**`Italy::`**<br />* Rome,<br />* Venice<br />**`Vatican City`** |
+| **Bali, <br />2016**       | <span style="color:blue ; style=font-family: Open Sans; font-weight: 600; font-size: 16px;font-style: italic">**Bali::**</span><br />* Ubud<br />* Kuta<br /><br /><span style="color:white ; style=font-family: Open Sans; font-weight: 400; font-size: 16px;font-style: italic">**Highlights** #Mountain #Snow #Rivers #Lakes #Fall #YellowTrees #Biking #Monasteries #Buddhism #HighAltitude5000m+ #LowOxygen #Serene #ScantilyPopulated #BRO'sWorld'sHighestMotorableRoads</span> |
+| **Thailand, 2012**         | <span style="color:blue ; style=font-family: Open Sans; font-weight: 600; font-size: 16px;font-style: italic">**Thailand::**</span><br />* Phuket<br />* Bangkok<br /> |
+| **Singapore, 2006**        | <span style="color:blue ; style=font-family: Open Sans; font-weight: 600; font-size: 16px;font-style: italic">**Singapore::**</span><br />* Singapore<br /> |
+| **USA (East Coast), 2003** | <span style="color:blue ; style=font-family: Open Sans; font-weight: 600; font-size: 16px;font-style: italic">**USA::**</span><br />* NY<br />* NJ<br />* Washington DC |
+| **Europe, 2007**           | <span style="color:blue ; style=font-family: Open Sans; font-weight: 600; font-size: 16px;font-style: italic">**France::**</span> Paris **■** Nice **■** Cannes<br /><span style="color:blue ; style=font-family: Open Sans; font-weight: 600; font-size: 16px;font-style: italic">**Monaco Monte Carlo**</span><br /><span style="color:blue ; style=font-family: Open Sans; font-weight: 600; font-size: 16px;font-style: italic">**Italy::**</span> Rome **■** Venice<br /><span style="color:blue ; style=font-family: Open Sans; font-weight: 600; font-size: 16px;font-style: italic">**Vatican City**</span> |
 
 **Indian Travel Itineraries coming-up**
 
