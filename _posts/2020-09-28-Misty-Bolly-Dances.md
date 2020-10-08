@@ -6,12 +6,10 @@ gh-repo: daattali/beautiful-jekyll
 gh-badge: []
 tags: [dance, bollywood, fashion, jewellery]
 comments: true
-date: 2020-09-27 23:22:00 +0000
 visible: 0
 ---
 
-**Instagram:** [@mistybollydances](https://www.instagram.com/mistybollydances/)                **YouTube:** [Misty Bolly Dances](https://www.youtube.com/channel/UCgs5bksScrops1q76ZyBDfA?view_as=subscriber)                
-**Homepage:** [Misty Diaries](https://tarunpreetkaur.com/)                
+<span style="font-weight: 600; font-size: 12px">**Instagram:** [@mistybollydances](https://www.instagram.com/mistybollydances/)			               **YouTube:** [Misty Bolly Dances](https://www.youtube.com/channel/UCgs5bksScrops1q76ZyBDfA?view_as=subscriber) 		               **Homepage:** [Misty Diaries](https://tarunpreetkaur.com/)         </span>
 
 
 
