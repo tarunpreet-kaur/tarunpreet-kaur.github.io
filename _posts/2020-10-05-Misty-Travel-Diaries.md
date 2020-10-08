@@ -6,7 +6,6 @@ gh-repo: daattali/beautiful-jekyll
 gh-badge: []
 tags: [travel]
 comments: true
-date: 2020-10-05 23:22:00 +0000
 visible: 0
 ---
 
