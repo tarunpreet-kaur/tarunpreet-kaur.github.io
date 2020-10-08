@@ -25,7 +25,7 @@ visible: 0
 
 | Holiday                                                      | Cities                                                       |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
-| [**Ladakh, 2014**](https://tarunpreetkaur.com/Misty-Travel-Diaries-Ladakh2014.html)<br /><br />September<br /><br />13 days | <span style="color:blue">**`Ladakh`::**</span><br />* Leh ■** Alchi **■** Chilling **■** Shey **■** Hemis **■** Thiksey<br />* Pangong Lake **■** Chang La **■** Chagar Tso<br />* Nubra Valley **■** Khardung La **■** Yarab Tso **■** Turtuk<br />* Tso Moriri **■** Kyagar Tso **■** Taglang La **■** Tso Kar<br /><br />[Itinerary Ladakh 2014.pdf](..\assets\pdf\Itinerary Ladakh 2014.pdf)<br /><br />**Highlights** #Mountain #Snow #Rivers #Lakes #Fall #YellowTrees #Biking #Monasteries #Buddhism #HighAltitude5000m+ #LowOxygen #Serene #ScantilyPopulated #BRO'sWorld'sHighestMotorableRoads |
+| [**Ladakh, 2014**](https://tarunpreetkaur.com/Misty-Travel-Diaries-Ladakh2014.html)<br /><br />13 days<br />September | <span style="color:blue">**`Ladakh`::**</span><br />* Leh ■* Alchi **■** Chilling **■** Shey **■** Hemis **■** Thiksey<br /> Pangong Lake **■** Chang La **■** Chagar Tso<br />* Nubra Valley **■** Khardung La **■** Yarab Tso **■** Turtuk<br />* Tso Moriri **■** Kyagar Tso **■** Taglang La **■** Tso Kar<br /><br />[Itinerary Ladakh 2014.pdf](..\assets\pdf\Itinerary Ladakh 2014.pdf)<br /><br />**Highlights** #Mountain #Snow #Rivers #Lakes #Fall #YellowTrees #Biking #Monasteries #Buddhism #HighAltitude5000m+ #LowOxygen #Serene #ScantilyPopulated #BRO'sWorld'sHighestMotorableRoads |
 
 **International Travel Itineraries  coming-up**
 
