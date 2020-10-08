@@ -9,17 +9,9 @@ comments: true
 visible: 0
 ---
 
-<!---
-
-<span style="color:blue ; style=font-family: Open Sans; font-weight: 600; font-size:20px;">Get your Travel Plans</span>
--->
-
 ![Misty Travel Diaries2](../assets/img/Misty Travel Diaries2.JPG)
 
-**Instagram:** [@mistytraveldiaries](https://www.instagram.com/mistytraveldiaries/)                
-**Homepage:** [Misty Diaries](https://tarunpreetkaur.com/)                
-
-
+<span style="font-weight: 600; font-size: 12px">**Instagram:** [@mistytraveldiaries](https://www.instagram.com/mistytraveldiaries/) 	               **Homepage:** [Misty Diaries](https://tarunpreetkaur.com/)                </span>
 
 
 
