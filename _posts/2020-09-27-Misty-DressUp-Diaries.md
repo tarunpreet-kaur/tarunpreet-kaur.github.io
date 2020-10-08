@@ -6,7 +6,7 @@ gh-repo: daattali/beautiful-jekyll
 gh-badge: []
 tags: [fashion, jewellery, indian-dressup]
 comments: true
-date: null
+date: 2020-09-28 23:22:00 +0000
 visible: 0
 ---
 
