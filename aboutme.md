@@ -7,7 +7,7 @@ Hi, My name is Tarunpreet Kaur and I am from New Delhi, India. I love travel, ph
 
 Over the past years, I have visited so many beautiful places. I am an organized person & I prepare my travel plans very carefully. Sharing some of my detailed itineraries with you @ [Misty Travel Diaries](https://tarunpreetkaur.com/Misty-Travel-Diaries.html). I am sure this site will help you plan some of your exotic holidays in an easier manner :) Do take a minute to check it out!
 
-Another aspect of my life is dressing up for formal functions & weddings. Find some dressup ideas below.
+Another thing that I like to do is dressing up for formal occasions. Some dressup styles below.
 
 **My Story**
 
