@@ -4,7 +4,9 @@ title: About me
 subtitle: Get to know me
 ---
 
-Myself - Tarunpreet Kaur, from New Delhi, India. I love travel, photography, fashion & learning various dance forms. Some of my dance & dress-ups photo & video shoots are at @ **Misty Bolly Dances** & **Misty Dress-Up** [instagram: [Misty Bolly Dances](https://www.instagram.com/mistybollydances/)]. I am an organized person & I prepare my travel plans very carefully. Sharing some of my detailed itineraries with you @ **Misty Travel Diaries** [instagram: [Misty Travel Diaries](https://www.instagram.com/mistytraveldiaries/)]. 
+Myself - Tarunpreet Kaur, from New Delhi, India. I love travel, photography, fashion & learning various dance forms. Some of my dance & dress-ups photo & video shoots are at @ [Misty Bolly Dances](https://tarunpreetkaur.com/Misty-Bolly-Dances.html) & [Misty DressUp Diaries](https://tarunpreetkaur.com/Misty-DressUp-Diaries.html)
+
+I am an organized person & I prepare my travel plans very carefully. Sharing some of my detailed itineraries with you @ [Misty Travel Diaries](https://tarunpreetkaur.com/Misty-Travel-Diaries.html)
 
 
 
