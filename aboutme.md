@@ -11,7 +11,7 @@ Over the past years, I have visited so many beautiful places. I am an organized 
 
 **My Story**
 
-| **`Mahi Mera - Kithe Reh Gya`**<br /><br />[<img src="assets/img/Misty Bolly Dances/Mahi Mera - Kithe Reh Gaya.JPG" alt="Watch the video" style="zoom:80%;" /> | **`Kurta Pajama Kala`** <br /><br />[![Watch the video](assets/img/Misty Bolly Dances/Kurta Pajama Kala.JPG)](https://www.youtube.com/watch?v=WyuwndteC9U) |
+| **`Mahi Mera - Kithe Reh Gya`**<br /><br /><img src="assets/img/Misty Bolly Dances/Mahi Mera - Kithe Reh Gaya.JPG" alt="Watch the video" style="zoom:80%;" /> | **`Kurta Pajama Kala`** <br /><br />[![Watch the video](assets/img/Misty Bolly Dances/Kurta Pajama Kala.JPG)](https://www.youtube.com/watch?v=WyuwndteC9U) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![3a-Punakha (3)](assets/img/Bhutan 2019/3a-Punakha (3).JPG) | ![1-Thimphu (10)](assets/img/Bhutan 2019/1-Thimphu (10).JPG) |
 | ![2-Dochula Pass & National Park (9)](assets/img/Bhutan 2019/2-Dochula Pass & National Park (9).JPG) | ![Lehenga-Green-1](assets/img/Misty DressUp Diaries/Lehenga-Green-1.jpg) |
