@@ -8,7 +8,7 @@ comments: true
 visible: 0
 ---
 
-<span style="color:blue ; style=font-family: Open Sans; font-weight: 600; font-size: 18px;">Get your Travel Plans</span>
+<span style="color:blue ; style=font-family: Open Sans; font-weight: 600; font-size:20px;">Get your Travel Plans</span>
 
 ![Misty Travel Diaries2](../assets/img/Misty Travel Diaries2.JPG)
 
