@@ -10,9 +10,7 @@ social-share: true
 visible: 0
 ---
 
-**Instagram:** [@mistytraveldiaries](https://www.instagram.com/mistytraveldiaries/)                
-**Homepage:** [Misty Diaries](https://tarunpreetkaur.com/)                
-**Back:** [Misty Travel Diaries](https://tarunpreetkaur.com/Misty-Travel-Diaries.html)
+<span style="font-weight: 600; font-size: 14px">**Links: ** [**Instagram**](https://www.instagram.com/mistytraveldiaries/) | [**Misty Diaries**](https://tarunpreetkaur.com/) | [**Misty Travel Diaries**](https://tarunpreetkaur.com/Misty-Travel-Diaries.html)</span>
 
 
 
