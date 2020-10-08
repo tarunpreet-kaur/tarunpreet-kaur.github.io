@@ -4,7 +4,6 @@ title: Misty Travel Diaries
 gh-repo: daattali/beautiful-jekyll
 gh-badge: []
 tags: [travel]
-date: null
 comments: true
 visible: 0
 ---
@@ -20,7 +19,7 @@ visible: 0
 
 | Holiday | Cities |
 | :------ | ------- |
-| [**Europe, 2017**](https://tarunpreetkaur.com/Misty-Travel-Diaries-Europe2017.html)<br /><br />13 days<br>June<br /><br />₹92K<br />($1,250) per adult | <span style="color:blue ; style=font-family: Open Sans; font-weight: 600; font-size: 16px;font-style: italic">**Netherlands::**</span> Amsterdam **■** Zaanse Schans **■** Harleem **■** Giethoorn<br /><span style="color:blue ; style=font-family: Open Sans; font-weight: 600; font-size: 16px;font-style: italic">**Belgium:: **</span>Bruges<br /><span style="color:blue ; style=font-family: Open Sans; font-weight: 600; font-size: 16px;font-style: italic">**Germany::**</span> Cologne **■** Munich<br /><span style="color:blue ; style=font-family: Open Sans; font-weight: 600; font-size: 16px;font-style: italic">**Austria::**</span> Vienna **■** Salzburg **■** Zell am See **■** Kaprun (Alps)<br /> <br />**[Itinerary Europe 2017.pdf](..\assets\pdf\Itinerary Europe 2017.pdf)<br />**<br />**Highlights** #Mountain #Snow #Rivers #Lakes #Canals #Beaches #Greenery #Cathedrals #Bridges #Monuments #Flowers #Cute streets #Meadows #updated? <br /> |
+| [**Europe, 2017**](https://tarunpreetkaur.com/Misty-Travel-Diaries-Europe2017.html)<br /><br />13 days<br>June<br /><br />₹92K<br />($1,250) per adult | <span style="color:blue ; style=font-family: Open Sans; font-weight: 600; font-size: 16px;font-style: italic">**Netherlands::**</span> Amsterdam **■** Zaanse Schans **■** Harleem **■** Giethoorn<br /><span style="color:blue ; style=font-family: Open Sans; font-weight: 600; font-size: 16px;font-style: italic">**Belgium:: **</span>Bruges<br /><span style="color:blue ; style=font-family: Open Sans; font-weight: 600; font-size: 16px;font-style: italic">**Germany::**</span> Cologne **■** Munich<br /><span style="color:blue ; style=font-family: Open Sans; font-weight: 600; font-size: 16px;font-style: italic">**Austria::**</span> Vienna **■** Salzburg **■** Zell am See **■** Kaprun (Alps)<br /> <br />**[Itinerary Europe 2017.pdf](..\assets\pdf\Itinerary Europe 2017.pdf)<br />**<br />**Highlights** #Mountain #Snow #Rivers #Lakes #Canals #Beaches #Greenery #Cathedrals #Bridges #Monuments #Flowers #Cute streets #Meadows #updated <br /> |
 | [**Bhutan, 2019**](https://tarunpreetkaur.com/Misty-Travel-Diaries-Bhutan2019.html)<br /><br />8 days<br />June<br /><br />₹45K<br />($612) per adult | <span style="color:blue ; style=font-family: Open Sans; font-weight: 600; font-size: 16px;font-style: italic">**Bhutan::**</span><br />* Thimphu ■<br />* Dochula Pass **■** Serbithang<br />* Punakha **■** Phobjikha Valley<br />* Paro **■** Chela La **■** Haa Valley<br /><br />**[Itinerary Bhutan 2019.pdf](..\assets\pdf\Itinerary Bhutan 2019.pdf)<br />**<br /> **Highlights** #Mountain #Rivers #Monasteries #Buddhism #Treks #Greenery |
 
 **Indian Travel Itineraries**
