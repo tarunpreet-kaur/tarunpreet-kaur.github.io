@@ -9,6 +9,8 @@ date: 2020-10-05 23:22:00 +0000
 visible: 0
 ---
 
+![Misty Travel Diaries2](../assets/img/Misty Travel Diaries2.JPG)
+
 **Instagram:** [@mistytraveldiaries](https://www.instagram.com/mistytraveldiaries/)                
 **Homepage:** [Misty Diaries](https://tarunpreetkaur.com/)                
 
