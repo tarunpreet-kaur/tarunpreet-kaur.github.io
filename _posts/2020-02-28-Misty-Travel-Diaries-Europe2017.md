@@ -6,7 +6,7 @@ gh-repo: daattali/beautiful-jekyll
 gh-badge: []
 tags: [travel, travel_europe, travel_june]
 comments: true
-date: 2020-09-25 23:22:00 +0000
+social-share: true
 visible: 0
 ---
 
@@ -30,7 +30,7 @@ visible: 0
 * **When:** June, 2017
 * **Days:** 13
 * **Budget:** INR 92,000 (USD 1,250) per person
-   <u>Excluding</u>: Flight Ticket (INR 63,000 return ticket from India), Shopping
+   <u>Excluding</u>: Flight Ticket (INR 63,000 return ticket from India), Visa Fees, Shopping
    <u>Including</u>: Hotel / Homestay, Inter & Intra City Travel including train fare, Food, Entry fees
    
    
