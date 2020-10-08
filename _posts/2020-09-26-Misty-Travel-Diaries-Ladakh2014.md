@@ -126,8 +126,7 @@ Leh Palace **■** Leh **■** Leh local markets
 | ![5-Tso Moriri (12)](../assets/img/Ladakh 2014/5-Tso Moriri (12).JPG) | ![5-Tso Moriri (11)](../assets/img/Ladakh 2014/5-Tso Moriri (11).JPG) |
 | ![5-Tso Moriri (14)](../assets/img/Ladakh 2014/5-Tso Moriri (14).JPG) | ![5-Tso Moriri (19)](../assets/img/Ladakh 2014/5-Tso Moriri (19).JPG) |
 | ![5-Tso Moriri (22)](../assets/img/Ladakh 2014/5-Tso Moriri (22).JPG) | ![5-Tso Moriri (10)](../assets/img/Ladakh 2014/5-Tso Moriri (10).JPG) |
-| ![5-Tso Moriri (22)](../assets/img/Ladakh 2014/5-Tso Moriri (22).JPG) | ![5-Tso Moriri (24)](../assets/img/Ladakh 2014/5-Tso Moriri (24).JPG) |
-| ![5-Tso Moriri (22b)](../assets/img/Ladakh 2014/5-Tso Moriri (22b).JPG) | ![5-Tso Moriri (26)](../assets/img/Ladakh 2014/5-Tso Moriri (26).JPG) |
+| ![5-Tso Moriri (22b)](../assets/img/Ladakh 2014/5-Tso Moriri (22b).JPG) | ![5-Tso Moriri (24)](../assets/img/Ladakh 2014/5-Tso Moriri (24).JPG) |
 | ![5-Tso Moriri (22a)](../assets/img/Ladakh 2014/5-Tso Moriri (22a).JPG) | ![5-Tso Moriri (39)](../assets/img/Ladakh 2014/5-Tso Moriri (39).JPG) |
 | ![5-Tso Moriri (36)](../assets/img/Ladakh 2014/5-Tso Moriri (36).JPG) | ![5-Tso Moriri (37)](../assets/img/Ladakh 2014/5-Tso Moriri (37).JPG) |
 
