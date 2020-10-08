@@ -6,6 +6,7 @@ gh-repo: daattali/beautiful-jekyll
 gh-badge: []
 tags: [travel]
 comments: true
+social-share: true
 visible: 0
 ---
 
