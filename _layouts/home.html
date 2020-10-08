@@ -5,8 +5,6 @@ date: 2020-08-28 23:22:00 +0000
 
 {{ content }}
 
-<!---
-
 {% assign posts = paginator.posts | default: site.posts %}
 
 <div class="posts-list">
@@ -109,6 +107,9 @@ date: 2020-08-28 23:22:00 +0000
 </div>
 
 {% if paginator.total_pages > 1 %}
+
+<!---
+
 <ul class="pagination main-pager">
   {% if paginator.previous_page %}
   <li class="page-item previous">
@@ -120,8 +121,11 @@ date: 2020-08-28 23:22:00 +0000
     <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}">Older Posts &rarr;</a>
   </li>
   {% endif %}
-</ul>
+</ul> -->
+
+
+
 {% endif %}
 
--->
+
 
