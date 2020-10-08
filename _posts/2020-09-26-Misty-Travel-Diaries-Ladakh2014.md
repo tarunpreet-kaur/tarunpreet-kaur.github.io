@@ -6,7 +6,7 @@ gh-repo: daattali/beautiful-jekyll
 gh-badge: []
 tags: [travel, travel_asia, travel_india, travel_september]
 comments: true
-date: 2020-09-26 23:22:00 +0000
+social-share: true
 visible: 0
 ---
 
@@ -37,11 +37,7 @@ Leh Palace **■** Leh **■** Leh local markets
 * **When:** September, 2014
 * **Days:** 13
    While we kept the trip very relaxed, the same trip can be manged in 10 days
-* **Budget:** INR ??? (USD ??? ) per person
-   Inflation of INR from 2014 to current time must be considered
-   Rates included are for the Rented car (8 seater) shared by 4 adults
-   <u>Excluding</u>: Flight Ticket (INR ??? return ticket), Shopping 
-   <u>Including</u>: Hotel, Rented car + Driver + Guide for Inter & Intra City Travel, Food, Entry fees
+* **Budget:** To be updated
 
 
 
