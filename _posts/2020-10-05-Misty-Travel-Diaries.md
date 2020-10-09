@@ -16,6 +16,7 @@ visible: 0
 
 
 **International Travel Itineraries**
+<span style="color:blue"> For details on a particular holiday, click on the link under the column - Holiday  </span>
 
 | Holiday | Cities |
 | :------ | ------- |
@@ -31,6 +32,8 @@ visible: 0
 | [**Ladakh, 2014**](https://tarunpreetkaur.com/Misty-Travel-Diaries-Ladakh2014.html)<br /><br />13 days<br /><br />September<br /><span style="color:white">**Ranthambore,**</span><br /> | <span style="color:blue ; style=font-family: Open Sans; font-weight: 600; font-size: 16px;font-style: italic">**Ladakh::**</span><br /><span style="color:blue">**■** </span>Leh ■ Alchi **■** Chilling **■** Shey **■** Hemis **■** Thiksey<br /><span style="color:blue">**■** </span>Pangong Lake **■** Chang La **■** Chagar Tso<br /><span style="color:blue">**■** </span>Nubra Valley **■** Khardung La **■** Yarab Tso **■** Turtuk<br /><span style="color:blue">**■** </span>Tso Moriri **■** Kyagar Tso **■** Taglang La **■** Tso Kar<br /><br /><span style="color:blue ; style=font-family: Open Sans; font-weight: 600; font-size: 16px;font-style: italic">[Itinerary Ladakh 2014.pdf](..\assets\pdf\Itinerary Ladakh 2014.pdf)</span><br /><span style="color:white">fhskdfhsdhfskhfkshdfkshdkfshdkfss</span><br /><span style="color:gray ; style=font-family: Open Sans; font-weight: 400; font-size: 16px;font-style: italic">**Highlights** #Mountains #Snow #Passes #Rivers #Lakes #Treks #Biking #Monasteries #Buddhism #HighAltitude5000m+ #LowOxygen #ScantilyPopulated #World'sHighestMotorableRoads</span> |
 
 
+
+<span style="font-weight: 600; font-size: 24px">**Stay Tuned**</span>
 
 **International Travel Itineraries  coming-up**
 
