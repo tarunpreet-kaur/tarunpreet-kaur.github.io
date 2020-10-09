@@ -161,26 +161,31 @@ Amsterdam is the Netherlands’ capital, known for its artistic heritage, elabor
 
 **Austria::Kaprun & Zell am See (Alps)**
 
-| ![6-Austria-ZellamSee Kaprun (2)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (2).JPG) | ![6-Austria-ZellamSee Kaprun (1)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (1).JPG) |
+| ![6-Austria-ZellamSee Kaprun (2)](../assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (2).JPG) | ![6-Austria-ZellamSee Kaprun (1)](../assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (1).JPG) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![6-Austria-ZellamSee Kaprun (5)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (5).JPG) | ![6-Austria-ZellamSee Kaprun (4)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (4).JPG) |
-| ![6-Austria-ZellamSee Kaprun (3)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (3).JPG) | ![6-Austria-ZellamSee Kaprun (8)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (8).JPG) |
-| ![6-Austria-ZellamSee Kaprun (6)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (6).JPG) | ![6-Austria-ZellamSee Kaprun (7)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (7).JPG) |
-| ![6-Austria-ZellamSee Kaprun (10)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (10).JPG) | ![6-Austria-ZellamSee Kaprun (9)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (9).JPG) |
-| ![6-Austria-ZellamSee Kaprun (11)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (11).JPG) | ![6-Austria-ZellamSee Kaprun (14)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (14).JPG) |
-| ![6-Austria-ZellamSee Kaprun (13)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (13).JPG) | ![6-Austria-ZellamSee Kaprun (12)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (12).JPG) |
-| ![6-Austria-ZellamSee Kaprun (15)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (15).JPG) | ![6-Austria-ZellamSee Kaprun (18)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (18).JPG) |
-| ![6-Austria-ZellamSee Kaprun (16)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (16).JPG) | ![6-Austria-ZellamSee Kaprun (17)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (17).JPG) |
-| ![6-Austria-ZellamSee Kaprun (19)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (19).JPG) | ![6-Austria-ZellamSee Kaprun (2b)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (2b).JPG) |
+| ![6-Austria-ZellamSee Kaprun (5)](../assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (5).JPG) | ![6-Austria-ZellamSee Kaprun (4)](../assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (4).JPG) |
+| ![6-Austria-ZellamSee Kaprun (3)](../assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (3).JPG) | ![6-Austria-ZellamSee Kaprun (8)](../assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (8).JPG) |
+| ![6-Austria-ZellamSee Kaprun (6)](../assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (6).JPG) | ![6-Austria-ZellamSee Kaprun (7)](../assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (7).JPG) |
+| ![6-Austria-ZellamSee Kaprun (10)](../assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (10).JPG) | ![6-Austria-ZellamSee Kaprun (9)](../assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (9).JPG) |
+| ![6-Austria-ZellamSee Kaprun (11)](../assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (11).JPG) | ![6-Austria-ZellamSee Kaprun (14)](../assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (14).JPG) |
+| ![6-Austria-ZellamSee Kaprun (13)](../assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (13).JPG) | ![6-Austria-ZellamSee Kaprun (12)](../assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (12).JPG) |
+| ![6-Austria-ZellamSee Kaprun (15)](../assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (15).JPG) | ![6-Austria-ZellamSee Kaprun (18)](..//assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (18).JPG) |
+| ![6-Austria-ZellamSee Kaprun (16)](../assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (16).JPG) | ![6-Austria-ZellamSee Kaprun (17)](../assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (17).JPG) |
+| ![6-Austria-ZellamSee Kaprun (19)](../assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (19).JPG) | ![6-Austria-ZellamSee Kaprun (2b)](../assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (2b).JPG) |
 
 
 
 **Austria::Salzburg**
 
-|      |      |
-| ---- | ---- |
-|      |      |
-|      |      |
+| ![6-Austria-Salzburg (2)](../assets/img/Europe 2017/6-Austria-Salzburg (2).JPG) | ![6-Austria-Salzburg (1)](../assets/img/Europe 2017/6-Austria-Salzburg (1).JPG) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![6-Austria-Salzburg (5)](../assets/img/Europe 2017/6-Austria-Salzburg (5).JPG) | ![6-Austria-Salzburg (3)](../assets/img/Europe 2017/6-Austria-Salzburg (3).JPG) |
+| ![6-Austria-Salzburg (6)](..//assets/img/Europe 2017/6-Austria-Salzburg (6).JPG) | ![6-Austria-Salzburg (4)](../assets/img/Europe 2017/6-Austria-Salzburg (4).JPG) |
+| ![6-Austria-Salzburg (7)](../assets/img/Europe 2017/6-Austria-Salzburg (7).JPG) | ![6-Austria-Salzburg (9)](../assets/img/Europe 2017/6-Austria-Salzburg (9).JPG) |
+| ![6-Austria-Salzburg (16)](../../../../../Users/kaur/Desktop/inst/Europe 2017/June 28 Salzburg/6-Austria-Salzburg (16).JPG) | ![6-Austria-Salzburg (12)](../assets/img/Europe 2017/6-Austria-Salzburg (12).JPG) |
+| ![6-Austria-Salzburg (8)](../assets/img/Europe 2017/6-Austria-Salzburg (8).JPG) | ![6-Austria-Salzburg (10)](../assets/img/Europe 2017/6-Austria-Salzburg (10).JPG) |
+| ![6-Austria-Salzburg (13)](../assets/img/Europe 2017/6-Austria-Salzburg (13).JPG) | ![6-Austria-Salzburg (14)](..//assets/img/Europe 2017/6-Austria-Salzburg (14).JPG) |
+| ![6-Austria-Salzburg (15)](../../../../../Users/kaur/Desktop/inst/Europe 2017/June 28 Salzburg/6-Austria-Salzburg (15).JPG) | ![6-Austria-Salzburg (11)](../assets/img/Europe 2017/6-Austria-Salzburg (11).JPG) |
 
 
 
