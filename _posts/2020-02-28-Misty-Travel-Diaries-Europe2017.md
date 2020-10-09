@@ -10,7 +10,9 @@ social-share: true
 visible: 0
 ---
 
-<span style="font-weight: 600; font-size: 14px">**Links: ** [**Instagram**](https://www.instagram.com/mistytraveldiaries/) | [**Misty Diaries**](https://tarunpreetkaur.com/) | [**Misty Travel Diaries**](https://tarunpreetkaur.com/Misty-Travel-Diaries.html)</span>
+**Instagram:** [@mistytraveldiaries](https://www.instagram.com/mistytraveldiaries/)                
+**Homepage:** [Misty Diaries](https://tarunpreetkaur.com/)                
+**Back:** [Misty Travel Diaries](https://tarunpreetkaur.com/Misty-Travel-Diaries.html)
 
 
 
@@ -157,25 +159,23 @@ Amsterdam is the Netherlands’ capital, known for its artistic heritage, elabor
 
 
 
-**Austria::Salzburg**
-
-|      |      |
-| ---- | ---- |
-|      |      |
-|      |      |
-
-
-
-**Austria::Kaprun (Alps)**
-
-|      |      |
-| ---- | ---- |
-|      |      |
-|      |      |
-
-
-
 **Austria::Kaprun & Zell am See (Alps)**
+
+| ![6-Austria-ZellamSee Kaprun (2)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (2).JPG) | ![6-Austria-ZellamSee Kaprun (1)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (1).JPG) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![6-Austria-ZellamSee Kaprun (5)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (5).JPG) | ![6-Austria-ZellamSee Kaprun (4)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (4).JPG) |
+| ![6-Austria-ZellamSee Kaprun (3)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (3).JPG) | ![6-Austria-ZellamSee Kaprun (8)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (8).JPG) |
+| ![6-Austria-ZellamSee Kaprun (6)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (6).JPG) | ![6-Austria-ZellamSee Kaprun (7)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (7).JPG) |
+| ![6-Austria-ZellamSee Kaprun (10)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (10).JPG) | ![6-Austria-ZellamSee Kaprun (9)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (9).JPG) |
+| ![6-Austria-ZellamSee Kaprun (11)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (11).JPG) | ![6-Austria-ZellamSee Kaprun (14)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (14).JPG) |
+| ![6-Austria-ZellamSee Kaprun (13)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (13).JPG) | ![6-Austria-ZellamSee Kaprun (12)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (12).JPG) |
+| ![6-Austria-ZellamSee Kaprun (15)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (15).JPG) | ![6-Austria-ZellamSee Kaprun (18)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (18).JPG) |
+| ![6-Austria-ZellamSee Kaprun (16)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (16).JPG) | ![6-Austria-ZellamSee Kaprun (17)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (17).JPG) |
+| ![6-Austria-ZellamSee Kaprun (19)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (19).JPG) | ![6-Austria-ZellamSee Kaprun (2b)](../../../tarunpreet-kaur.github.io/assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (2b).JPG) |
+
+
+
+**Austria::Salzburg**
 
 |      |      |
 | ---- | ---- |
@@ -187,4 +187,8 @@ Amsterdam is the Netherlands’ capital, known for its artistic heritage, elabor
 
 
 ## Video Blog
+
+
+
+
 
