@@ -107,6 +107,12 @@ social-share: true
    </article>
   {% endfor %}
 
+  
+
+{% if page.social-share %}
+    {% include social-share.html %}
+  {% endif %}
+
 
 
 </div>
