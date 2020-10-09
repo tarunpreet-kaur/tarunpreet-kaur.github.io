@@ -34,5 +34,11 @@ title: Misty Diaries
         <td align = center colspan = 5></th>
     </tr>
     </table>
+    
+      {% if page.social-share %}
+    {% include social-share.html %}
+  {% endif %}
+
+{% include comments.html %}
 ```
 
