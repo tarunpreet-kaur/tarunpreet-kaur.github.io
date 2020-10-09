@@ -182,10 +182,10 @@ Amsterdam is the Netherlands’ capital, known for its artistic heritage, elabor
 | ![6-Austria-Salzburg (5)](../assets/img/Europe 2017/6-Austria-Salzburg (5).JPG) | ![6-Austria-Salzburg (3)](../assets/img/Europe 2017/6-Austria-Salzburg (3).JPG) |
 | ![6-Austria-Salzburg (6)](..//assets/img/Europe 2017/6-Austria-Salzburg (6).JPG) | ![6-Austria-Salzburg (4)](../assets/img/Europe 2017/6-Austria-Salzburg (4).JPG) |
 | ![6-Austria-Salzburg (7)](../assets/img/Europe 2017/6-Austria-Salzburg (7).JPG) | ![6-Austria-Salzburg (9)](../assets/img/Europe 2017/6-Austria-Salzburg (9).JPG) |
-| ![6-Austria-Salzburg (16)](../../../../../Users/kaur/Desktop/inst/Europe 2017/June 28 Salzburg/6-Austria-Salzburg (16).JPG) | ![6-Austria-Salzburg (12)](../assets/img/Europe 2017/6-Austria-Salzburg (12).JPG) |
+| ![6-Austria-Salzburg (16)](../assets/img/Europe 2017/6-Austria-Salzburg (16).JPG) | ![6-Austria-Salzburg (12)](../assets/img/Europe 2017/6-Austria-Salzburg (12).JPG) |
 | ![6-Austria-Salzburg (8)](../assets/img/Europe 2017/6-Austria-Salzburg (8).JPG) | ![6-Austria-Salzburg (10)](../assets/img/Europe 2017/6-Austria-Salzburg (10).JPG) |
 | ![6-Austria-Salzburg (13)](../assets/img/Europe 2017/6-Austria-Salzburg (13).JPG) | ![6-Austria-Salzburg (14)](..//assets/img/Europe 2017/6-Austria-Salzburg (14).JPG) |
-| ![6-Austria-Salzburg (15)](../../../../../Users/kaur/Desktop/inst/Europe 2017/June 28 Salzburg/6-Austria-Salzburg (15).JPG) | ![6-Austria-Salzburg (11)](../assets/img/Europe 2017/6-Austria-Salzburg (11).JPG) |
+| ![6-Austria-Salzburg (15)](../assets/img/Europe 2017/6-Austria-Salzburg (15).JPG) | ![6-Austria-Salzburg (11)](../assets/img/Europe 2017/6-Austria-Salzburg (11).JPG) |
 
 
 
