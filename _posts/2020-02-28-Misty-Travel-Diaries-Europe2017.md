@@ -130,7 +130,9 @@ Stop over for a few hours at Cologne, during your journey from Amsterdam to Vien
 
 
 
-**Austria::Vienna (Wien)::Stephansplatz**
+**Austria::Vienna (Wien)::Belvedere Palace & Stephansplatz**
+The morning can be spent to checkout the beautiful Belvedere Palace and it's gardens.
+After that you can walk & cover so many beautiful buildings in & around Stephansplatz (geographical centre of Vienna). The list is never ending, but here are a top few - St. Stephen’s Cathedral (Stephansdom), Hofburg Palace, Rathausplatz (City Hall), Austrian Parliament, Kunsthistorisches Museum, Vienna State Opera House (Staatsoper), Karlskirche.
 
 | ![4-Austr-1-Vienna-Day1 (11)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day1 (11).JPG) | ![4-Austr-1-Vienna-Day1 (12)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day1 (12).JPG) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -149,6 +151,7 @@ Stop over for a few hours at Cologne, during your journey from Amsterdam to Vien
 **Austria::Vienna (Wien)::Schonbrunn**
 
 Schonbrunn - Zoo, Palace & Garden
+The spectacular 1,441 rooms Schönbrunn Palace (Schloss Schönbrunn) was built in the early 18th century in a beautiful park-like setting and remains one of Austria's leading attractions. The spectacular park around Schönbrunn Palace covers an area of 500 acres. There is a train running inside the gardens to take you around the gardens which has exceptional sculptures throughout the way. Tiergarten Schönbrunn (Schönbrunn Zoo) the oldest zoo in the world and is a home to all kinds of animals including a giant Panda and lovely Penguins.
 
 | ![4-Austr-1-Vienna-Day2 (2)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day2 (2).JPG) | <img src="../assets/img/Europe 2017/4-Austr-1-Vienna-Day2 (1).JPG" alt="4-Austr-1-Vienna-Day2 (1)" style="zoom:160%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -160,6 +163,9 @@ Schonbrunn - Zoo, Palace & Garden
 
 
 **Germany::Munich (Munchen)**
+
+Munich, Bavaria’s capital, is home to centuries-old buildings and numerous museums. The city is known for its annual Oktoberfest celebration and its beer halls, including the famed Hofbräuhaus, founded in 1589. In the Altstadt (Old Town), central Marienplatz square contains landmarks such as Neo-Gothic Neues Rathaus (town hall), with a popular show that re-enacts stories from the 16th century. Close by attractions are - Peterskirche (St. Peter's Church), Asamkirche, Frauenkirche, Munich Residenz, Hofbräuhaus and Viktualienmarkt (Flea Market). Evenings are best spent at the English Gardens.
+Another day can be spent at Deutsches (Science) Museum.
 
 | ![5-Germ-1-Munich (8)](../assets/img/Europe 2017/5-Germ-1-Munich (8).JPG) | ![5-Germ-1-Munich (5)](../assets/img/Europe 2017/5-Germ-1-Munich (5).JPG) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -188,6 +194,8 @@ Schonbrunn - Zoo, Palace & Garden
 
 
 **Austria::Salzburg**
+Salzburg is an Austrian city on the border of Germany, with views of the Eastern Alps. The city is divided by the Salzach River, with medieval and baroque buildings of the pedestrian *Altstadt* (Old City) on its left bank, facing the 19th-century *Neustadt* (New City) on its right. The Altstadt birthplace of famed composer Mozart is preserved as a museum displaying his childhood instruments, known as *Mozart-Geburtshaus*. In the 1960s, the movie *The Sound of Music* used some locations in and around Salzburg. The song “*Do*-*Re*-*Mi*” was filmed in the Mirabell Gardens and *Fortress Hohensalzburg* in Salzburg. 
+You can start your tour at Mirabell Palace. From Mirabel you can walk out into *Makartplatz*, turn right past the *Landestheater* and then cross the river by the *Makartsteg* footbridge (love lock bridge). This will take you into the old city. If you have a city map just head for *Domplatz* (cathedral square) or *Residenzplatz*. In *Residenzplatz* there is the horse fountain dating from the 17th century. Also closeby are *Getreidegasse* & *St Peter's Abbey*.
 
 | ![6-Austria-Salzburg (2)](../assets/img/Europe 2017/6-Austria-Salzburg (2).JPG) | ![6-Austria-Salzburg (1)](../assets/img/Europe 2017/6-Austria-Salzburg (1).JPG) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
