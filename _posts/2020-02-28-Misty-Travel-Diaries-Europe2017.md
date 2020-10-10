@@ -68,7 +68,7 @@ Amsterdam Central: Amsterdam is the Netherlands’ capital, known for its artist
 
 **Netherlands::Zaanse Schans (The city of Windmills)**
 
-Zaanse Schans is a neighborhood in the Dutch town of Zaandam, near Amsterdam. Can be reached via a train (a day trip). It is the Historic windmills city of Netherlands and has distinctive green wooden houses, which were relocated here to recreate the look of an 18th/19th-century village. But most of all, it is about a couple of hours of walk in this splendid village!!! You can check out a cheese factory and buy some fresh cheese if you like. You can also checkout the Zaans Museum if there is enough time at hand (famous for regional costumes, model windmills, chocolate & cheese making, handicrafts).
+Zaanse Schans is a neighbourhood in the Dutch town of Zaandam, near Amsterdam. Can be reached via a train (a day trip). It is the Historic windmills city of Netherlands and has distinctive green wooden houses, which were relocated here to recreate the look of an 18th/19th-century village. But most of all, it is about a couple of hours of walk in this splendid village!!! You can check out a cheese factory and buy some fresh cheese if you like. You can also checkout the Zaans Museum if there is enough time at hand (famous for regional costumes, model windmills, chocolate & cheese making, handicrafts).
 
 | ![1-Neth-1-Zaanse-1](../assets/img/Europe 2017/1-Neth-1-Zaanse-1.JPG) | <img src="../assets/img/Europe 2017/1-Neth-1-Zaanse-2.JPG" alt="1-Neth-1-Zaanse-2"  /> |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -81,7 +81,7 @@ Zaanse Schans is a neighborhood in the Dutch town of Zaandam, near Amsterdam. Ca
 
 **Netherlands::Harleem**
 
-Haarlem is a city in the outskirts of Amsterdam. Once a major North Sea trading port, it retains its medieval character of cobblestone streets and gabled houses. It's the center of a major flower-bulb-growing district, and famous for its outlying tulip fields and hofjes (almshouses built around leafy courtyards).
+Haarlem is a city in the outskirts of Amsterdam. Once a major North Sea trading port, it retains its medieval character of cobblestone streets and gabled houses. It's the centre of a major flower-bulb-growing district, and famous for its outlying tulip fields and hofjes (almshouses built around leafy courtyards).
 
 | ![1-Neth-1-Harleem-7](../assets/img/Europe 2017/1-Neth-1-Harleem-7.JPG) | ![1-Neth-1-Harleem-8](../assets/img/Europe 2017/1-Neth-1-Harleem-8.JPG) |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
