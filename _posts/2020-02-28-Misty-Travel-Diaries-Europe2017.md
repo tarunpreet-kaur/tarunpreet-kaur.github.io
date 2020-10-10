@@ -63,7 +63,7 @@ Arrive at Schiphol Amsterdam airport
 
 Amsterdam Central: Amsterdam is the Netherlands’ capital, known for its artistic heritage, elaborate canal system and narrow houses with gabled fronts. Cycling is key to the city’s character, and there are numerous bike paths & one can see all varieties of cyclists. If you love cycling, getting a cycle on rent is possible. It's Museum District houses the Van Gogh Museum & the famous Rijksmuseum. Also try a ferry ride. Visiting a beach can be done while coming back from Giethoorn (easier by car).
 
-| <img src="../assets/img/Europe 2017/1-Neth-1-Amst-1.JPG" alt="1-Neth-1-Amst-1" /> | <img src="../assets/img/Europe 2017/1-Neth-1-Amst-2.JPG" alt="1-Neth-1-Amst-2" style="zoom:150%;" /> |
+| <img src="../assets/img/Europe 2017/1-Neth-1-Amst-1.JPG" alt="1-Neth-1-Amst-1" /> | <img src="../assets/img/Europe 2017/1-Neth-1-Amst-2.JPG" alt="1-Neth-1-Amst-2" style="zoom:200%;" /> |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
 | <img src="../assets/img/Europe 2017/1-Neth-1-Amst-4.JPG" alt="1-Neth-1-Amst-4" /> | <img src="../assets/img/Europe 2017/1-Neth-1-Amst-6.JPG" alt="1-Neth-1-Amst-6" /> |
 | <img src="../assets/img/Europe 2017/1-Neth-1-Amst-3.JPG" alt="1-Neth-1-Amst-3" /> | <img src="../assets/img/Europe 2017/1-Neth-1-Amst-5.JPG" alt="1-Neth-1-Amst-5" /> |
@@ -75,7 +75,7 @@ Amsterdam Central: Amsterdam is the Netherlands’ capital, known for its artist
 
 Zaanse Schans is a neighbourhood in the Dutch town of Zaandam, near Amsterdam. Can be reached via a train (a day trip). It is the Historic windmills city of Netherlands and has distinctive green wooden houses, which were relocated here to recreate the look of an 18th/19th-century village. But most of all, it is about a couple of hours of walk in this splendid village!!! You can check out a cheese factory and buy some fresh cheese if you like. You can also checkout the Zaans Museum if there is enough time at hand (famous for regional costumes, model windmills, chocolate & cheese making, handicrafts).
 
-| ![1-Neth-1-Zaanse-1](../assets/img/Europe 2017/1-Neth-1-Zaanse-1.JPG) | <img src="../assets/img/Europe 2017/1-Neth-1-Zaanse-2.JPG" alt="1-Neth-1-Zaanse-2"  /> |
+| ![1-Neth-1-Zaanse-1](../assets/img/Europe 2017/1-Neth-1-Zaanse-1.JPG) | <img src="../assets/img/Europe 2017/1-Neth-1-Zaanse-2.JPG" alt="1-Neth-1-Zaanse-2" style="zoom:125%;" /> |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | ![1-Neth-1-Zaanse-9](../assets/img/Europe 2017/1-Neth-1-Zaanse-9.JPG) | ![1-Neth-1-Zaanse-3](../assets/img/Europe 2017/1-Neth-1-Zaanse-3.JPG) |
 | ![1-Neth-1-Zaanse-7](../assets/img/Europe 2017/1-Neth-1-Zaanse-7.JPG) | ![1-Neth-1-Zaanse-8](../assets/img/Europe 2017/1-Neth-1-Zaanse-8.JPG) |
@@ -101,7 +101,7 @@ Haarlem is a city in the outskirts of Amsterdam. Once a major North Sea trading 
 
 A day trip from Amsterdam (approach: Rented Car). Giethoorn is a mostly car-free village in the northeastern Netherlands. It’s known for its boat-filled waterways & the way to step out of the house is usually a boat or a cute bridge. There are centuries-old thatched-roof houses. Difficult to reach, but it is cuteness overloaded!!!
 
-| ![1-Neth-4-Giethoorn-2](../assets/img/Europe 2017/1-Neth-4-Giethoorn-2.JPG) | <img src="../assets/img/Europe 2017/1-Neth-4-Giethoorn-6.JPG" alt="1-Neth-4-Giethoorn-6" /> |
+| ![1-Neth-4-Giethoorn-2](../assets/img/Europe 2017/1-Neth-4-Giethoorn-2.JPG) | <img src="../assets/img/Europe 2017/1-Neth-4-Giethoorn-6.JPG" alt="1-Neth-4-Giethoorn-6" style="zoom:125%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![1-Neth-4-Giethoorn-3](../assets/img/Europe 2017/1-Neth-4-Giethoorn-3.JPG) | ![1-Neth-4-Giethoorn-4](../assets/img/Europe 2017/1-Neth-4-Giethoorn-4.JPG) |
 | <img src="../assets/img/Europe 2017/1-Neth-4-Giethoorn-5.JPG" alt="1-Neth-4-Giethoorn-5" style="zoom:180%;" /> | ![1-Neth-4-Giethoorn-1](../assets/img/Europe 2017/1-Neth-4-Giethoorn-1.jpg) |
@@ -111,7 +111,7 @@ A day trip from Amsterdam (approach: Rented Car). Giethoorn is a mostly car-free
 **Belgium::Bruges (Brugge)** 
 Bruges is a famous city in Belgium & is distinguished by its canals, cobbled streets and medieval buildings. In the city centre's Burg square, the 14th-century Stadhuis (City Hall). A couple of hours of walk in Brugge is good fun. Don't forget to try Belgian chocolate and Belgian waffles while in Belgium.
 
-| <img src="../assets/img/Europe 2017/2-Belg-1-Brugge (1).JPG" alt="2-Belg-1-Brugge (1)" style="zoom:150%;" /> | <img src="../assets/img/Europe 2017/2-Belg-1-Brugge (3).JPG" alt="2-Belg-1-Brugge (3)" /> |
+| <img src="../assets/img/Europe 2017/2-Belg-1-Brugge (1).JPG" alt="2-Belg-1-Brugge (1)" style="zoom:125%;" /> | <img src="../assets/img/Europe 2017/2-Belg-1-Brugge (3).JPG" alt="2-Belg-1-Brugge (3)" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <img src="../assets/img/Europe 2017/2-Belg-1-Brugge (4).JPG" alt="2-Belg-1-Brugge (4)" /> | ![2-Belg-1-Brugge (2)](../assets/img/Europe 2017/2-Belg-1-Brugge (2).JPG) |
 | ![2-Belg-1-Brugge (5)](../assets/img/Europe 2017/2-Belg-1-Brugge (5).JPG) | ![2-Belg-1-Brugge (6)](../assets/img/Europe 2017/2-Belg-1-Brugge (6).JPG) |
@@ -150,7 +150,7 @@ Stop over for a few hours at Cologne, during your journey from Amsterdam to Vien
 
 Schonbrunn - Zoo, Palace & Garden
 
-| ![4-Austr-1-Vienna-Day2 (2)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day2 (2).JPG) | ![4-Austr-1-Vienna-Day2 (1)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day2 (1).JPG) |
+| ![4-Austr-1-Vienna-Day2 (2)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day2 (2).JPG) | <img src="../assets/img/Europe 2017/4-Austr-1-Vienna-Day2 (1).JPG" alt="4-Austr-1-Vienna-Day2 (1)" style="zoom:160%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![4-Austr-1-Vienna-Day2 (5)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day2 (5).JPG) | ![4-Austr-1-Vienna-Day2 (6)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day2 (6).JPG) |
 | ![4-Austr-1-Vienna-Day2 (7)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day2 (7).JPG) | ![4-Austr-1-Vienna-Day2 (8)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day2 (8).JPG) |
