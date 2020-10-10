@@ -107,6 +107,7 @@ A day trip from Amsterdam (approach: Rented Car). Giethoorn is a mostly car-free
 
 
 **Belgium::Bruges (Brugge)** 
+Bruges is a famous city in Belgium & is distinguished by its canals, cobbled streets and medieval buildings. In the city center’s Burg square, the 14th-century Stadhuis (City Hall). A couple of hours of walk in Brugge is good fun. Don't forget to try Belgian chocolate and Belgian waffles while in Belgium.
 
 | ![2-Belg-1-Brugge (1)](../assets/img/Europe 2017/2-Belg-1-Brugge (1).JPG) | <img src="../assets/img/Europe 2017/2-Belg-1-Brugge (3).JPG" alt="2-Belg-1-Brugge (3)" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
