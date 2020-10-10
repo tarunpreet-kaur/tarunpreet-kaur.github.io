@@ -61,7 +61,7 @@ Arrive at Schiphol Amsterdam airport
 
 **Netherlands::Amsterdam**
 
-Amsterdam Central: Amsterdam is the Netherlands’ capital, known for its artistic heritage, elaborate canal system and narrow houses with gabled fronts. Cycling is key to the city’s character, and there are numerous bike paths & one can see all varieties of cyclists. If you love cycling, getting a cycle on rent is possible. It's Museum District houses the Van Gogh Museum & the famous Rijksmuseum. Also try a ferry ride. Visiting a beach can be done while coming back from Giethoorn (easier by car).
+Amsterdam Central: Amsterdam is the Netherlands’ capital, known for its artistic heritage, elaborate canal system and narrow houses with gabled fronts. Cycling is key to the city’s character, and there are numerous bike paths & one can see all varieties of cyclists. If you love cycling, getting a cycle on rent is possible. It's Museum District houses the *Van Gogh Museum* & the famous *Rijksmuseum*. Walk around & take a tram once in a while for a few hours at the Centraal and see *Anne Frank House*, *The Jordaan*, *Dutch National Opera & Ballet*, *Royal Palace*, *Vondel park*. Also try a ferry ride. Visiting a beach can be done while coming back from Giethoorn (easier by car). *De Wallen*, Amsterdam's red-light district, is internationally known and one of the main tourist attractions of the city. It offers legal prostitution and a number of coffee shops that sell marijuana.
 
 | <img src="../assets/img/Europe 2017/1-Neth-1-Amst-1.JPG" alt="1-Neth-1-Amst-1" /> | <img src="../assets/img/Europe 2017/1-Neth-1-Amst-2.JPG" alt="1-Neth-1-Amst-2" style="zoom:200%;" /> |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
@@ -109,7 +109,7 @@ A day trip from Amsterdam (approach: Rented Car). Giethoorn is a mostly car-free
 
 
 **Belgium::Bruges (Brugge)** 
-Bruges is a famous city in Belgium & is distinguished by its canals, cobbled streets and medieval buildings. In the city centre's Burg square, the 14th-century Stadhuis (City Hall). A couple of hours of walk in Brugge is good fun. Don't forget to try Belgian chocolate and Belgian waffles while in Belgium.
+Bruges is a famous city in Belgium & is distinguished by its canals, cobbled streets and medieval buildings. In the city centre's *Burg square*, the 14th-century *Stadhuis (City Hall)*. A couple of hours of walk in Brugge is good fun. Don't forget to try Belgian chocolate and Belgian waffles while in Belgium.
 
 | <img src="../assets/img/Europe 2017/2-Belg-1-Brugge (1).JPG" alt="2-Belg-1-Brugge (1)" style="zoom:125%;" /> | <img src="../assets/img/Europe 2017/2-Belg-1-Brugge (3).JPG" alt="2-Belg-1-Brugge (3)" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -120,7 +120,8 @@ Bruges is a famous city in Belgium & is distinguished by its canals, cobbled str
 
 **Germany::Cologne (Koln)**
 
-Stop over for a few hours at Cologne, during your journey from Amsterdam to Vienna. Why travel during day when the train journey can be covered at night! Cologne, a 2,000-year-old city spanning the <u>Rhine River</u> in western Germany, is the region’s cultural hub. A landmark of High Gothic architecture set amid reconstructed old town, the <u>twin-spired Cologne Cathedral</u> is also known for its gilded medieval setting and sweeping river views. The Cathedral and the <u>Hohenzollern Bridge</u> are both just next to the train station. Keep the luggage at the station in a locker for a few hours & enjoy the beautiful city. If interested, you can also visit the adjacent Museum Ludwig showcases 20th-century art, including many masterpieces by Picasso, and the Romano-Germanic Museum houses Roman antiquities.
+Stop over for a few hours at Cologne, during your journey from Amsterdam to Vienna. Why travel during day when the train journey can be covered at night! Cologne, a 2,000-year-old city spanning the *Rhine River* in western Germany, is the region’s cultural hub. A landmark of High Gothic architecture set amid reconstructed old town, the twin-spired *Cologne Cathedral* is also known for its gilded medieval setting and sweeping river views. The Cathedral and the *Hohenzollern Bridge* are both just next to the train station. Keep the luggage at the station in a locker for a few hours & enjoy the beautiful city. 
+If interested, you can also visit the adjacent *Museum Ludwig* showcases 20th-century art, including many masterpieces by Picasso, and the *Romano-Germanic Museum* houses Roman antiquities.
 
 | ![3-Germ-1-Koln (1)](../assets/img/Europe 2017/3-Germ-1-Koln (1).JPG) | <img src="../assets/img/Europe 2017/3-Germ-1-Koln (4).JPG" alt="3-Germ-1-Koln (4)" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -164,8 +165,8 @@ The spectacular 1,441 rooms Schönbrunn Palace (Schloss Schönbrunn) was built i
 
 **Germany::Munich (Munchen)**
 
-Munich, Bavaria’s capital, is home to centuries-old buildings and numerous museums. The city is known for its annual Oktoberfest celebration and its beer halls, including the famed Hofbräuhaus, founded in 1589. In the Altstadt (Old Town), central Marienplatz square contains landmarks such as Neo-Gothic Neues Rathaus (town hall), with a popular show that re-enacts stories from the 16th century. Close by attractions are - Peterskirche (St. Peter's Church), Asamkirche, Frauenkirche, Munich Residenz, Hofbräuhaus and Viktualienmarkt (Flea Market). Evenings are best spent at the English Gardens.
-Another day can be spent at Deutsches (Science) Museum.
+Munich, Bavaria’s capital, is home to centuries-old buildings and numerous museums. The city is known for its annual Oktoberfest celebration and its beer halls, including the famed *Hofbräuhaus*, founded in 1589. In the Altstadt (Old Town), central Marienplatz square contains landmarks such as Neo-Gothic *Neues Rathaus* (town hall), with a popular show that re-enacts stories from the 16th century. Close by attractions are - *Peterskirche* (St. Peter's Church), *Asamkirche*, *Frauenkirche*, *Munich Residenz*, *Hofbräuhaus* and *Viktualienmarkt* (Flea Market). Evenings are best spent at the *English Gardens*. Don't forget to carry a costume for swim in the river.
+Another day can be spent at *Deutsches (Science) Museum*.
 
 | ![5-Germ-1-Munich (8)](../assets/img/Europe 2017/5-Germ-1-Munich (8).JPG) | ![5-Germ-1-Munich (5)](../assets/img/Europe 2017/5-Germ-1-Munich (5).JPG) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -175,9 +176,11 @@ Another day can be spent at Deutsches (Science) Museum.
 | ![5-Germ-1-Munich (7)](../assets/img/Europe 2017/5-Germ-1-Munich (7).JPG) | ![5-Germ-1-Munich (6)](../assets/img/Europe 2017/5-Germ-1-Munich (6).JPG) |
 | ![5-Germ-1-Munich (11)](../assets/img/Europe 2017/5-Germ-1-Munich (11).JPG) | ![5-Germ-1-Munich (10)](../assets/img/Europe 2017/5-Germ-1-Munich (10).JPG) |
 
+Leave most of the luggage at your Munich hotel and make a last 3-days trip to see Austrian Alps and Salzburg.
 
 
 **Austria::Kaprun & Zell am See (Alps)**
+Zell am See is an Austrian town on Lake Zell, south of the city of Salzburg. Here you will find a crystal clear lake, snow covered meadows *and* the eternal ice of the glacier. Trails and lifts lead to the ski slopes of *Schmittenhöhe* mountain. Southwest, views from Gipfelwelt 3000 panoramic platform, at the top of the *Kitzsteinhorn glacier*, take in *Hohe Tauern National Park* and the looming *Grossglockner* mountain. 
 
 | ![6-Austria-ZellamSee Kaprun (2)](../assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (2).JPG) | ![6-Austria-ZellamSee Kaprun (1)](../assets/img/Europe 2017/6-Austria-ZellamSee Kaprun (1).JPG) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -194,7 +197,7 @@ Another day can be spent at Deutsches (Science) Museum.
 
 
 **Austria::Salzburg**
-Salzburg is an Austrian city on the border of Germany, with views of the Eastern Alps. The city is divided by the Salzach River, with medieval and baroque buildings of the pedestrian *Altstadt* (Old City) on its left bank, facing the 19th-century *Neustadt* (New City) on its right. The Altstadt birthplace of famed composer Mozart is preserved as a museum displaying his childhood instruments, known as *Mozart-Geburtshaus*. In the 1960s, the movie *The Sound of Music* used some locations in and around Salzburg. The song “*Do*-*Re*-*Mi*” was filmed in the Mirabell Gardens and *Fortress Hohensalzburg* in Salzburg. 
+Take a morning train from Zell am See to Munich & stop over at Salzburg for 7 or 8 hours. Leave excess luggage at the train station. Salzburg is an Austrian city on the border of Germany, with views of the Eastern Alps. The city is divided by the Salzach River, with medieval and baroque buildings of the pedestrian *Altstadt* (Old City) on its left bank, facing the 19th-century *Neustadt* (New City) on its right. The Altstadt birthplace of famed composer Mozart is preserved as a museum displaying his childhood instruments, known as *Mozart-Geburtshaus*. In the 1960s, the movie *The Sound of Music* used some locations in and around Salzburg. The song “*Do*-*Re*-*Mi*” was filmed in the Mirabell Gardens and *Fortress Hohensalzburg* in Salzburg. 
 You can start your tour at Mirabell Palace. From Mirabel you can walk out into *Makartplatz*, turn right past the *Landestheater* and then cross the river by the *Makartsteg* footbridge (love lock bridge). This will take you into the old city. If you have a city map just head for *Domplatz* (cathedral square) or *Residenzplatz*. In *Residenzplatz* there is the horse fountain dating from the 17th century. Also closeby are *Getreidegasse* & *St Peter's Abbey*.
 
 | ![6-Austria-Salzburg (2)](../assets/img/Europe 2017/6-Austria-Salzburg (2).JPG) | ![6-Austria-Salzburg (1)](../assets/img/Europe 2017/6-Austria-Salzburg (1).JPG) |
@@ -207,11 +210,13 @@ You can start your tour at Mirabell Palace. From Mirabel you can walk out into *
 | ![6-Austria-Salzburg (13)](../assets/img/Europe 2017/6-Austria-Salzburg (13).JPG) | ![6-Austria-Salzburg (14)](..//assets/img/Europe 2017/6-Austria-Salzburg (14).JPG) |
 | ![6-Austria-Salzburg (15)](../assets/img/Europe 2017/6-Austria-Salzburg (15).JPG) | ![6-Austria-Salzburg (11)](../assets/img/Europe 2017/6-Austria-Salzburg (11).JPG) |
 
-
+Upon reaching Munich pickup the remaining luggage from the hotel and proceed to the Munich International airport.
 
 
 
 ## Video Blog
+
+To be updated soon!
 
 
 
