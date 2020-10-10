@@ -17,7 +17,7 @@ visible: 0
 
 **International Travel Itineraries**
 
-<span style="color:blue ; font-size: 12px"> For details on a particular holiday, click on the link under the column - Holiday  </span>
+<span style="color:blue ; font-size: 14px"> For details, click on the link under the column - Holiday  </span>
 
 | Holiday | Cities |
 | :------ | ------- |
