@@ -70,7 +70,8 @@ Amsterdam Central: Amsterdam is the Netherlands’ capital, known for its artist
 
 
 
-**Netherlands::Zaanse Schans (The city of Windmills)**
+**Netherlands::Zaanse Schans**
+**(The city of Windmills)**
 
 Zaanse Schans is a neighbourhood in the Dutch town of Zaandam, near Amsterdam. Can be reached via a train (a day trip). It is the Historic windmills city of Netherlands and has distinctive green wooden houses, which were relocated here to recreate the look of an 18th/19th-century village. But most of all, it is about a couple of hours of walk in this splendid village!!! You can check out a cheese factory and buy some fresh cheese if you like. You can also checkout the Zaans Museum if there is enough time at hand (famous for regional costumes, model windmills, chocolate & cheese making, handicrafts).
 
@@ -95,7 +96,8 @@ Haarlem is a city in the outskirts of Amsterdam. Once a major North Sea trading 
 
 
 
-**Netherlands::Giethoorn (The Venice of Netherlands)**
+**Netherlands::Giethoorn**
+**(The Venice of Netherlands)**
 
 A day trip from Amsterdam (approach: Rented Car). Giethoorn is a mostly car-free village in the northeastern Netherlands. It’s known for its boat-filled waterways & the way to step out of the house is usually a boat or a cute bridge. There are centuries-old thatched-roof houses. Difficult to reach, but it is cuteness overloaded!!!
 
@@ -109,7 +111,7 @@ A day trip from Amsterdam (approach: Rented Car). Giethoorn is a mostly car-free
 **Belgium::Bruges (Brugge)** 
 Bruges is a famous city in Belgium & is distinguished by its canals, cobbled streets and medieval buildings. In the city center’s Burg square, the 14th-century Stadhuis (City Hall). A couple of hours of walk in Brugge is good fun. Don't forget to try Belgian chocolate and Belgian waffles while in Belgium.
 
-| ![2-Belg-1-Brugge (1)](../assets/img/Europe 2017/2-Belg-1-Brugge (1).JPG) | <img src="../assets/img/Europe 2017/2-Belg-1-Brugge (3).JPG" alt="2-Belg-1-Brugge (3)" /> |
+| <img src="../assets/img/Europe 2017/2-Belg-1-Brugge (1).JPG" alt="2-Belg-1-Brugge (1)" style="zoom:150%;" /> | <img src="../assets/img/Europe 2017/2-Belg-1-Brugge (3).JPG" alt="2-Belg-1-Brugge (3)" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <img src="../assets/img/Europe 2017/2-Belg-1-Brugge (4).JPG" alt="2-Belg-1-Brugge (4)" /> | ![2-Belg-1-Brugge (2)](../assets/img/Europe 2017/2-Belg-1-Brugge (2).JPG) |
 | ![2-Belg-1-Brugge (5)](../assets/img/Europe 2017/2-Belg-1-Brugge (5).JPG) | ![2-Belg-1-Brugge (6)](../assets/img/Europe 2017/2-Belg-1-Brugge (6).JPG) |
@@ -117,6 +119,8 @@ Bruges is a famous city in Belgium & is distinguished by its canals, cobbled str
 
 
 **Germany::Cologne (Koln)**
+
+Stop over for a few hours at Cologne - during your journey from Amsterdam to Vienna  - Why travel during day when the train journey can be covered at night. Cologne, a 2,000-year-old city spanning the Rhine River in western Germany, is the region’s cultural hub. A landmark of High Gothic architecture set amid reconstructed old town, the twin-spired Cologne Cathedral is also known for its gilded medieval reliquary and sweeping river views. The Cathedral and the Rhine bridge are both just next to the train station. Keep the luggage at the station in a locker for a few hours & enjoy the beautiful city. If interested, you can also visit the adjacent Museum Ludwig showcases 20th-century art, including many masterpieces by Picasso, and the Romano-Germanic Museum houses Roman antiquities.
 
 | ![3-Germ-1-Koln (1)](../assets/img/Europe 2017/3-Germ-1-Koln (1).JPG) | <img src="../assets/img/Europe 2017/3-Germ-1-Koln (4).JPG" alt="3-Germ-1-Koln (4)" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
