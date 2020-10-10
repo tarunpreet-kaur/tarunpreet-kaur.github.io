@@ -109,7 +109,7 @@ A day trip from Amsterdam (approach: Rented Car). Giethoorn is a mostly car-free
 
 
 **Belgium::Bruges (Brugge)** 
-Bruges is a famous city in Belgium & is distinguished by its canals, cobbled streets and medieval buildings. In the city center’s Burg square, the 14th-century Stadhuis (City Hall). A couple of hours of walk in Brugge is good fun. Don't forget to try Belgian chocolate and Belgian waffles while in Belgium.
+Bruges is a famous city in Belgium & is distinguished by its canals, cobbled streets and medieval buildings. In the city centre's Burg square, the 14th-century Stadhuis (City Hall). A couple of hours of walk in Brugge is good fun. Don't forget to try Belgian chocolate and Belgian waffles while in Belgium.
 
 | <img src="../assets/img/Europe 2017/2-Belg-1-Brugge (1).JPG" alt="2-Belg-1-Brugge (1)" style="zoom:150%;" /> | <img src="../assets/img/Europe 2017/2-Belg-1-Brugge (3).JPG" alt="2-Belg-1-Brugge (3)" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -120,7 +120,7 @@ Bruges is a famous city in Belgium & is distinguished by its canals, cobbled str
 
 **Germany::Cologne (Koln)**
 
-Stop over for a few hours at Cologne - during your journey from Amsterdam to Vienna  - Why travel during day when the train journey can be covered at night. Cologne, a 2,000-year-old city spanning the Rhine River in western Germany, is the region’s cultural hub. A landmark of High Gothic architecture set amid reconstructed old town, the twin-spired Cologne Cathedral is also known for its gilded medieval reliquary and sweeping river views. The Cathedral and the Rhine bridge are both just next to the train station. Keep the luggage at the station in a locker for a few hours & enjoy the beautiful city. If interested, you can also visit the adjacent Museum Ludwig showcases 20th-century art, including many masterpieces by Picasso, and the Romano-Germanic Museum houses Roman antiquities.
+Stop over for a few hours at Cologne, during your journey from Amsterdam to Vienna. Why travel during day when the train journey can be covered at night! Cologne, a 2,000-year-old city spanning the <u>Rhine River</u> in western Germany, is the region’s cultural hub. A landmark of High Gothic architecture set amid reconstructed old town, the <u>twin-spired Cologne Cathedral</u> is also known for its gilded medieval setting and sweeping river views. The Cathedral and the <u>Hohenzollern Bridge</u> are both just next to the train station. Keep the luggage at the station in a locker for a few hours & enjoy the beautiful city. If interested, you can also visit the adjacent Museum Ludwig showcases 20th-century art, including many masterpieces by Picasso, and the Romano-Germanic Museum houses Roman antiquities.
 
 | ![3-Germ-1-Koln (1)](../assets/img/Europe 2017/3-Germ-1-Koln (1).JPG) | <img src="../assets/img/Europe 2017/3-Germ-1-Koln (4).JPG" alt="3-Germ-1-Koln (4)" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -130,7 +130,7 @@ Stop over for a few hours at Cologne - during your journey from Amsterdam to Vie
 
 
 
-**Austria::Vienna (Wien)::Heart of the city**
+**Austria::Vienna (Wien)::Stephansplatz**
 
 | ![4-Austr-1-Vienna-Day1 (11)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day1 (11).JPG) | ![4-Austr-1-Vienna-Day1 (12)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day1 (12).JPG) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -146,7 +146,9 @@ Stop over for a few hours at Cologne - during your journey from Amsterdam to Vie
 
 
 
-**Austria::Vienna (Wien)::Schonbrunn - Zoo, Palace & Gardens**
+**Austria::Vienna (Wien)::Schonbrunn**
+
+Schonbrunn - Zoo, Palace & Garden
 
 | ![4-Austr-1-Vienna-Day2 (2)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day2 (2).JPG) | ![4-Austr-1-Vienna-Day2 (1)](../assets/img/Europe 2017/4-Austr-1-Vienna-Day2 (1).JPG) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
