@@ -49,28 +49,25 @@ visible: 0
 
 Arrive at Schiphol Amsterdam airport 
 
-·    Buy a metro pass 
-Buy a metro pass & check if Zaanse Schaans is covered. If you wish to visit Giethoorn (in northern Netherlands) and also Bruges (in Belgium), the easiest way is to hire a car for these 2 days.
-
-·    Buy train tickets / hire a cab to the main city
-Train tickets cost 5.40€ and it takes around 20 minutes to reach the downtown area. Taxi costs 39€ & takes roughly the same time. You can decide depending on your luggage requirements.
+- ·    Buy a metro pass: Buy a metro pass & check if Zaanse Schaans is covered. If you wish to visit Giethoorn (in northern Netherlands) and also Bruges (in Belgium), the easiest way is to hire a car for these 2 days.
+- ·    Buy train tickets / hire a cab to the main city: Train tickets cost 5.40€ and it takes around 20 minutes to reach the downtown area. Taxi costs 39€ & takes roughly the same time.
 
 
 
 **Netherlands::Amsterdam**
 
-Day 1: Amsterdam Central
+Amsterdam Central: Amsterdam is the Netherlands’ capital, known for its artistic heritage, elaborate canal system and narrow houses with gabled fronts. Cycling is key to the city’s character, and there are numerous bike paths & one can see all varieties of cyclists. If you love cycling, getting a cycle on rent is possible. It's Museum District houses the Van Gogh Museum & the famous Rijksmuseum. Also try a ferry ride. Visiting a beach can be done while coming back from Giethoorn (easier by car).
 
-Amsterdam is the Netherlands’ capital, known for its artistic heritage, elaborate canal system and narrow houses with gabled fronts. Cycling is key to the city’s character, and there are numerous bike paths & one can see all varieties of cyclists. If you love cycling, getting a cycle on rent is possible. It's Museum District houses the Van Gogh Museum & the famous Rijksmuseum. 
-
-| <img src="../assets/img/Europe 2017/1-Neth-1-Amst-1.JPG" alt="1-Neth-1-Amst-1" /> | <img src="../assets/img/Europe 2017/1-Neth-1-Amst-2.JPG" alt="1-Neth-1-Amst-2" /> |
+| <img src="../assets/img/Europe 2017/1-Neth-1-Amst-1.JPG" alt="1-Neth-1-Amst-1" /> | <img src="../assets/img/Europe 2017/1-Neth-1-Amst-2.JPG" alt="1-Neth-1-Amst-2" style="zoom:150%;" /> |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
 | <img src="../assets/img/Europe 2017/1-Neth-1-Amst-4.JPG" alt="1-Neth-1-Amst-4" /> | <img src="../assets/img/Europe 2017/1-Neth-1-Amst-6.JPG" alt="1-Neth-1-Amst-6" /> |
 | <img src="../assets/img/Europe 2017/1-Neth-1-Amst-3.JPG" alt="1-Neth-1-Amst-3" /> | <img src="../assets/img/Europe 2017/1-Neth-1-Amst-5.JPG" alt="1-Neth-1-Amst-5" /> |
 
 
 
-**Netherlands::Zaanse Schans**
+**Netherlands::Zaanse Schans (The city of Windmills)**
+
+Zaanse Schans is a neighborhood in the Dutch town of Zaandam, near Amsterdam. Can be reached via a train. It is the Historic windmills city of Netherlands and has distinctive green wooden houses, which were relocated here to recreate the look of an 18th/19th-century village. But most of all, it is about a couple of hours of walk in this village & checking out a cheese factory and buying some fresh cheese. You can also checkout the Zaans Museum if there is enough time at hand (regional costumes, model windmills, chocolate & cheese making, handicrafts).
 
 | ![1-Neth-1-Zaanse-1](../assets/img/Europe 2017/1-Neth-1-Zaanse-1.JPG) | <img src="../assets/img/Europe 2017/1-Neth-1-Zaanse-2.JPG" alt="1-Neth-1-Zaanse-2"  /> |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
