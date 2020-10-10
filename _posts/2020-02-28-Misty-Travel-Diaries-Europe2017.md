@@ -32,8 +32,9 @@ visible: 0
 * **Budget:** INR 92,000 (USD 1,250) per person
    <u>Excluding</u>: Flight Ticket (INR 63,000 return ticket from India), Visa Fees, Shopping
    <u>Including</u>: Hotel / Homestay, Inter & Intra City Travel including train fare, Food, Entry fees
-   
-   
+* **What I missed but highly recommend**
+   <u>Amsterdam</u>::Keukenhof Gardens and Tulip Fields:: Keukenhof's flower gardens are only open for two months in spring – end March (around the 20th) to mid-May. During this period, Keukenhof is open daily from 8 am to 7:30 pm.
+   <u>Including</u>: Hotel / Homestay, Inter & Intra City Travel including train fare, Food, Entry fees
 
 ## Travel Itinerary
 
@@ -78,8 +79,9 @@ Zaanse Schans is a neighborhood in the Dutch town of Zaandam, near Amsterdam. Ca
 
 
 
-
 **Netherlands::Harleem**
+
+Haarlem is a city in the outskirts of Amsterdam. Once a major North Sea trading port, it retains its medieval character of cobblestone streets and gabled houses. It's the center of a major flower-bulb-growing district, and famous for its outlying tulip fields and hofjes (almshouses built around leafy courtyards).
 
 | ![1-Neth-1-Harleem-7](../assets/img/Europe 2017/1-Neth-1-Harleem-7.JPG) | ![1-Neth-1-Harleem-8](../assets/img/Europe 2017/1-Neth-1-Harleem-8.JPG) |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
