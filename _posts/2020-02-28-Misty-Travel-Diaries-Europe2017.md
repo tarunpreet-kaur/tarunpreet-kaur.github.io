@@ -95,7 +95,9 @@ Haarlem is a city in the outskirts of Amsterdam. Once a major North Sea trading 
 
 
 
-**Netherlands::Giethoorn**
+**Netherlands::Giethoorn (The Venice of Netherlands)**
+
+A day trip from Amsterdam (approach: Rented Car). Giethoorn is a mostly car-free village in the northeastern Netherlands. It’s known for its boat-filled waterways & the way to step out of the house is usually a boat or a cute bridge. There are centuries-old thatched-roof houses. Difficult to reach, but it is cuteness overloaded!!!
 
 | ![1-Neth-4-Giethoorn-2](../assets/img/Europe 2017/1-Neth-4-Giethoorn-2.JPG) | <img src="../assets/img/Europe 2017/1-Neth-4-Giethoorn-6.JPG" alt="1-Neth-4-Giethoorn-6" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
