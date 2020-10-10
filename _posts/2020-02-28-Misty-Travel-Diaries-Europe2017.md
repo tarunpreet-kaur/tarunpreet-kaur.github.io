@@ -50,10 +50,10 @@ visible: 0
 Arrive at Schiphol Amsterdam airport 
 
 ·    Buy a metro pass 
-We bought a 3 days metro pass as the last 2 days of stay at Amsterdam, we hired a car to visit Giethoorn (in northern Netherlands) and also Bruges (in Belgium). Check if Zaanse Schaans is covered.
+Buy a metro pass & check if Zaanse Schaans is covered. If you wish to visit Giethoorn (in northern Netherlands) and also Bruges (in Belgium), the easiest way is to hire a car for these 2 days.
 
 ·    Buy train tickets / hire a cab to the main city
-Train tickets cost 5.40€ and it takes around 20 minutes to reach the downtown area. Taxi costs 39€ & takes roughly the same time. You can decide depending on your luggage requirements
+Train tickets cost 5.40€ and it takes around 20 minutes to reach the downtown area. Taxi costs 39€ & takes roughly the same time. You can decide depending on your luggage requirements.
 
 
 
