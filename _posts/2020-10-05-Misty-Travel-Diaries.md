@@ -17,8 +17,6 @@ visible: 0
 
 **International Travel Itineraries**
 
-<span style="color:blue ; font-size: 14px"> For details, click on the link under the column - Holiday  </span>
-
 | Holiday | Cities |
 | :------ | ------- |
 | [**Europe, 2017**](https://tarunpreetkaur.com/Misty-Travel-Diaries-Europe2017.html)<br /><br />13 days<br><br />June<br /><span style="color:white">**Ranthambore,**</span><br />₹92K<br />($1,250) per adult | <span style="color:#996600 ; style=font-family: Open Sans; font-weight: 600; font-size: 16px;font-style: italic">**Netherlands::**</span> Amsterdam **■** Zaanse Schans **■** Harleem **■** Giethoorn<br /><span style="color:#996600 ; style=font-family: Open Sans; font-weight: 600; font-size: 16px;font-style: italic">**Belgium:: **</span>Bruges<br /><span style="color:#996600 ; style=font-family: Open Sans; font-weight: 600; font-size: 16px;font-style: italic">**Germany::**</span> Cologne **■** Munich<br /><span style="color:#996600; style=font-family: Open Sans; font-weight: 600; font-size: 16px;font-style: italic">**Austria::**</span> Vienna **■** Salzburg **■** Zell am See **■** Kaprun (Alps)<br /><br /><span style="color:blue ; style=font-family: Open Sans; font-weight: 600; font-size: 16px;font-style: italic">[Itinerary Europe 2017.pdf](..\assets\pdf\Itinerary Europe 2017.pdf)</span><br /><span style="color:white">fhskdfhsdhfskhfkshdfkshdkfshdkfss</span><br /><span style="color:gray ; style=font-family: Open Sans; font-weight: 400; font-size: 16px;font-style: italic">**Highlights** #Mountains #Snow #Rivers #Lakes #Canals #Beaches #Meadows #Flowers #Cathedrals #Bridges #Monuments  #Cute streets</span> |
