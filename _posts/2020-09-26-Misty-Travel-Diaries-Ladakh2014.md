@@ -109,7 +109,7 @@ Leh Palace **■** Leh **■** Leh local markets
 
 **Turtuk** (Day trip from Nubra Valley)::Turtuk Village along Shyok River
 
-| ![4-Nubra Valley Kardungla-Turtuk (67)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (67).JPG) | ![4-Nubra Valley Kardungla-Turtuk (49)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (49).JPG) |
+| ![4-Nubra Valley Kardungla-Turtuk (67)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (67).JPG) | <img src="../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (49).JPG" alt="4-Nubra Valley Kardungla-Turtuk (49)" style="zoom:150%;" /> |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | ![4-Nubra Valley Kardungla-Turtuk (68)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (68).JPG) | ![4-Nubra Valley Kardungla-Turtuk (54)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (54).JPG) |
 | ![4-Nubra Valley Kardungla-Turtuk (40)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (40).JPG) | ![4-Nubra Valley Kardungla-Turtuk (48)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (48).JPG) |
