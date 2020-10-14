@@ -17,7 +17,7 @@ visible: 0
 **Cities visited**
 
 * **Leh**<br /><u>Leh</u>:
-Leh Palace **■** Leh **■** Leh local markets
+Leh Palace **■** Leh local markets
   <u>West of Leh</u>:
   Chilling village **■** Alchi Monastery **■** Magnetic Hill **■** Gurudwara Shri Pathar Sahib **■**  Sangam of rivers Zanskar & Indus
   <u>East of Leh</u>:
@@ -79,6 +79,16 @@ Leh Palace **■** Leh **■** Leh local markets
 | ![6-Biking Fall Thiksey (20)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (20).JPG) | ![6-Biking Fall Thiksey (19)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (19).JPG) |
 | ![6-Biking Fall Thiksey (44)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (44).JPG) | ![6-Biking Fall Thiksey (34)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (34).JPG) |
 | ![6-Biking Fall Thiksey (47)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (47).JPG) | ![6-Biking Fall Thiksey (32)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (32).JPG) |
+
+
+
+**Leh**::Leh Palace **■** Leh local markets
+
+| ![7- Leh Palace (8)](../assets/img/Ladakh 2014/7- Leh Palace (8).JPG) | ![7- Leh Palace (8a)](../assets/img/Ladakh 2014/7- Leh Palace (8a).JPG) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![7- Leh Palace (9)](../assets/img/Ladakh 2014/7- Leh Palace (9).JPG) | ![7- Leh Palace (13)](../assets/img/Ladakh 2014/7- Leh Palace (13).JPG) |
+| ![Lehpalace](../assets/img/Ladakh 2014/Lehpalace.gif)        | ![7- Leh Palace (10)](../assets/img/Ladakh 2014/7- Leh Palace (10).JPG) |
+| ![7- Leh Palace (3)](../assets/img/Ladakh 2014/7- Leh Palace (3).JPG) | ![7- Leh Palace (2)](../assets/img/Ladakh 2014/7- Leh Palace (2).JPG) |
 
 
 
