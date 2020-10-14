@@ -129,11 +129,11 @@ Leh Palace **■** Leh **■** Leh local markets
 | ![5-Tso Moriri (22b)](../assets/img/Ladakh 2014/5-Tso Moriri (22b).JPG) | ![5-Tso Moriri (24)](../assets/img/Ladakh 2014/5-Tso Moriri (24).JPG) |
 | ![5-Tso Moriri (22a)](../assets/img/Ladakh 2014/5-Tso Moriri (22a).JPG) | ![5-Tso Moriri (39)](../assets/img/Ladakh 2014/5-Tso Moriri (39).JPG) |
 | ![5-Tso Moriri (36)](../assets/img/Ladakh 2014/5-Tso Moriri (36).JPG) | ![5-Tso Moriri (37)](../assets/img/Ladakh 2014/5-Tso Moriri (37).JPG) |
-| ![5-Tso Moriri (48)](../../../../Users/kaur/Desktop/inst/Ladakh 2014/5-Tso Moriri (48).JPG) | ![5-Tso Moriri (51)](../../../../Users/kaur/Desktop/inst/Ladakh 2014/5-Tso Moriri (51).JPG) |
-| ![5-Tso Moriri (52)](../../../../Users/kaur/Desktop/inst/Ladakh 2014/5-Tso Moriri (52).JPG) | ![5-Tso Moriri (53)](../../../../Users/kaur/Desktop/inst/Ladakh 2014/5-Tso Moriri (53).JPG) |
-| ![5-Tso Moriri (56)](../../../../Users/kaur/Desktop/inst/Ladakh 2014/5-Tso Moriri (56).JPG) | ![5-Tso Moriri (66)](../../../../Users/kaur/Desktop/inst/Ladakh 2014/5-Tso Moriri (66).JPG) |
-| ![5-Tso Moriri (57)](../../../../Users/kaur/Desktop/inst/Ladakh 2014/5-Tso Moriri (57).JPG) | ![5-Tso Moriri (58)](../../../../Users/kaur/Desktop/inst/Ladakh 2014/5-Tso Moriri (58).JPG) |
-| ![5-Tso Moriri (73)](../../../../Users/kaur/Desktop/inst/Ladakh 2014/5-Tso Moriri (73).jpg) | ![5-Tso Moriri (68)](../../../../Users/kaur/Desktop/inst/Ladakh 2014/5-Tso Moriri (68).JPG) |
+| ![5-Tso Moriri (48)](../assets/img/Ladakh 2014/5-Tso Moriri (48).JPG) | ![5-Tso Moriri (51)](../assets/img/Ladakh 2014/5-Tso Moriri (51).JPG) |
+| ![5-Tso Moriri (52)](../assets/img/Ladakh 2014/5-Tso Moriri (52).JPG) | ![5-Tso Moriri (53)](../assets/img/Ladakh 2014/5-Tso Moriri (53).JPG) |
+| ![5-Tso Moriri (56)](../assets/img/Ladakh 2014/5-Tso Moriri (56).JPG) | ![5-Tso Moriri (66)](../assets/img/Ladakh 2014/5-Tso Moriri (66).JPG) |
+| ![5-Tso Moriri (57)](../assets/img/Ladakh 2014/5-Tso Moriri (57).JPG) | ![5-Tso Moriri (58)](../assets/img/Ladakh 2014/5-Tso Moriri (58).JPG) |
+| ![5-Tso Moriri (73)](../assets/img/Ladakh 2014/5-Tso Moriri (73).jpg) | ![5-Tso Moriri (68)](../assets/img/Ladakh 2014/5-Tso Moriri (68).JPG) |
 
 
 
