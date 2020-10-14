@@ -55,7 +55,7 @@ Leh Palace **■** Leh **■** Leh local markets
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
 | ![1-Leh_Biking Chilling, Alchi (16)](../assets/img/Ladakh 2014/1-Leh_Biking Chilling, Alchi (16).JPG) | ![1-Leh_Biking Chilling, Alchi (31)](../assets/img/Ladakh 2014/1-Leh_Biking Chilling, Alchi (31).JPG) |
 | ![1-Leh_Biking Chilling, Alchi (35)](../assets/img/Ladakh 2014/1-Leh_Biking Chilling, Alchi (35).JPG) | ![1-Leh_Biking Chilling, Alchi (36)](../assets/img/Ladakh 2014/1-Leh_Biking Chilling, Alchi (36).JPG) |
-| ![1-Leh_Biking Chilling, Alchi (46)](../assets/img/Ladakh 2014/1-Leh_Biking Chilling, Alchi (46).JPG) |                                                              |
+| ![1-Leh_Biking Chilling, Alchi (46)](../assets/img/Ladakh 2014/1-Leh_Biking Chilling, Alchi (46).JPG) | ![1-Leh_Biking Chilling, Alchi (8)](../assets/img/Ladakh 2014/1-Leh_Biking Chilling, Alchi (8).JPG) |
 
 
 
@@ -120,7 +120,7 @@ Leh Palace **■** Leh **■** Leh local markets
 
 **Turtuk** (Day trip from Nubra Valley)::Turtuk Village along Shyok River
 
-| ![4-Nubra Valley Kardungla-Turtuk (67)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (67).JPG) | <img src="../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (49).JPG" alt="4-Nubra Valley Kardungla-Turtuk (49)" style="zoom:150%;" /> |
+| ![4-Nubra Valley Kardungla-Turtuk (67)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (67).JPG) | <img src="../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (49).JPG" alt="4-Nubra Valley Kardungla-Turtuk (49)" style="zoom:165%;" /> |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | ![4-Nubra Valley Kardungla-Turtuk (68)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (68).JPG) | ![4-Nubra Valley Kardungla-Turtuk (54)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (54).JPG) |
 | ![4-Nubra Valley Kardungla-Turtuk (40)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (40).JPG) | ![4-Nubra Valley Kardungla-Turtuk (48)](../assets/img/Ladakh 2014/4-Nubra Valley Kardungla-Turtuk (48).JPG) |
