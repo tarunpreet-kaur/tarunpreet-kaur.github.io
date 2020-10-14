@@ -59,15 +59,26 @@ Leh Palace **■** Leh **■** Leh local markets
 
 
 
-**East of Leh::**Holy Fish Pond @ Shey Palace **■** Shey Palace **■** Druk Padma Karpo School (of 3-Idiots fame) **■** Thiksey Monsatery
+**East of Leh::**Holy Fish Pond @ Shey Palace **■** Shey Palace **■** Druk Padma Karpo School (of 3-Idiots fame) **■** Thiksey Monsatery **■** Hemis Monastery
 
 | ![3-Biking FishPond Hemis (4)](../assets/img/Ladakh 2014/3-Biking FishPond Hemis (4).JPG) | ![3-Biking FishPond Hemis (5)](../assets/img/Ladakh 2014/3-Biking FishPond Hemis (5).JPG) |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | ![3-Biking FishPond Hemis (11)](../assets/img/Ladakh 2014/3-Biking FishPond Hemis (11).JPG) | ![3-Biking FishPond Hemis (7)](../assets/img/Ladakh 2014/3-Biking FishPond Hemis (7).JPG) |
-| ![3-Biking FishPond Hemis (11a)](../assets/img/Ladakh 2014/3-Biking FishPond Hemis (11a).JPG) |                                                              |
+| ![3-Biking FishPond Hemis (11a)](../assets/img/Ladakh 2014/3-Biking FishPond Hemis (11a).JPG) | ![6-Biking Fall Thiksey (49)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (49).JPG) |
 | ![3-Biking FishPond Hemis (25)](../assets/img/Ladakh 2014/3-Biking FishPond Hemis (25).JPG) | ![3-Biking FishPond Hemis (20)](../assets/img/Ladakh 2014/3-Biking FishPond Hemis (20).JPG) |
 | ![3-Biking FishPond Hemis (21)](../assets/img/Ladakh 2014/3-Biking FishPond Hemis (21).JPG) | ![3-Biking FishPond Hemis (23)](../assets/img/Ladakh 2014/3-Biking FishPond Hemis (23).JPG) |
 | ![3-Biking FishPond Hemis (17)](../assets/img/Ladakh 2014/3-Biking FishPond Hemis (17).JPG) | ![3-Biking FishPond Hemis (36)](../assets/img/Ladakh 2014/3-Biking FishPond Hemis (36).JPG) |
+| ![6-Biking Fall Thiksey (6)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (6).JPG) | ![6-Biking Fall Thiksey (3)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (3).gif) |
+| ![6-Biking Fall Thiksey (2)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (2).JPG) | ![6-Biking Fall Thiksey (1)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (1).JPG) |
+| ![6-Biking Fall Thiksey (8)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (8).JPG) | ![6-Biking Fall Thiksey (7)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (7).JPG) |
+| ![6-Biking Fall Thiksey (11)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (11).JPG) | ![6-Biking Fall Thiksey (9)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (9).JPG) |
+| ![6-Biking Fall Thiksey (12a)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (12a).gif) | ![6-Biking Fall Thiksey (12b)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (12b).JPG) |
+| ![6-Biking Fall Thiksey (13)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (13).JPG) | ![6-Biking Fall Thiksey (16)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (16).JPG) |
+| ![6-Biking Fall Thiksey (14)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (14).JPG) | ![6-Biking Fall Thiksey (17)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (17).JPG) |
+| ![6-Biking Fall Thiksey (31)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (31).JPG) | ![6-Biking Fall Thiksey (18)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (18).JPG) |
+| ![6-Biking Fall Thiksey (20)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (20).JPG) | ![6-Biking Fall Thiksey (19)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (19).JPG) |
+| ![6-Biking Fall Thiksey (44)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (44).JPG) | ![6-Biking Fall Thiksey (34)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (34).JPG) |
+| ![6-Biking Fall Thiksey (47)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (47).JPG) | ![6-Biking Fall Thiksey (32)](../assets/img/Ladakh 2014/6-Biking Fall Thiksey (32).JPG) |
 
 
 
