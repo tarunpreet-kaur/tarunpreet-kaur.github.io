@@ -10,7 +10,7 @@ social-share: true
 visible: 0
 ---
 
-<span style="font-weight: 600; font-size: 14px">**Links: ** [**Instagram**](https://www.instagram.com/mistytraveldiaries/) | [**Misty Diaries**](https://tarunpreetkaur.com/) | [**Misty Travel Diaries**](https://tarunpreetkaur.com/Misty-Travel-Diaries.html)</span>
+<span style="font-weight: 600; font-size: 14px">**Links:** [**Instagram**](https://www.instagram.com/mistytraveldiaries/) | [**Misty Diaries**](https://tarunpreetkaur.com/) | [**Misty Travel Diaries**](https://tarunpreetkaur.com/Misty-Travel-Diaries.html)</span>
 
 
 
