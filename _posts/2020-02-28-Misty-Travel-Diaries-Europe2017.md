@@ -14,6 +14,8 @@ visible: 0
 
 
 
+## Trip details
+
 **Countries & Cities visited**
 
 * **Netherlands**::Amsterdam **■** Zaanse Schans **■** Harleem **■** Giethoorn<br />
@@ -31,6 +33,7 @@ visible: 0
   <u>Excluding</u>: Flight Ticket (INR 63,000 return ticket from India), Visa Fees, Shopping
   <u>Including</u>: Hotel / Homestay, Inter & Intra City Travel including train fare, Food, Entry fees 
   
+
 
 **Other details**
 
