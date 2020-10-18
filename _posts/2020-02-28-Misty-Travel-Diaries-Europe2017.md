@@ -28,27 +28,19 @@ visible: 0
 **Other details**
 
 * **When:** June, 2017
+
 * **Days:** 13
+
 * **Budget:** INR 92,000 (USD 1,250) per person
   <u>Excluding</u>: Flight Ticket (INR 63,000 return ticket from India), Visa Fees, Shopping
   <u>Including</u>: Hotel / Homestay, Inter & Intra City Travel including train fare, Food, Entry fees 
-  
 
-
-**Other details**
-
-* **When:** June, 2017
-
-* **Days:** 13
-
-* **Budget:** INR 92,000 (USD 1,250) per person
-   <u>Excluding</u>: Flight Ticket (INR 63,000 return ticket from India), Visa Fees, Shopping
-   <u>Including</u>: Hotel / Homestay, Inter & Intra City Travel including train fare, Food, Entry fees
-
-* **What I missed but highly recommend**
+* What I missed but highly recommend**
    <u>Netherlands::Amsterdam::Keukenhof Gardens and Tulip Fields</u>:: A day trip from Amsterdam, Keukenhof's flower gardens are only open for two months in spring – end March (around the 20th) to mid-May. During this period, Keukenhof is open daily from 8 am to 7:30 pm. Checkout the [link](https://www.youtube.com/watch?v=9LWGdb2e8sY)
-   
-   <u>Germany::Munich::Neuschwanstein Castle</u>: A day trip from Munich to Neuschwanstein Castle will be an awesome experience. Hop on a train from Hauptbahnhof station to Füssen station. The journey takes approximately 2.5 hours. The regional train leaves every hour throughout the day.
+
+  <u>Germany::Munich::Neuschwanstein Castle</u>: A day trip from Munich to Neuschwanstein Castle will be an awesome experience. Hop on a train from Hauptbahnhof station to Füssen station. The journey takes approximately 2.5 hours. The regional train leaves every hour throughout the day.
+
+
 
 ## Travel Itinerary
 
