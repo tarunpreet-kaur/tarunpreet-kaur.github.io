@@ -111,7 +111,7 @@ Tiger's Nest trek **■** Rinpung Dzong (Paro Dzong) **■** Rinpung Dzong river
 
 
 
-**Chela La Pass & Haa Valley**
+**Chela La Pass & Haa Valley** <br />(day trip from Paro)
 
 | ![4b-Paro - Chela La Pass & Haa Valley (1)](../assets/img/Bhutan 2019/4b-Paro - Chela La Pass & Haa Valley (1).JPG) | ![4b-Paro - Chela La Pass & Haa Valley (2)](../assets/img/Bhutan 2019/4b-Paro - Chela La Pass & Haa Valley (2).JPG) |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
