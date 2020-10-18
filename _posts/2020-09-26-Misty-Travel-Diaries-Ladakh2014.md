@@ -18,12 +18,12 @@ visible: 0
 
 **Cities visited**
 
-* **Leh** <u>Leh</u>: Leh Palace **■** Leh local markets <u>West of Leh</u>: Chilling village **■** Alchi Monastery **■** Magnetic Hill **■** Gurudwara Shri Pathar Sahib **■**  Sangam of rivers Zanskar & Indus <u>East of Leh</u>: Holy Fish Pond @ Shey Palace **■** Shey Palace **■** Druk Padma Karpo School (of 3-Idiots fame) **■** Thiksey Monsatery **■** Hemis Monsatery
-* **Pangong Lake** (1 day trip from Leh):
+* **Leh** <br /><u>Leh</u>: Leh Palace **■** Leh local markets <br /><u>West of Leh</u>: Chilling village **■** Alchi Monastery **■** Magnetic Hill **■** Gurudwara Shri Pathar Sahib **■**  Sangam of rivers Zanskar & Indus <br /><u>East of Leh</u>: Holy Fish Pond @ Shey Palace **■** Shey Palace **■** Druk Padma Karpo School (of 3-Idiots fame) **■** Thiksey Monsatery **■** Hemis Monsatery
+* **Pangong Lake** <br />(1 day trip from Leh) <br />
   Chang La (Pass) **■** Chagar (White) Tso (Lake) **■** Pangong Lake (Tso Pangong)
-* **Nubra Valley & Turtuk** (3 days trip from Leh)
+* **Nubra Valley & Turtuk** <br />(3 days trip from Leh) <br />
   Khardung La (Pass) **■** Panamik Hot Spring along Nubra river **■** Yarab Tso (Lake) **■** Turtuk Village along Shyok River (1 day trip from Nubra Valley) **■** Two Humped Camels **■** Diskit Monastry **■** Sandunes **■** Trek down to Shyok Riverside
-* **Tso Moriri** (2 days trip from Leh):
+* **Tso Moriri** <br />(2 days trip from Leh) <br />
   Lovely landscape near Sumda **■** Cute Broken Bridge **■** Kyagar Tso (Lake) **■** Tso (Lake) Moriri **■** Tso (Lake) Kar **■** Taglang La (Pass)
 
 **Other details**
