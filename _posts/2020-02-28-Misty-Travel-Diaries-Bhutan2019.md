@@ -66,7 +66,7 @@ visible: 0
 
 
 
-**Dochula Pass, Serbithang National Park & Chimi Lhakhang**
+**Dochula Pass, Serbithang National Park & Chimi Lhakhang** <br />(enroute Thimphu -> Punakha) <br />Simtokha (=Semtokha) Dzong **■** Dochula Pass **■** 108 chortens/stupa + Gangkar Puensum peak view **■** Botanical Gardens & Valley, Serbithang
 
 | ![2-Dochula Pass & National Park (2)](../assets/img/Bhutan 2019/2-Dochula Pass & National Park (2).JPG) | ![2-Dochula Pass & National Park (1)](../assets/img/Bhutan 2019/2-Dochula Pass & National Park (1).JPG) |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
