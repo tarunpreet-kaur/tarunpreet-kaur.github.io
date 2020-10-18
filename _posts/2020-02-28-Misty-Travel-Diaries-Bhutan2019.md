@@ -14,6 +14,8 @@ visible: 0
 
 
 
+## Trip details
+
 **Cities visited**
 
 * **Thimphu**<br />
