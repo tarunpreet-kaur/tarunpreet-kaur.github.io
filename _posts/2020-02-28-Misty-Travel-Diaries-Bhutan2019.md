@@ -18,8 +18,8 @@ visible: 0
 
 **Cities visited**
 
-* **Thimphu** <br />Buddha Dordenma & Kuensel Phodrang Park **■** Sangaygang View Point **■** Memorial Chorten/Stupa **■** Simply Bhutan Museum **■** Centenary Farmers Market & Craft Bazaar  **■** Institute for Zorig Chusum (13 Art & crafts) **■** Changlimithang Archery Ground **■** National Library **■** Ludrong Memorial Garden  **■**  Visit local bazaars  **■**  Tashi Chho Dzong - Fortress of Splendid Religion
-* **Dochula Pass ■ Serbithang** <br />(enroute Thimphu -> Punakha) <br />Simtokha (=Semtokha) Dzong **■** Dochula Pass **■** 108 chortens/stupa + Gangkar Puensum peak view **■** Botanical Gardens & Valley, Serbithang
+* **Thimphu** <br />Buddha Dordenma & Kuensel Phodrang Park **■** Sangaygang View Point **■** Memorial Chorten/Stupa **■** Simply Bhutan Museum **■** Centenary Farmers Market & Craft Bazaar  **■** Institute for Zorig Chusum (13 Art & crafts) **■** Changlimithang Archery Ground **■** National Library **■** Ludrong Memorial Garden  **■**  Visit local bazaars  **■**  Tashi Chho Dzong - Fortress of Splendid **■** ReligionSimtokha (=Semtokha) Dzong
+* **Dochula Pass ■ Serbithang** <br />(enroute Thimphu -> Punakha) <br />108 chortens/stupa + Gangkar Puensum peak view **■** Botanical Gardens & Valley, Serbithang
 * **Punakha**<br />Chimi Lhakhang (Fertility Temple) **■** City of  Mo Chhu & Po Chhu rivers **■** Khamsum Yulley Namgyel Chorten **■**  Punakha Dzong **■** Punakha Dzong river front
 * **Phobjikha Valley** <br />
   (day trip from Punakha) <br />Walking around the valley **■** Crane muesum
@@ -51,7 +51,7 @@ visible: 0
 
 ## Photo Blog & trip details
 
-**Thimphu** <br />Buddha Dordenma & Kuensel Phodrang Park **■** Sangaygang View Point **■** Memorial Chorten/Stupa **■** Simply Bhutan Museum **■** Centenary Farmers Market & Craft Bazaar  **■** Institute for Zorig Chusum (13 Art & crafts) **■** Changlimithang Archery Ground **■** National Library **■** Ludrong Memorial Garden  **■**  Visit local bazaars  **■**  Tashi Chho Dzong - Fortress of Splendid Religion
+**Thimphu** <br />Buddha Dordenma & Kuensel Phodrang Park **■** Sangaygang View Point **■** Memorial Chorten/Stupa **■** Simply Bhutan Museum **■** Centenary Farmers Market & Craft Bazaar  **■** Institute for Zorig Chusum (13 Art & crafts) **■** Changlimithang Archery Ground **■** National Library **■** Ludrong Memorial Garden  **■**  Visit local bazaars  **■**  Tashi Chho Dzong - Fortress of Splendid Religion **■** Simtokha (=Semtokha) Dzong
 
 | ![1-Thimphu-1-BuddhaDdma(1)](../assets/img/Bhutan 2019/1-Thimphu-1-BuddhaDdma(1).gif) | ![1-Thimphu-1-Royal Palace](../assets/img/Bhutan 2019/1-Thimphu-1-Royal Palace.gif) |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
@@ -66,7 +66,7 @@ visible: 0
 
 
 
-**Dochula Pass, Serbithang National Park & Chimi Lhakhang** <br />(enroute Thimphu -> Punakha) <br />Simtokha (=Semtokha) Dzong **■** Dochula Pass **■** 108 chortens/stupa + Gangkar Puensum peak view **■** Botanical Gardens & Valley, Serbithang
+**Dochula Pass, Serbithang National Park & Chimi Lhakhang** <br />(enroute Thimphu -> Punakha) <br />Simtokha (=Semtokha) Dzong **■** 108 chortens/stupa + Gangkar Puensum peak view **■** Botanical Gardens & Valley, Serbithang
 
 | ![2-Dochula Pass & National Park (2)](../assets/img/Bhutan 2019/2-Dochula Pass & National Park (2).JPG) | ![2-Dochula Pass & National Park (1)](../assets/img/Bhutan 2019/2-Dochula Pass & National Park (1).JPG) |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
