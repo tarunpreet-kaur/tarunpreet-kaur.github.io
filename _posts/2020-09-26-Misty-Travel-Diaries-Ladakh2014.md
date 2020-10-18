@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Misty Travel Diaries - Ladakh, 2014
-subtitle: Leh, Pangong, Nubra Valley, Tso-Moriri 
+subtitle: Leh, Pangong, Nubra Valley & Turtuk, Tso-Moriri 
 gh-repo: daattali/beautiful-jekyll
 gh-badge: []
 tags: [travel, travel_asia, travel_india, travel_september]
