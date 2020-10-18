@@ -16,13 +16,10 @@ visible: 0
 
 **Cities visited**
 
-* **Leh**<br /><u>Leh</u>:
-Leh Palace **■** Leh local markets
-  <u>West of Leh</u>:
-  Chilling village **■** Alchi Monastery **■** Magnetic Hill **■** Gurudwara Shri Pathar Sahib **■**  Sangam of rivers Zanskar & Indus
-  <u>East of Leh</u>:
-  Holy Fish Pond @ Shey Palace **■** Shey Palace **■** Druk Padma Karpo School (of 3-Idiots fame) **■** Thiksey Monsatery
-**■** Hemis Monsatery
+* **Leh** 
+<u>Leh</u>: Leh Palace **■** Leh local markets 
+  <u>West of Leh</u>: Chilling village **■** Alchi Monastery **■** Magnetic Hill **■** Gurudwara Shri Pathar Sahib **■**  Sangam of rivers Zanskar & Indus
+  <u>East of Leh</u>: Holy Fish Pond @ Shey Palace **■** Shey Palace **■** Druk Padma Karpo School (of 3-Idiots fame) **■** Thiksey Monsatery **■** Hemis Monsatery
 * **Pangong Lake** (1 day trip from Leh):
   Chang La (Pass) **■** Chagar (White) Tso (Lake) **■** Pangong Lake (Tso Pangong)
 * **Nubra Valley & Turtuk** (3 days trip from Leh)
