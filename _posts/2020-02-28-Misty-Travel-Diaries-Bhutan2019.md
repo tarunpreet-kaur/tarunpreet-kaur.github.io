@@ -18,11 +18,11 @@ visible: 0
 
 **Cities visited**
 
-* **Thimphu** <br />Buddha Dordenma & Kuensel Phodrang Park **■** Sangaygang View Point **■** Memorial Chorten/Stupa **■** Simply Bhutan Museum **■** Centenary Farmers Market & Craft Bazaar  **■** Institute for Zorig Chusum (13 Art & crafts) **■** Changlimithang Archery Ground **■** National Library **■** Ludrong Memorial Garden  **■**  Visit local bazaars  **■**  Tashi Chho Dzong - Fortress of Splendid **■** ReligionSimtokha (=Semtokha) Dzong
-* **Dochula Pass ■ Serbithang** <br />(enroute Thimphu -> Punakha) <br />108 chortens/stupa + Gangkar Puensum peak view **■** Botanical Gardens & Valley, Serbithang
-* **Punakha**<br />Chimi Lhakhang (Fertility Temple) **■** City of  Mo Chhu & Po Chhu rivers **■** Khamsum Yulley Namgyel Chorten **■**  Punakha Dzong **■** Punakha Dzong river front
+* **Thimphu** <br />Buddha Dordenma & Kuensel Phodrang Park **■** Sangaygang View Point **■** Memorial Chorten/Stupa **■** Simply Bhutan Museum **■** Centenary Farmers Market & Craft Bazaar  **■** Institute for Zorig Chusum (13 Art & crafts) **■** Changlimithang Archery Ground **■** National Library **■** Ludrong Memorial Garden  **■**  Visit local bazaars  **■**  Tashi Chho Dzong - Fortress of SplendidReligion **■** Simtokha (=Semtokha) Dzong
+* **Dochula Pass ■ Serbithang** <br />(enroute Thimphu -> Punakha) <br />??? **■** 108 chortens/stupa + Gangkar Puensum peak view **■** Botanical Gardens & Valley, Serbithang
+* **Punakha**<br />Chimi Lhakhang (Fertility Temple) **■** Mo Chhu & Po Chhu rivers **■** Khamsum Yulley Namgyel Chorten **■** Punakha Dzong **■** Punakha Dzong river front
 * **Phobjikha Valley** <br />
-  (day trip from Punakha) <br />Walking around the valley **■** Crane muesum
+  (day trip from Punakha) <br />Walking around the valley **■** Crane museum
 * **Paro** <br />Tiger's Nest trek **■** Rinpung Dzong (Paro Dzong) **■** Rinpung Dzong riverside **■** Gangtey Palace **■** Airport & Paro valley view
 * **Chela La Pass & Haa Valley** <br />(day trip from Paro)
 
@@ -75,7 +75,7 @@ visible: 0
 | ![2-Dochula Pass & National Park (7)](../assets/img/Bhutan 2019/2-Dochula Pass & National Park (7).JPG) | ![2-Dochula Pass & National Park (6)](../assets/img/Bhutan 2019/2-Dochula Pass & National Park (6).JPG) |
 | ![2-Dochula Pass & National Park (5)](../assets/img/Bhutan 2019/2-Dochula Pass & National Park (5).JPG) | ![2-Dochula Pass & National Park (10)](../assets/img/Bhutan 2019/2-Dochula Pass & National Park (10).jpg) |
 
-**Punakha**
+**Punakha** <br />Chimi Lhakhang (Fertility Temple) **■** Mo Chhu & Po Chhu rivers **■** Khamsum Yulley Namgyel Chorten **■** Punakha Dzong **■** Punakha Dzong river front
 
 | ![3a-Punakha (5)](../assets/img/Bhutan 2019/3a-Punakha (5).JPG) | ![3a-Punakha (8)](../assets/img/Bhutan 2019/3a-Punakha (8).JPG) |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -87,7 +87,8 @@ visible: 0
 
 
 
-**Phobjikha Valley**
+**Phobjikha Valley**<br />
+(day trip from Punakha): Take a walk around the valley **■** Crane museum
 
 | ![3b-Punakha - Phobjikha Valley (4)](../assets/img/Bhutan 2019/3b-Punakha - Phobjikha Valley (4).JPG) | ![3b-Punakha - Phobjikha Valley (7)](../assets/img/Bhutan 2019/3b-Punakha - Phobjikha Valley (7).JPG) |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -98,6 +99,7 @@ visible: 0
 
 
 **Paro**
+Tiger's Nest trek **■** Rinpung Dzong (Paro Dzong) **■** Rinpung Dzong riverside **■** Gangtey Palace **■** Airport & Paro valley view
 
 | ![4a-Paro (2)](../assets/img/Bhutan 2019/4a-Paro (2).JPG)   | ![4a-Paro (3)](../assets/img/Bhutan 2019/4a-Paro (3).JPG)    |
 | :---------------------------------------------------------- | :----------------------------------------------------------- |
