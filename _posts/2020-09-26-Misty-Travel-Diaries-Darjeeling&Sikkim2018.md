@@ -35,9 +35,9 @@ Tiger Hill **■** Batasia Loop **■** Tenzing & Gombu Rock **■** Himalayan M
 
 **What I missed but recommend**
 
-* Lava day trip & Neora Valley National Park - I recommend if you have 1 or 2 more spare days
+* Lava day trip & Neora Valley National Park
 * Kalimpong (West Bengal) day trip from Darjeeling
-  Pine View Nursery **■** Durpin Monastery **■** Mangal Dham **■** Deolo Hill **■** Lord Buddha Statue **■** Tista and rangit river view point and Lamahatta 
+  Pine View Nursery **■** Durpin Monastery **■** Mangal Dham **■** Deolo Hill **■** Lord Buddha Statue **■** Tista and Rangit river view point and Lamahatta 
 * Darjeeling (can be checked if there is surplus time)
   Toy Train ride  **■**  Darjeeling Ropeway **■**  Old Ghoom Monastery
 
