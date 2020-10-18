@@ -19,10 +19,19 @@ visible: 0
 **Cities visited**
 
 * **Thimphu**<br />
-* **Dochula Pass & Serbithang** (on the way from Thimphu -> Punakha)
+  Buddha Dordenma & Kuensel Phodrang Park **■** Sangaygang View Point **■** Memorial Chorten/Stupa **■** Simply Bhutan Museum **■** Bhuatanese Village **■** Centenary Farmers Market & Craft Bazaar  **■** Institute for Zorig Chusum - 13 Art and craft **■** Changlimithang Archery Ground **■** National Library **■** Ludrong Memorial Garden  **■**  Visit local bazaars  **■**  Tashi Chho Dzong - Fortress of Splendid Religion
+
+* **Dochula Pass & Serbithang** (on the way from Thimphu -> Punakha) <br />
+  Simtokha (=Semtokha) Dzong **■** Dochula Pass **■** 108 chortens/stupa + Gangkar Puensum peak view **■** Botanical Gardens & Valley, Serbithang
+
 * **Punakha**<br />
+
+  Chimi Lhakhang (Fertility Temple) **■** City of  Mo Chhu & Po Chhu rivers **■** Khamsum Yulley Namgyel Chorten **■**  Punakha Dzong **■** Punakha Dzong river front (Rating: 5/5)
+
 * **Phobjikha Valley** (day trip from Punakha)
+
 * **Paro**<br />
+
 * **Chela La Pass & Haa Valley** (day trip from Paro)
 
 **Other details**
