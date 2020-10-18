@@ -32,7 +32,7 @@ visible: 0
 * **Budget:** INR 92,000 (USD 1,250) per person
   <u>Excluding</u>: Flight Ticket (INR 63,000 return ticket from India), Visa Fees, Shopping
   <u>Including</u>: Hotel / Homestay, Inter & Intra City Travel including train fare, Food, Entry fees 
-* **What I missed but highly recommend:**</br>
+* **What I missed but highly recommend:** <br />
   khfsdkh
 * **Austria**::Vienna **■** Salzburg **■** Kaprun **■** Zell am See
 
@@ -47,7 +47,7 @@ visible: 0
 * **Days:** 13
 
 * **Budget:** INR 92,000 (USD 1,250) per person
-   <u>Excluding</u>: Flight Ticket (INR 63,000 return ticket from India), Visa Fees, Shopping
+   <u>Excluding</u>: Flight Ticket (INR 63,000 return ticket from India), Visa Fees, Shopping <br />
    <u>Including</u>: Hotel / Homestay, Inter & Intra City Travel including train fare, Food, Entry fees
 
 * **What I missed but highly recommend**
