@@ -31,9 +31,8 @@ visible: 0
    Rates included are for the Rented car (10+2 seater) shared by 6 adults & 2 kids
    <u>Excluding</u>: Flight Ticket (INR 20,000 return ticket from India), Shopping 
    <u>Including</u>: Hotel, Rented car + Driver + Guide for Inter & Intra City Travel, Food, Entry fees
-* **Download Itinerary:**   [Itinerary Bhutan 2019.pdf](..\assets\pdf\Itinerary Bhutan 2019.pdf) 
-
-
+   
+   
 
 ## Travel Itinerary
 
