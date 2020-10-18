@@ -16,10 +16,10 @@ visible: 0
 
 **Countries & Cities visited**
 
-* **Netherlands**::Amsterdam, Zaanse Schans, Harleem, Giethoorn<br />
+* **Netherlands**::Amsterdam **■** Zaanse Schans **■** Harleem **■** Giethoorn<br />
 * **Belgium**::Bruges<br />
-* **Germany**::Cologne, Munich<br />
-* **Austria**::Vienna, Salzburg, Kaprun, Zell am See
+* **Germany**::Cologne **■** Munich<br />
+* **Austria**::Vienna **■** Salzburg **■** Kaprun **■** Zell am See
 
 
 
