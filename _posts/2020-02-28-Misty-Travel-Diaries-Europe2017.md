@@ -35,9 +35,9 @@ visible: 0
   <u>Excluding</u>: Flight Ticket (INR 63,000 return ticket from India), Visa Fees, Shopping
   <u>Including</u>: Hotel / Homestay, Inter & Intra City Travel including train fare, Food, Entry fees 
 
-* **What I missed but highly recommend:** 
+* **What I missed but highly recommend:**
 
-  aaa
+  
 
 **Other details**
 
