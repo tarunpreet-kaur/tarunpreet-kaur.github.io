@@ -20,13 +20,13 @@ visible: 0
 
 * **Darjeeling**<br />
 Tiger Hill **■** Batasia Loop **■** Tenzing & Gombu Rock **■** Himalayan Mountaineering Institute (HMI)  **■** Padmaja Naidu Himalayan Zoo **■** Ranjeet Tea Garden **■** Japanese Peace Pagoda **■** Tibetan Refugee Camp  **■** Gangamaya Park & Rock Garden **■** Happy Valley Tea Garden  **■**  Chaurasta (Local Market)
-* **Gangtok** 
+* **Gangtok** <br />
   Changu Lake (Tsomgo) **■** Baba Harbhajan Singh Mandir **■** Rumtek Monsatery **■** Namgyal Institute of Tibetology  **■** Ropeway Cable Ride **■** Ranka Monastery **■** Sikkim Paragliding **■** Banjakhari Waterfalls **■** Tashi View Point **■** Hanuman Tok **■** MG Road
-* **Namchi & Ravangla** (en-route Gangtok to Tashiding)
+* **Namchi & Ravangla** <br />(en-route Gangtok to Tashiding) <br />
   Tarey Bhir Namchi **■** Char Dham Namchi **■**  Temi Tea Gardens **■** Tathagata Tsal (Ravangla Buddha Park)
-* **Tashiding**
+* **Tashiding**<br />
   Coronation Place **■** Bonfire, local wine, dine dance at our Guide's home **■** Tashiding Monsatary Trek **■** Riverside Picnic (Music, Karaoke, Beer & Food arranged by our Guide)
-* **Pelling**
+* **Pelling**<br />
   Kanchenjunga Waterfalls **■** Khecheopalri Lake & Trek **■** Kanchenjunga sunrise **■** Dantem Valley **■** Singashore Bridge **■** Sangacholi Skywalk **■** Orange Gardens
 
 **Other details**
