@@ -119,7 +119,7 @@ Tiger Hill **■** Batasia Loop **■** Tenzing & Gombu Rock **■** Himalayan M
 | <img src="../assets/img/Sikkim&amp;Darjeeling 2018/6-Pelling-SingashoreBrigde (2).JPG" alt="6-Pelling-SingashoreBrigde (2)" style="zoom:150%;" /> | ![6-Pelling-SingashoreBrigde (3)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling-SingashoreBrigde (3).JPG) |
 | ![6-Pelling SS (KanchenjungaWaterfalls, Khecheopalri Lake) (7)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling SS (KanchenjungaWaterfalls, Khecheopalri Lake) (7).JPG) | ![6-Pelling SS (KanchenjungaWaterfalls, Khecheopalri Lake) (8)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling SS (KanchenjungaWaterfalls, Khecheopalri Lake) (8).JPG) |
 | ![6-Pelling SS (KanchenjungaWaterfalls, Khecheopalri Lake) (23)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling SS (KanchenjungaWaterfalls, Khecheopalri Lake) (23).JPG) | ![6-Pelling SS (KanchenjungaWaterfalls, Khecheopalri Lake) (24)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling SS (KanchenjungaWaterfalls, Khecheopalri Lake) (24).JPG) |
-| ![6-Pelling](../assets/img/Sikkim&Darjeeling 2018/6-Pelling.JPG) | ![6-Pelling-Retreat108 (42)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling-Retreat108 (42).JPG) |
+| ![6-Pelling-Retreat108 (1)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling-Retreat108 (1).JPG) | ![6-Pelling-Retreat108 (42)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling-Retreat108 (42).JPG) |
 
 
 
