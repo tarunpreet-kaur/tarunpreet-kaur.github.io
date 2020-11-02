@@ -37,11 +37,9 @@ Tiger Hill **■** Batasia Loop **■** Tenzing & Gombu Rock **■** Himalayan M
 
 **What I missed but recommend (if spare time)**
 
-* <u>Kalimpong</u> (West Bengal) day trip from Darjeeling - Pine View Nursery **■** Durpin Monastery **■** Mangal Dham **■** Deolo Hill **■** Lord Buddha Statue **■** Tista and Rangit river view point and Lamahatta
-* Lava (West Bengal) day trip from Darjeeling
-* Neora Valley National Park (1 or 2 more spare days)
-* <u>Darjeeling</u>::Steam engine Train ride  **■**  Darjeeling Ropeway **■**  Old Ghoom Monastery
-* <u>Gangtok</u>::Rumtek Monastery  **■**  Nathang Valley (during Changu Lake/Baba mandir/NathuLa trip)  **■**  Lachung, Yumthang, Gurudongmar Lake, Cholamu (Tso Lhamo) Lake (3 days trip)
+* **When:** December, 2018
+* **Days:** 10
+* **Budget:** To be updated
 
 
 
