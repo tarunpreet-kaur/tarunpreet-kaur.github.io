@@ -18,15 +18,15 @@ visible: 0
 
 **Cities visited**
 
-* **Darjeeling**<br />
+* **West Bangal::Darjeeling**<br />
 Tiger Hill **■** Batasia Loop **■** Tenzing & Gombu Rock **■** Himalayan Mountaineering Institute (HMI)  **■** Padmaja Naidu Himalayan Zoo **■** Ranjeet Tea Garden **■** Japanese Peace Pagoda **■** Tibetan Refugee Camp  **■** Gangamaya Park & Rock Garden **■** Happy Valley Tea Garden  **■**  Chaurasta (Local Market)
-* **Gangtok** <br />
+* **Sikkim::Gangtok** <br />
   Changu Lake (Tsomgo) **■** Baba Harbhajan Singh Mandir **■** NathuLa **■** Rumtek Monsatery **■** Namgyal Institute of Tibetology  **■** Ropeway Cable Ride **■** Ranka Monastery **■** Sikkim Paragliding **■** Banjakhari Waterfalls **■** Tashi View Point **■** Hanuman Tok **■** MG Road
-* **Namchi & Ravangla** <br />(en-route Gangtok to Tashiding) <br />
+* **Sikkim::Namchi & Ravangla** <br />(en-route Gangtok to Tashiding) <br />
   Tarey Bhir Namchi **■** Char Dham Namchi **■**  Temi Tea Gardens **■** Tathagata Tsal (Ravangla Buddha Park)
-* **Tashiding**<br />
+* **Sikkim::Tashiding**<br />
   Coronation Place **■** Bonfire, local wine, dine dance at our Guide's home **■** Tashiding Monsatary Trek **■** Riverside Picnic (Music, Karaoke, Beer & Food arranged by our Guide)
-* **Pelling**<br />
+* **Sikkim::Pelling**<br />
   Kanchenjunga Waterfalls **■** Khecheopalri Lake & Trek **■** Kanchenjunga sunrise **■** Dantem Valley **■** Singashore Bridge **■** Sangacholi Skywalk **■** Orange Gardens
 
 **Other details**
@@ -107,13 +107,24 @@ Tiger Hill **■** Batasia Loop **■** Tenzing & Gombu Rock **■** Himalayan M
 
 **Pelling::**Kanchenjunga Waterfalls **■** Khecheopalri Lake & Trek **■** Kanchenjunga sunrise **■** Dantem Valley **■** Singashore Bridge **■** Sangacholi Skywalk **■** Orange Gardens
 
+| ![6-Pelling SS SangacholiSkywalk (3)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling SS SangacholiSkywalk (3).JPG) | ![6-Pelling SS SangacholiSkywalk (1)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling SS SangacholiSkywalk (1).JPG) |
+| :----------------------------------------------------------- | ------------------------------------------------------------ |
+| ![6-Pelling SS SangacholiSkywalk (5)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling SS SangacholiSkywalk (5).JPG) | ![6-Pelling SS SangacholiSkywalk (7)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling SS SangacholiSkywalk (7).JPG) |
+| ![6-Pelling SS SangacholiSkywalk (2)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling SS SangacholiSkywalk (2).JPG) | ![6-Pelling SS SangacholiSkywalk (6)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling SS SangacholiSkywalk (6).JPG) |
+| ![6-Pelling SS SangacholiSkywalk (9)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling SS SangacholiSkywalk (9).JPG) | ![6-Pelling SS SangacholiSkywalk (4)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling SS SangacholiSkywalk (4).JPG) |
+| ![6-Pelling SS SangacholiSkywalk (8)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling SS SangacholiSkywalk (8).JPG) | ![6-Pelling SS SangacholiSkywalk (10)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling SS SangacholiSkywalk (10).JPG) |
+| ![6-Pelling-RedFlowers (22)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling-RedFlowers (22).JPG) | ![6-Pelling-RedFlowers (10)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling-RedFlowers (10).JPG) |
+| <img src="../assets/img/Sikkim&amp;Darjeeling 2018/6-Pelling-Orange Tree.jpg" alt="6-Pelling-Orange Tree" style="zoom:150%;" /> | ![6-Pelling-Retreat108 (42)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling-Retreat108 (42).JPG) |
+| ![6-Pelling-SingashoreBrigde (1)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling-SingashoreBrigde (1).JPG) | ![6-Pelling-SingashoreBrigde (6)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling-SingashoreBrigde (6).JPG) |
+| ![6-Pelling-SingashoreBrigde (2)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling-SingashoreBrigde (2).JPG) | ![6-Pelling-SingashoreBrigde (3)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling-SingashoreBrigde (3).JPG) |
+
+
+
+**Tashiding::**Coronation Place **■** Bonfire, local wine, dine dance at our Guide's home **■** Tashiding Monsatary Trek **■** Riverside Picnic (Music, Karaoke, Beer & Food arranged by our Guide)
+
 |      |      |
 | :--- | ---- |
 |      |      |
-
-
-
-
 
 ## Video Blog
 
