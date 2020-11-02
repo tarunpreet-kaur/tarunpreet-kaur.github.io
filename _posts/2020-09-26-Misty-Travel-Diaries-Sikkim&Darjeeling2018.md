@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Misty Travel Diaries - Sikkim & Darjeeling, 2018
+title: Misty Travel Diaries - Darjeeling & Sikkim, 2018
 subtitle: Darjeeling, Gangtok, Namchi-Ravangla, Tashiding, Pelling 
 gh-repo: daattali/beautiful-jekyll
 gh-badge: []
