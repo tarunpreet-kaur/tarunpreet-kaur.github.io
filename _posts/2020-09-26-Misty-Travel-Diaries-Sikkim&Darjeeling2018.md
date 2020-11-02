@@ -93,14 +93,21 @@ Tiger Hill **■** Batasia Loop **■** Tenzing & Gombu Rock **■** Himalayan M
 | ![4-Gang-ChanguLake-BabaMandir (5)](../assets/img/Sikkim&Darjeeling 2018/4-Gang-ChanguLake-BabaMandir (5).JPG) | <img src="../assets/img/Sikkim&amp;Darjeeling 2018/4-Gang-ChanguLake-BabaMandir (35).JPG" alt="4-Gang-ChanguLake-BabaMandir (35)" style="zoom:150%;" /> |
 | ![4-Gang-ChanguLake-BabaMandir (27)](../assets/img/Sikkim&Darjeeling 2018/4-Gang-ChanguLake-BabaMandir (27).JPG) | ![4-Gang-ChanguLake-BabaMandir (31)](../assets/img/Sikkim&Darjeeling 2018/4-Gang-ChanguLake-BabaMandir (31).JPG) |
 | <img src="../assets/img/Sikkim&amp;Darjeeling 2018/4-Gang-ChanguLake-BabaMandir (32).JPG" alt="4-Gang-ChanguLake-BabaMandir (32)" style="zoom:150%;" /> | ![4-Gang-ChanguLake-BabaMandir (33)](../assets/img/Sikkim&Darjeeling 2018/4-Gang-ChanguLake-BabaMandir (33).JPG) |
-| ![4-Gang-ChanguLake-BabaMandir (1)](../assets/img/Sikkim&Darjeeling 2018/4-Gang-ChanguLake-BabaMandir (1).JPG) | <img src="../assets/img/Sikkim&amp;Darjeeling 2018/4-Gang-ChanguLake-BabaMandir (2).JPG" alt="4-Gang-ChanguLake-BabaMandir (2)" style="zoom: 200%;" /> |
-| ![4-Gang-ChanguLake-BabaMandir (3)](../assets/img/Sikkim&Darjeeling 2018/4-Gang-ChanguLake-BabaMandir (3).JPG) | <img src="../assets/img/Sikkim&amp;Darjeeling 2018/4-Gang-ChanguLake-BabaMandir (4).JPG" alt="4-Gang-ChanguLake-BabaMandir (4)" style="zoom: 200%;" /> |
+| ![4-Gang-ChanguLake-BabaMandir (1)](../assets/img/Sikkim&Darjeeling 2018/4-Gang-ChanguLake-BabaMandir (1).JPG) | ![4-Gang-ChanguLake-BabaMandir (2)](../assets/img/Sikkim&Darjeeling 2018/4-Gang-ChanguLake-BabaMandir (2).JPG) |
+| ![4-Gang-ChanguLake-BabaMandir (3)](../assets/img/Sikkim&Darjeeling 2018/4-Gang-ChanguLake-BabaMandir (3).JPG) | ![4-Gang-ChanguLake-BabaMandir (4)](../assets/img/Sikkim&Darjeeling 2018/4-Gang-ChanguLake-BabaMandir (4).JPG) |
 
-**Namchi & Ravangla** (en-route Gangtok to Tashiding)::Tarey Bhir Namchi **■** Char Dham Namchi **■**  Temi Tea Gardens **■** Tathagata Tsal (Ravangla Buddha Park)
+**Namchi & Ravangla** (en-route Gangtok to Tashiding)::Tarey Bhir Namchi **■** Char Dham Namchi **■**  Temi Tea Gardens **■** Tathagata Tsal (Ravangla Buddha Park). We were caught in unexpected snowfall. It was beautiful and scary at the same time. Unfortunately we could not reach Ravangla Buddha Gardens and had to skip it. Some pics from Internet of the same. 
 
-|      |      |
-| :--- | ---- |
-|      |      |
+| ![5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (25)](../assets/img/Sikkim&Darjeeling 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (25).JPG) | ![5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (29)](../assets/img/Sikkim&Darjeeling 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (29).JPG) |
+| :----------------------------------------------------------- | ------------------------------------------------------------ |
+| ![5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (30)](../assets/img/Sikkim&Darjeeling 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (30).JPG) | <img src="../assets/img/Sikkim&amp;Darjeeling 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (30a).jpeg" alt="5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (30a)" style="zoom:80%;" /> |
+| ![5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (21)](../assets/img/Sikkim&Darjeeling 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (21).JPG) | ![5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (31)](../assets/img/Sikkim&Darjeeling 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (31).JPG) |
+| ![5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (23)](../assets/img/Sikkim&Darjeeling 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (23).JPG) | ![5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (24)](../assets/img/Sikkim&Darjeeling 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (24).JPG) |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
 
 **Pelling::**Kanchenjunga Waterfalls **■** Khecheopalri Lake & Trek **■** Kanchenjunga sunrise **■** Dantem Valley **■** Singashore Bridge **■** Sangacholi Skywalk **■** Orange Gardens
 
