@@ -100,14 +100,11 @@ Tiger Hill **■** Batasia Loop **■** Tenzing & Gombu Rock **■** Himalayan M
 
 | ![5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (25)](../assets/img/Sikkim&Darjeeling 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (25).JPG) | ![5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (29)](../assets/img/Sikkim&Darjeeling 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (29).JPG) |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
-| ![5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (30)](../assets/img/Sikkim&Darjeeling 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (30).JPG) | <img src="../assets/img/Sikkim&amp;Darjeeling 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (30a).jpeg" alt="5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (30a)" style="zoom:80%;" /> |
+| ![5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (30)](../assets/img/Sikkim&Darjeeling 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (30).JPG) | ![5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (30a)](../assets/img/Sikkim&Darjeeling 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (30a).jpeg) |
 | ![5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (21)](../assets/img/Sikkim&Darjeeling 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (21).JPG) | ![5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (31)](../assets/img/Sikkim&Darjeeling 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (31).JPG) |
 | ![5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (23)](../assets/img/Sikkim&Darjeeling 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (23).JPG) | ![5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (24)](../assets/img/Sikkim&Darjeeling 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (24).JPG) |
-|                                                              |                                                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
+| ![5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (27)](../assets/img/Sikkim&Darjeeling 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (27).JPG) | <img src="../assets/img/Sikkim&amp;Darjeeling 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (26).JPG" alt="5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (26)" style="zoom:80%;" /> |
+| <img src="../assets/img/Sikkim&amp;Darjeeling 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (28).JPG" alt="5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (28)" style="zoom: 200%;" /> | <img src="../assets/img/Sikkim&amp;Darjeeling 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (32).jpg" alt="5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (32)" style="zoom: 50%;" /> |
 
 **Pelling::**Kanchenjunga Waterfalls **■** Khecheopalri Lake & Trek **■** Kanchenjunga sunrise **■** Dantem Valley **■** Singashore Bridge **■** Sangacholi Skywalk **■** Orange Gardens
 
