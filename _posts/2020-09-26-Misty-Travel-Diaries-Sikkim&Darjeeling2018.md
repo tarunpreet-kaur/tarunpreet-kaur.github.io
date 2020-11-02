@@ -125,17 +125,17 @@ Tiger Hill **■** Batasia Loop **■** Tenzing & Gombu Rock **■** Himalayan M
 
 **Tashiding::**Coronation Place **■** Bonfire, local wine, dine dance at our Guide's home **■** Tashiding Monsatary Trek **■** Riverside Picnic (Music, Karaoke, Beer & Food arranged by our Guide)
 
-|      |      |
-| :--- | ---- |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
-|      |      |
+| ![7-Tashiding-Coronation Palace (4)](../assets/img/Sikkim&Darjeeling 2018/7-Tashiding-Coronation Palace (4).JPG) | ![7-Tashiding-Coronation Palace (2)](../assets/img/Sikkim&Darjeeling 2018/7-Tashiding-Coronation Palace (2).JPG) |
+| :----------------------------------------------------------- | ------------------------------------------------------------ |
+| ![7-Tashiding-Coronation Palace (3)](../assets/img/Sikkim&Darjeeling 2018/7-Tashiding-Coronation Palace (3).JPG) | ![7-Tashiding-Coronation Palace (1)](../assets/img/Sikkim&Darjeeling 2018/7-Tashiding-Coronation Palace (1).JPG) |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
 
 ## Video Blog
 
