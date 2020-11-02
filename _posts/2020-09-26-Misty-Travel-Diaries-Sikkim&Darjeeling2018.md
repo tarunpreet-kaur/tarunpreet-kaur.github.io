@@ -107,12 +107,12 @@ Tiger Hill **■** Batasia Loop **■** Tenzing & Gombu Rock **■** Himalayan M
 
 **Pelling::**Kanchenjunga Waterfalls **■** Khecheopalri Lake & Trek **■** Kanchenjunga sunrise **■** Dantem Valley **■** Singashore Bridge **■** Sangacholi Skywalk **■** Orange Gardens
 
-| ![6-Pelling SS SangacholiSkywalk (3)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling SS SangacholiSkywalk (3).JPG) | ![6-Pelling SS SangacholiSkywalk (1)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling SS SangacholiSkywalk (1).JPG) |
+| ![6-Pelling SS SangacholiSkywalk (8)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling SS SangacholiSkywalk (8).JPG) | ![6-Pelling SS SangacholiSkywalk (1)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling SS SangacholiSkywalk (1).JPG) |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
 | ![6-Pelling SS SangacholiSkywalk (5)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling SS SangacholiSkywalk (5).JPG) | ![6-Pelling SS SangacholiSkywalk (10)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling SS SangacholiSkywalk (10).JPG) |
 | ![6-Pelling SS SangacholiSkywalk (2)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling SS SangacholiSkywalk (2).JPG) | ![6-Pelling SS SangacholiSkywalk (6)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling SS SangacholiSkywalk (6).JPG) |
 | ![6-Pelling SS SangacholiSkywalk (9)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling SS SangacholiSkywalk (9).JPG) | ![6-Pelling SS SangacholiSkywalk (4)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling SS SangacholiSkywalk (4).JPG) |
-| ![6-Pelling SS SangacholiSkywalk (8)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling SS SangacholiSkywalk (8).JPG) | ![6-Pelling-Orange Tree](../assets/img/Sikkim&Darjeeling 2018/6-Pelling-Orange Tree.JPG) |
+| ![6-Pelling SS SangacholiSkywalk (3)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling SS SangacholiSkywalk (3).JPG) | ![6-Pelling-Orange Tree](../assets/img/Sikkim&Darjeeling 2018/6-Pelling-Orange Tree.jpg) |
 | ![6-Pelling-RedFlowers (22)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling-RedFlowers (22).JPG) | ![6-Pelling-RedFlowers (10)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling-RedFlowers (10).JPG) |
 | ![6-Pelling-Orange Gardens (3)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling-Orange Gardens (3).JPG) | ![6-Pelling-Orange Gardens (36)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling-Orange Gardens (36).JPG) |
 | ![6-Pelling-SingashoreBrigde (1)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling-SingashoreBrigde (1).JPG) | ![6-Pelling-SingashoreBrigde (6)](../assets/img/Sikkim&Darjeeling 2018/6-Pelling-SingashoreBrigde (6).JPG) |
