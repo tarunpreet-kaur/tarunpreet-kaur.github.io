@@ -55,7 +55,7 @@ Tiger Hill **■** Batasia Loop **■** Tenzing & Gombu Rock **■** Himalayan M
 
 ![Itinerary Sikkim&Darjeeling 2018](../assets/img/Sikkim&Darjeeling 2018/Itinerary Sikkim&Darjeeling 2018.gif)
 
-**Travel Agent:** Mr. Phurba Gunss (Connecting Northeast) ; Instagram: [Connecting Northeast](https://www.instagram.com/connectingnortheast/) ; Contact: +91 ??
+**Travel Agent:** Mr. Phurba Gunss (Connecting Northeast) ; [Instagram](https://www.instagram.com/connectingnortheast/) ; [Facebook](https://www.facebook.com/ConnectingNortheast/)  ; [Website](http://www.connectingnortheast.com/) ; Contact: +91 83720 38491
 
 ## Photo Blog & trip details
 
