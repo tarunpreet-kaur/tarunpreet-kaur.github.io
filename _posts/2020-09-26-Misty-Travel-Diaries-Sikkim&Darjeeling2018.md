@@ -38,16 +38,12 @@ Tiger Hill **■** Batasia Loop **■** Tenzing & Gombu Rock **■** Himalayan M
 **What I missed but recommend (if spare time)**
 
 * <u>Kalimpong</u> (West Bengal) day trip from Darjeeling - Pine View Nursery **■** Durpin Monastery **■** Mangal Dham **■** Deolo Hill **■** Lord Buddha Statue **■** Tista and Rangit river view point and Lamahatta
-
 * Lava (West Bengal) day trip from Darjeeling
-
 * Neora Valley National Park (1 or 2 more spare days)
-
 * <u>Darjeeling</u>::Steam engine Train ride  **■**  Darjeeling Ropeway **■**  Old Ghoom Monastery
-
 * <u>Gangtok</u>::Rumtek Monastery  **■**  Nathang Valley (during Changu Lake/Baba mandir/NathuLa trip)  **■**  Lachung, Yumthang, Gurudongmar Lake, Cholamu (Tso Lhamo) Lake (3 days trip)
 
-  
+
 
 ## Travel Itinerary
 
@@ -135,7 +131,9 @@ Tiger Hill **■** Batasia Loop **■** Tenzing & Gombu Rock **■** Himalayan M
 | ![20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (4)](../assets/img/Sikkim&Darjeeling 2018/20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (4).JPG) | ![20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (6)](../assets/img/Sikkim&Darjeeling 2018/20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (6).JPG) |
 | ![20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (7)](../assets/img/Sikkim&Darjeeling 2018/20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (7).JPG) | ![20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (9)](../assets/img/Sikkim&Darjeeling 2018/20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (9).JPG) |
 | ![7. Tashiding-Party@ Phurba'sHome (21)](../assets/img/Sikkim&Darjeeling 2018/7. Tashiding-Party@ Phurba'sHome (21).JPG) | ![7. Tashiding-Party@ Phurba'sHome (35)](../assets/img/Sikkim&Darjeeling 2018/7. Tashiding-Party@ Phurba'sHome (35).JPG) |
-| ![20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (12)](../assets/img/Sikkim&Darjeeling 2018/20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (12).JPG) | ![7. Tashiding-Party@ Phurba'sHome (35)](../assets/img/Sikkim&Darjeeling 2018/7. Tashiding-Party@ Phurba'sHome (35).JPG) |
+| ![20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (12)](../assets/img/Sikkim&Darjeeling 2018/20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (12).JPG) | ![7. Tashiding-Party@ Phurba'sHome (16)](../assets/img/Sikkim&Darjeeling 2018/7. Tashiding-Party@ Phurba'sHome (16).JPG) |
+
+
 
 ## Video Blog
 
