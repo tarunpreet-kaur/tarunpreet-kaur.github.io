@@ -128,14 +128,14 @@ Tiger Hill **■** Batasia Loop **■** Tenzing & Gombu Rock **■** Himalayan M
 | ![7-Tashiding-Coronation Palace (4)](../assets/img/Sikkim&Darjeeling 2018/7-Tashiding-Coronation Palace (4).JPG) | ![7-Tashiding-Coronation Palace (2)](../assets/img/Sikkim&Darjeeling 2018/7-Tashiding-Coronation Palace (2).JPG) |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
 | ![7-Tashiding-Coronation Palace (3)](../assets/img/Sikkim&Darjeeling 2018/7-Tashiding-Coronation Palace (3).JPG) | ![7-Tashiding-Coronation Palace (1)](../assets/img/Sikkim&Darjeeling 2018/7-Tashiding-Coronation Palace (1).JPG) |
-|                                                              |                                                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
+| ![7-TashidingMonsataryTrek.JPG (5)](../assets/img/Sikkim&Darjeeling 2018/7-TashidingMonsataryTrek.JPG (5).JPG) | ![7-TashidingMonsataryTrek.JPG (3)](../assets/img/Sikkim&Darjeeling 2018/7-TashidingMonsataryTrek.JPG (3).JPG) |
+| ![7-TashidingMonsataryTrek.JPG (2)](../assets/img/Sikkim&Darjeeling 2018/7-TashidingMonsataryTrek.JPG (2).JPG) | ![7-TashidingMonsataryTrek.JPG (1)](../assets/img/Sikkim&Darjeeling 2018/7-TashidingMonsataryTrek.JPG (1).JPG) |
+| ![7-TashidingMonsataryTrek.JPG (0)](../assets/img/Sikkim&Darjeeling 2018/7-TashidingMonsataryTrek.JPG (0).JPG) | ![20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (8)](../assets/img/Sikkim&Darjeeling 2018/20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (8).JPG) |
+| ![20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (3)](../assets/img/Sikkim&Darjeeling 2018/20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (3).JPG) | ![20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (5)](../assets/img/Sikkim&Darjeeling 2018/20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (5).JPG) |
+| ![20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (4)](../assets/img/Sikkim&Darjeeling 2018/20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (4).JPG) | ![20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (6)](../assets/img/Sikkim&Darjeeling 2018/20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (6).JPG) |
+| ![20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (7)](../assets/img/Sikkim&Darjeeling 2018/20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (7).JPG) | ![20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (9)](../assets/img/Sikkim&Darjeeling 2018/20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (9).JPG) |
+| ![7. Tashiding-Party@ Phurba'sHome (21)](../assets/img/Sikkim&Darjeeling 2018/7. Tashiding-Party@ Phurba'sHome (21).JPG) | ![7. Tashiding-Party@ Phurba'sHome (35)](../assets/img/Sikkim&Darjeeling 2018/7. Tashiding-Party@ Phurba'sHome (35).JPG) |
+| ![20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (12)](../assets/img/Sikkim&Darjeeling 2018/20181231 (Day9) Tashiding SS (TashidingMonsataryTrek, Riverside picnic) (12).JPG) | ![7. Tashiding-Party@ Phurba'sHome (35)](../assets/img/Sikkim&Darjeeling 2018/7. Tashiding-Party@ Phurba'sHome (35).JPG) |
 
 ## Video Blog
 
