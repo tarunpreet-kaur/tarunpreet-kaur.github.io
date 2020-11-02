@@ -35,7 +35,7 @@ Tiger Hill **■** Batasia Loop **■** Tenzing & Gombu Rock **■** Himalayan M
 * **Days:** 10
 * **Budget:** To be updated
 
-**What I missed but recommend (if spare time)**
+**What I missed but recommend if time permits**
 
 * <u>Kalimpong</u> (West Bengal) day trip from Darjeeling - Pine View Nursery **■** Durpin Monastery **■** Mangal Dham **■** Deolo Hill **■** Lord Buddha Statue **■** Tista and Rangit river view point and Lamahatta
 * Lava (West Bengal) day trip from Darjeeling
@@ -57,7 +57,7 @@ Tiger Hill **■** Batasia Loop **■** Tenzing & Gombu Rock **■** Himalayan M
 
 **Darjeeling::**Tiger Hill **■** Batasia Loop **■** Tenzing & Gombu Rock **■** Himalayan Mountaineering Institute (HMI)  **■** Padmaja Naidu Himalayan Zoo **■** Ranjeet Tea Garden **■** Japanese Peace Pagoda **■** Tibetan Refugee Camp  **■** Gangamaya Park & Rock Garden **■** Happy Valley Tea Garden  **■**  Chaurasta (Local Market) 
 
-| ![1-Darj-RangneetTeaGarden,TenzingRock,HMI, Zoo,PeacePagoda,RockGarden (23)](../assets/img/Darjeeling & Sikkim 2018/1-Darj-RangneetTeaGarden,TenzingRock,HMI, Zoo,PeacePagoda,RockGarden (23).JPG) | <img src="../assets/img/Darjeeling & Sikkim 2018/1-Darj-RangneetTeaGarden,TenzingRock,HMI, Zoo,PeacePagoda,RockGarden (2).JPG" alt="1-Darj-RangneetTeaGarden,TenzingRock,HMI, Zoo,PeacePagoda,RockGarden (2)" style="zoom:150%;" /> |
+| ![1-Darj-RangneetTeaGarden,TenzingRock,HMI, Zoo,PeacePagoda,RockGarden (23)](../assets/img/Darjeeling & Sikkim 2018/1-Darj-RangneetTeaGarden,TenzingRock,HMI, Zoo,PeacePagoda,RockGarden (23).JPG) | <img src="../assets/img/Darjeeling & Sikkim 2018/1-Darj-RangneetTeaGarden,TenzingRock,HMI, Zoo,PeacePagoda,RockGarden (2).JPG" alt="1-Darj-RangneetTeaGarden,TenzingRock,HMI, Zoo,PeacePagoda,RockGarden (2)" /> |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
 | ![1-Darj-RangneetTeaGarden,TenzingRock,HMI, Zoo,PeacePagoda,RockGarden (27)](../assets/img/Darjeeling & Sikkim 2018/1-Darj-RangneetTeaGarden,TenzingRock,HMI, Zoo,PeacePagoda,RockGarden (27).JPG) | ![1-Darj-RangneetTeaGarden,TenzingRock,HMI, Zoo,PeacePagoda,RockGarden (30)](../assets/img/Darjeeling & Sikkim 2018/1-Darj-RangneetTeaGarden,TenzingRock,HMI, Zoo,PeacePagoda,RockGarden (30).JPG) |
 | ![1-Darj-RangneetTeaGarden,TenzingRock,HMI, Zoo,PeacePagoda,RockGarden (35)](../assets/img/Darjeeling & Sikkim 2018/1-Darj-RangneetTeaGarden,TenzingRock,HMI, Zoo,PeacePagoda,RockGarden (35).JPG) | ![1-Darj-RangneetTeaGarden,TenzingRock,HMI, Zoo,PeacePagoda,RockGarden (54)](../assets/img/Darjeeling & Sikkim 2018/1-Darj-RangneetTeaGarden,TenzingRock,HMI, Zoo,PeacePagoda,RockGarden (54).jpg) |
@@ -99,7 +99,7 @@ Tiger Hill **■** Batasia Loop **■** Tenzing & Gombu Rock **■** Himalayan M
 | ![5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (21)](../assets/img/Darjeeling & Sikkim 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (21).JPG) | ![5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (31)](../assets/img/Darjeeling & Sikkim 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (31).JPG) |
 | ![5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (23)](../assets/img/Darjeeling & Sikkim 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (23).JPG) | ![5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (24)](../assets/img/Darjeeling & Sikkim 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (24).JPG) |
 | ![5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (27)](../assets/img/Darjeeling & Sikkim 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (27).JPG) | <img src="../assets/img/Darjeeling & Sikkim 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (26).JPG" alt="5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (26)" style="zoom:80%;" /> |
-| <img src="../assets/img/Darjeeling & Sikkim 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (28).JPG" alt="5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (28)" style="zoom: 150%;" /> | <img src="../assets/img/Darjeeling & Sikkim 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (32).jpg" alt="5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (32)" style="zoom: 75%;" /> |
+| <img src="../assets/img/Darjeeling & Sikkim 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (28).JPG" alt="5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (28)" style="zoom: 130%;" /> | <img src="../assets/img/Darjeeling & Sikkim 2018/5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (32).jpg" alt="5-TareyBhir-Namchi-Snowfall@Ravangla-Tashiding (32)" style="zoom: 75%;" /> |
 
 **Pelling::**Kanchenjunga Waterfalls **■** Khecheopalri Lake & Trek **■** Kanchenjunga sunrise **■** Dantem Valley **■** Singashore Bridge **■** Sangacholi Skywalk **■** Orange Gardens
 
